@@ -1,0 +1,16 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{- template "title" . }} | {{ .Site.Title -}}</title>
+<meta name="description" content="{{ .Description }}">
+<meta name="keywords" content="{{ delimit .Keywords ", " }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="inLanguage" href="{{ "en-US" }}">
+<link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
+<link rel="stylesheet" href="{{ "normalize.min.css" | relURL }}">
+{{ $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+
+{{ "<!--" | safeHTML }}
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+{{ "-->" | safeHTML }}
