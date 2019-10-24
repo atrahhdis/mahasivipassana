@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-{{- partial "docs/shared" -}}
-<html>
+<html lang="{{ .Site.Language.Lang }}">
 
 <head>
   {{ partial "docs/html-head" . }}
@@ -14,12 +13,12 @@
       {{ partial "docs/menu" . }}
     </aside>
 
-    <div class="book-posts mr-auto">
+    <div class="book-posts">
       {{ partial "docs/mobile-header" . }}
       {{ template "main" . }}
+      {{ partial "docs/inject/footer" . }}
     </div>
   </main>
-  
 
   {{ partial "docs/inject/body" . }}
   {{ template "_internal/google_analytics_async.html" . }}

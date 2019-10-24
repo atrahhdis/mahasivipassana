@@ -1,11 +1,13 @@
+@import "normalize";
 @import "variables";
-@import "markdown";
 @import "utils";
+@import "markdown";
+@import "shortcodes";
 
 html {
   font-size: $font-size-base;
   letter-spacing: 0.33px;
-  scroll-behavior: initial;
+  scroll-behavior: smooth;
 }
 
 html,
@@ -18,7 +20,7 @@ body {
   color: $body-font-color;
   background: $body-background;
 
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   font-weight: $body-font-weight;
 
   text-rendering: optimizeLegibility;
@@ -36,7 +38,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-weight: 400;
+  font-weight: $body-font-weight;
 }
 
 a {
@@ -49,7 +51,7 @@ a {
 }
 
 img {
-  vertical-align: middle;
+  vertical-align: baseline;
 }
 
 aside nav ul {
@@ -66,7 +68,7 @@ aside nav ul {
   }
 
   a:hover {
-    opacity: .5;
+    opacity: 0.5;
   }
 
   ul {
@@ -77,6 +79,7 @@ aside nav ul {
 ul.pagination {
   display: flex;
   justify-content: center;
+  list-style-type: none;
 
   .page-item a {
     padding: $padding-16;
@@ -84,7 +87,6 @@ ul.pagination {
 }
 
 .container {
-  min-width: $container-min-width;
   max-width: $container-max-width;
   margin: 0 auto;
 }
@@ -107,14 +109,74 @@ ul.pagination {
   @include dark-links;
 }
 
+.book-section-flat {
+  margin-bottom: $padding-16 * 2;
+
+  &:not(:first-child) {
+    margin-top: $padding-16 * 2;
+  }
+
+  > a,
+  > span {
+    font-weight: bolder;
+  }
+
+  > ul {
+    padding-left: 0;
+  }
+}
+
 .book-page {
   min-width: $body-min-width;
+  flex-grow: 1;
   padding: $padding-16;
 }
 
 .book-header {
   margin-bottom: $padding-16;
   display: none;
+}
+
+.book-search {
+  position: relative;
+  margin: $padding-16 0;
+  border-bottom: 1px solid transparent;
+
+  &::after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+
+  input {
+    width: 100%;
+    padding: $padding-8;
+
+    border: 0;
+    border-radius: $padding-4;
+
+    background: $gray-100;
+
+    &:required + .book-search-spinner {
+      display: block;
+    }
+  }
+
+  .book-search-spinner {
+    position: absolute;
+    margin: $padding-8;
+    right: 0;
+    top: 0;
+
+    width: $padding-16;
+    height: $padding-16;
+
+    border: $padding-1 solid transparent;
+    border-top-color: $body-font-color;
+    border-radius: 50%;
+
+    @include spin(1s);
+  }
 }
 
 .book-toc {
@@ -128,31 +190,48 @@ ul.pagination {
     @include fixed;
   }
 
-  nav > ul > li {
-    margin: 0;
+  img {
+    height: 1em;
+  }
+
+  nav > ul > li:first-child {
+    margin-top: 0;
+  }
+
+  // Classes to hide nested levels of ToC (can be replaced by @for, but it's more clear like this)
+  &.level-1 ul ul,
+  &.level-2 ul ul ul,
+  &.level-3 ul ul ul ul,
+  &.level-4 ul ul ul ul ul,
+  &.level-5 ul ul ul ul ul ul,
+  &.level-6 ul ul ul ul ul ul ul {
+    display: none;
   }
 }
 
-.book-git-footer {
+.book-footer {
   display: flex;
-  margin-top: $padding-16;
+  padding-top: $padding-16;
   font-size: $font-size-14;
-  align-items: baseline;
 
   img {
-    width: $font-size-14;
-    vertical-align: bottom;
+    height: 1em;
   }
 }
 
 .book-posts {
   min-width: $body-min-width;
-  max-width: $sm-breakpoint;
+  max-width: $body-min-width * 2;
+  flex-grow: 1;
   padding: $padding-16;
 
   article {
     padding-bottom: $padding-16;
   }
+}
+
+.book-home {
+  padding: $padding-16;
 }
 
 // Responsive styles
@@ -174,6 +253,7 @@ aside nav,
 @media screen and (max-width: $sm-breakpoint) {
   .book-menu {
     margin-left: -$menu-width;
+    font-size: $font-size-base;
   }
 
   .book-header {
@@ -200,8 +280,15 @@ aside nav,
 // Extra space for big screens
 @media screen and (min-width: $container-max-width) {
   .book-page,
+  .book-posts,
   .book-menu nav,
   .book-toc nav {
     padding: $padding-16 * 2 $padding-16;
   }
 }
+
+// Add fonts
+@import "fonts";
+
+// Add custom defined styles
+@import "custom";

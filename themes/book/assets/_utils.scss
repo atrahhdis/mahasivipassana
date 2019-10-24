@@ -2,6 +2,18 @@
   display: flex;
 }
 
+.flex-auto {
+  flex: 1 1 auto;
+}
+
+.flex-even {
+  flex: 1 1;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .justify-start {
   justify-content: flex-start;
 }
@@ -26,12 +38,21 @@
   margin: 0 auto;
 }
 
-.mr-auto {
-  margin-right: auto;
+.text-center {
+  text-align: center;
 }
 
-.hide {
+.hidden {
   display: none;
+}
+
+@mixin spin($duration) {
+  animation: spin $duration ease infinite;
+  @keyframes spin {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
 }
 
 @mixin fixed {
@@ -44,7 +65,7 @@
 
 @mixin dark-links {
   a {
-    color: $nav-link-color;
+    color: $color-dark-link;
   }
 
   a.active {
