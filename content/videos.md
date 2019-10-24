@@ -3,7 +3,7 @@ title: Videos
 type: docs
 description : MVMR section with introductory videos regarding Mahasi Vipassana (Insight) meditation
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,videos,Burmese position,sitting meditation,walking meditation]
-bookShowToc: false
+bookToc: false
 ---
 # Useful Videos
 

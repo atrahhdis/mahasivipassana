@@ -3,7 +3,7 @@ title: Practice of Vipassana meditation Q&A
 type: docs
 description : Read 'What Is Vipassana Meditation and How Do You Practice It?' by Sayadaw U Pandita
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,Sayadaw U Pandita]
-bookShowToc: true
+bookToc: true
 ---
 
 # What Is Vipassana Meditation and How Do You Practice It?

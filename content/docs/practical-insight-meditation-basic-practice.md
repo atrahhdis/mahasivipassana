@@ -3,7 +3,7 @@ title: Practical Insight Meditation - Basic Practice
 type: docs
 description : Read and download in e-book (epub, azw3) format the 'Practical Insight Meditation - Basic Practice' by Mahasi Sayadaw
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,e-book,epub,azw3]
-bookShowToc: true
+bookToc: true
 ---
 # Practical Insight Meditation: Basic Practice
 

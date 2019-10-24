@@ -3,7 +3,7 @@ title: How To Meditate
 type: docs
 description: Read the book 'How To Meditate - A Beginner's Guide to Peace' by Yuttadhammo Bhikkhu
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,Yuttadhammo Bhikkhu,sitting meditation,walking meditation]
-bookShowToc: true
+bookToc: true
 ---
 # How To Meditate: A Beginner's Guide to Peace
 

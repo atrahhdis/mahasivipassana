@@ -3,7 +3,7 @@ title: The Manual of Insight
 type: docs
 description : An MVMR section dedicated to the Manual of Insight, a book by Mahasi Sayadaw
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,Manual of Insight,Progress of Insight,Steve Armstrong,George Haas] 
-bookShowToc: true
+bookToc: true
 ---
 
 # Resources for Mahasi Sayadaw's book "The Manual of Insight"

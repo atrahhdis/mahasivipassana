@@ -3,7 +3,7 @@ title: Buddhism
 type: docs
 description : MVMR section with suggested introductory books and videos about Buddhism.
 keywords: ["Buddhism","books","videos"] 
-bookShowToc: false
+bookToc: false
 ---
 
 # Buddhism Resources

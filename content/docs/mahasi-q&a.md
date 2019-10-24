@@ -3,7 +3,7 @@ title: Q&A with Mahasi Sayadaw
 type: docs
 description : Read and download in e-book (epub, azw3) format the 'Questions and Answers with Mahasi Sayadaw'
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,e-book,epub,azw3]
-bookShowToc: true
+bookToc: true
 ---
 
 # Questions and Answers with Mahasi Sayadaw

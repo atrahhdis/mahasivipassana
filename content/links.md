@@ -3,7 +3,7 @@ title: Links
 type: docs
 description : MVMR section with links relevant to Mahasi Vipassana (insight) meditation
 keywords: [Buddhism, Mahasi Sayadaw,Vipassana,insight meditation,links] 
-bookShowToc: false
+bookToc: false
 ---
 
 # Useful links

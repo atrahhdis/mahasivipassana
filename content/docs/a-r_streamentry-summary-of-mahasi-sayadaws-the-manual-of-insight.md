@@ -3,7 +3,7 @@ title: A r/streamentry summary of Mahasi Sayadaw's book "The Manual of Insight"
 type: docs
 description: Read and download in e-book (epub, azw3) format the 'A r/streamentry summary of Mahasi Sayadaw's book The Manual of Insight' by r/streamentry Reddit community
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,e-book,epub,azw3]
-bookShowToc: true
+bookToc: true
 ---
 
 # A r/streamentry summary of Mahasi Sayadaw's book "The Manual of Insight" 

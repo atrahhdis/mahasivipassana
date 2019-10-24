@@ -1,9 +1,10 @@
 ---
 title: Books
 type: docs
+bookToc: false
 description : MVMR book section regarding Mahasi Vipassana (insight) meditation and more
 keywords: [Buddhism, Mahasi Sayadaw,Vipassana,insight meditation,book,sirimangalo,aimwell,saraniya] 
-bookShowToc: false
+bookToc: false
 ---
 
 # Useful Books

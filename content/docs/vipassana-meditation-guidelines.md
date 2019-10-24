@@ -3,7 +3,7 @@ title: Vipassana Meditation Guidelines
 type: docs
 description : Read 'Vipassana Meditation Guidelines' by Chanmyay Sayadaw
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,Chanmyay Sayadaw]
-bookShowToc: true
+bookToc: true
 ---
 
 # Vipassana Meditation Guidelines

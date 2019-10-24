@@ -3,7 +3,7 @@ title: About mahasivipassana.com (MVMR)
 type: docs
 description : General information about MVMR (Mahasi Vipassana Meditation Resources)
 keywords: [about,information,github,hugo,calibre,pandoc] 
-bookShowToc: false
+bookToc: false
 ---
 
 # About

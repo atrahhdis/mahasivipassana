@@ -3,7 +3,7 @@ title: Welcome to MVMR
 type: docs
 description : Welcome to MVMR, a website regarding Mahasi Vipassana (Insight) meditation
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting] 
-bookShowToc: false
+bookToc: false
 ---
 
 # Welcome to Mahasi Vipassana Meditation Resources (MVMR)

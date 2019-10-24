@@ -3,7 +3,7 @@ title: Audio
 type: docs
 description : MVMR audio resources regarding Mahasi Vipassana (Insight) meditation
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,audio] 
-bookShowToc: false
+bookToc: false
 ---
 
 # Useful Audio

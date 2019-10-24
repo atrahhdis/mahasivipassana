@@ -3,7 +3,7 @@ title: Practical Vipassanā meditation exercises
 type: docs
 description : Read and download in e-book (epub, azw3) format the 'Practical Vipassanā meditation exercises' by Mahasi Sayadaw
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,e-book,epub,azw3]
-bookShowToc: true
+bookToc: true
 ---
 
 # Practical Vipassanā meditation exercises

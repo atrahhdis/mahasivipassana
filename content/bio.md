@@ -1,9 +1,10 @@
 ---
 title: Mahasi Sayadaw Bio
 type: docs
+bookToc: false
 description : Information about the life and work of Venerable Mahasi Sayadaw
 keywords: [Mahasi Sayadaw, biography] 
-bookShowToc: false
+bookToc: false
 ---
 
 # Mahasi Sayadaw Biography

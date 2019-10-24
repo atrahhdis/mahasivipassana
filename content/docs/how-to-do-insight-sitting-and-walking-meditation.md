@@ -3,7 +3,7 @@ title: Insight Sitting and Walking Meditation how-to
 type: docs
 description: Read 'How to Do Insight (Sitting and Walking) Meditation' by Sayadaw U Pandita
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,sitting meditation, walking meditation, Sayadaw U Pandita]
-bookShowToc: true
+bookToc: true
 ---
 
 # How to Do Insight (Sitting and Walking) Meditation
