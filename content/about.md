@@ -14,9 +14,9 @@ bookToc: false
 <br>
 ## Sources
 
-You can browse [MVMR]({{< ref "_index.md" >}}) sources [on Github] (https://github.com/sinkintothevoid/mahasivipassana).
+You can browse [MVMR]({{< ref "_index.md" >}}) sources [on Github] (https://github.com/atrahhdis/mahasivipassana).
 
-[All texts](https://github.com/sinkintothevoid/mahasivipassana/tree/master/content/docs) were written using [markdown](https://en.wikipedia.org/wiki/Markdown). 
+[All texts](https://github.com/atrahhdis/mahasivipassana/tree/master/content/docs) were written using [markdown](https://en.wikipedia.org/wiki/Markdown). 
 
 <br>
 ## E-books
