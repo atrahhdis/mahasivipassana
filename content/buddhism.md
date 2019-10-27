@@ -9,7 +9,7 @@ bookToc: false
 # Buddhism Resources
 
 
-Although practicing **Mahasi (Insight) Vipassana Meditation** does not require a Buddhist background, it's true that it's tightly connected with Buddhist tradition and philosophy.
+Although practicing **Mahasi (Insight) Vipassana Meditation** does not require a Buddhist background, it's true that it's tightly connected with (Theravada) Buddhist tradition and philosophy.
 
 If you don't know about Buddhism and you desire to get started, below you will find some useful resources.
 
@@ -19,6 +19,8 @@ Please note that the person behind this website does not follow any specific Bud
 ## Books
 
 - [What the Buddha Taught](https://en.wikipedia.org/wiki/What_the_Buddha_Taught) by [Wapola Rahula](https://en.wikipedia.org/wiki/Walpola_Rahula_Thero) (you can read it online by using [this link](https://sites.google.com/site/rahulawhatthebuddha/))
+
+- [Buddhism 101](https://www.arniekozak.com/buddhism-1#/buddhism-101/) by [Arnie Kozak](https://www.arniekozak.com/about)
 
 - [The heart of the Buddha's teaching](https://plumvillage.org/books/the-heart-of-the-buddhas-teaching/) by [Thich Nhat Hanh](https://plumvillage.org/about/thich-nhat-hanh/) 
 

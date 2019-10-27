@@ -10,9 +10,9 @@ bookToc: true
 
 ## About the book
 
-[The Manual of Insight](http://mahasimanualofinsight.org/) is the most comprehensive book/manual for the practice of Mahasi Vipassana (Insight) meditation.
+[The Manual of Insight](http://mahasimanualofinsight.org/) is the most comprehensive manual for the practice of Mahasi Vipassana (Insight) meditation.
 
-It is considered to be the magnus opus of Mahasi Sayadaw and it is a must read - *or even better a must study* - for practicioners interested in Mahasi Vipassana.
+It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}}) and it is a must read - *or even better a must study* - for practicioners interested in Mahasi Vipassana.
 
 
 <br>
@@ -66,11 +66,11 @@ The purpose of this book is not to be read instead of or before the "The Manual 
 
 
 <br>
-### Progress of Insight Map by MVMR
+### Progress of Insight Map
 
 [Download The Map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
 
-This map is just a simplified version of Steve Armstrong's map included in the Abhidhamma Reference Tables.
+This map is just a simplified version (created by MVMR) of Steve Armstrong's map included in the "Abhidhamma Reference Tables".
 
 
 <br>
@@ -80,7 +80,7 @@ The following tables were originally designed by [Steve Armstrong](http://vipass
 
 Appendix 1 is the **"Progress of Insight" map**, as covered in book's chapter 6. 
 
-- [Abhidhamma Reference Tables](https://mahasivipassana.com/downloads/pdf/Manual of Insight Charts_0.pdf) *([original source](https://www.wisdompubs.org/sites/default/files/Manual%20of%20Insight%20Charts_0.pdf))*
+- [Abhidhamma Reference Tables](https://mahasivipassana.com/downloads/pdf/Manual of Insight Charts_0.pdf) *(the original source is not available anymore)*
 
 <br>
 ### Steve Armstrong's series of talks regarding "The progress of insight"
