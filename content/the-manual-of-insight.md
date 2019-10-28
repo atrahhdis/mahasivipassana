@@ -17,7 +17,7 @@ It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}})
 **Chapter 5** of this book is the most easily understandable and practical guide for Mahasi Sayadaw's famous **noting technique**. The exact same text but with an older English translation, can also be found on this website by pressing this links:
 
 - [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}})
-[Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
+- [Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
 
 <br>
 ## Alternative translation
