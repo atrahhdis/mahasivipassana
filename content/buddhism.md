@@ -9,7 +9,7 @@ bookToc: false
 # Buddhism Resources
 
 
-Although practicing **Mahasi (Insight) Vipassana Meditation** does not require a Buddhist background, it's true that it's tightly connected with (Theravada) Buddhist tradition and philosophy.
+Although practicing **Mahasi (noting) Vipassana (Insight) Meditation** does not require a Buddhist background, it's true that it's tightly connected with (Theravada) Buddhist tradition and philosophy.
 
 If you don't know about Buddhism and you desire to get started, below you will find some useful resources.
 

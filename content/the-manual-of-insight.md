@@ -14,6 +14,10 @@ bookToc: true
 
 It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}}) and it is a must read - *or even better a must study* - for practicioners interested in Mahasi Vipassana.
 
+**Chapter 5** of this book is the most easily understandable and practical guide for Mahasi Sayadaw's famous **noting technique**. The exact same text but with an older English translation, can also be found on this website by pressing this links:
+
+- [Practical Insight Meditation: Basic Pracice]({{< ref "practical-insight-meditation-basic-practice/.md" >}})
+- [Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
 
 <br>
 ## Alternative translation
@@ -35,7 +39,7 @@ Below you may find an older (1984) and freely distributed translation of the sam
 
 ### Book summary/analysis on Reddit (r/streamentry)
 
- Back in 2017, people from [r/streamentry](https://www.reddit.com/r/streamentry/) organised an online [study group](https://www.reddit.com/r/streamentry/comments/6vejaf/theory_the_manual_of_insight_study_group/) for this book. Below you will find the outcome of their discussions, divided per chapter:
+ Back in 2017, members of [r/streamentry](https://www.reddit.com/r/streamentry/) organised an online [study group](https://www.reddit.com/r/streamentry/comments/6vejaf/theory_the_manual_of_insight_study_group/) for **The Manual of Insight**. Below you will find the outcome of their discussions, divided per chapter:
 
 Chapters [1](https://www.reddit.com/r/streamentry/comments/6z1k1w/theory_the_manual_of_insight_study_group_chapter_1/?sort=old), [2](https://www.reddit.com/r/streamentry/comments/71x62h/theory_the_manual_of_insight_study_group_chapter/?sort=old), [3](https://www.reddit.com/r/streamentry/comments/74v0ln/theory_the_manual_of_insight_study_group_chapter/?sort=old), [4](https://www.reddit.com/r/streamentry/comments/7aqso3/theory_the_manual_of_insight_study_group_chapter/?sort=old), [5](https://www.reddit.com/r/streamentry/comments/7fgoer/theory_the_manual_of_insight_study_group_chapter/?sort=old), [6](https://www.reddit.com/r/streamentry/comments/7v0fy6/theory_the_manual_of_insight_study_group_chapter/?sort=old), [7](https://www.reddit.com/r/streamentry/comments/83h2am/theory_the_manual_of_insight_study_group_chapter/?sort=old).
 
@@ -45,19 +49,19 @@ Chapters [1](https://www.reddit.com/r/streamentry/comments/6z1k1w/theory_the_man
 
 This e-book created by [MVMR]({{< ref "_index.md" >}}), is a collection of texts from the above [r/streamentry](https://www.reddit.com/r/streamentry/) online [study group](https://www.reddit.com/r/streamentry/comments/6vejaf/theory_the_manual_of_insight_study_group/). It contains the summaries of 3 [r/streamentry](https://www.reddit.com/r/streamentry/) members: [u/filpt](https://www.reddit.com/user/filpt), [u/TetrisMcKenna](https://www.reddit.com/user/TetrisMcKenna) and [u/xugan97](https://www.reddit.com/user/xugan97).
 
-The purpose of this book is not to be read instead of or before the "The Manual of Insight", but as an additional resource that will assist the reader to better understand Mahasi Sayadaw's book.
+The purpose of this book is not to be read instead of or before the **"The Manual of Insight"**, but as an additional resource that will assist the reader to better understand Mahasi Sayadaw's book.
 
-[**Read It Online**]({{< ref "a-r_streamentry-summary-of-mahasi-sayadaws-the-manual-of-insight.md" >}})
+- [**Read It Online**]({{< ref "a-r_streamentry-summary-of-mahasi-sayadaws-the-manual-of-insight.md" >}})
 
-**Downloads:**
+- **Downloads:**
 
-[epub](https://mahasivipassana.com/downloads/epub/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.epub)
+	[epub](https://mahasivipassana.com/downloads/epub/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.epub)
 
-[azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.azw3)
+	[azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.azw3)
 
-[mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.mobi)
+	[mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.mobi)
 
-[md (source)](https://mahasivipassana.com/downloads/md/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.md)
+	[md (source)](https://mahasivipassana.com/downloads/md/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.md)
 
 <sub>***e-book version:*** *2.1 - 2019-05-02*</sub>
 
@@ -106,9 +110,9 @@ In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) 
 
 [George Haas](https://www.mettagroup.org/about/) has created a 47 episode (in fact 45, as 2 of them deal with a different subject) podcast about (a part of ) the "Manual of Insight" named [Deepening Your Practice (DYP)](https://www.mettagroup.org/podcast/2016/6/15/episode-1-manual-of-insight-introduction). 
 
-**Note:** George Haas does not teach a pure Mahasi Vipassana technique, but a mixture of Metta/Vipassana. The above podcast deals with both the "Manual of Insight" book analysis and his own approach on meditation. 
+**Note:** George Haas (a student of Shinzen Young) does not teach Mahasi Vipassana, instead his approach is based on a  mixture of Metta/Vipassana techniques. His podcast deals with both the "Manual of Insight" book analysis and his own meditation method. 
 
-At the end of each lecture you may find meditation instructions that are not related with Mahasi's famous noting technique.
+At the end of each lecture you may find meditation instructions that are not related with Mahasi Sayadaw's famous noting technique.
 
 
 

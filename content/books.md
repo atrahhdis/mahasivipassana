@@ -9,7 +9,7 @@ bookToc: false
 
 # Useful Books
 
-Most of the Mahasi texts included in MVMR are offered in both **epub** and **azw3** (kindle) formats. 
+Most of the Mahasi Sayadaw's texts included in MVMR are offered in both **epub** and **azw3**/**mobi** (kindle) formats. You can access each text from the menu on the left and download them using the links on top of each page.
 
 In this section you will find additional material either not by Mahasi or by Mahasi but not referring specifically to his Vipassana (Insight) meditation technique.
 
