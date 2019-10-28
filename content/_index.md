@@ -10,16 +10,15 @@ bookToc: false
 
 On this website you will find all the information needed in order to learn the basics of **Vipassana (Insight) meditation** as taught by Venerable [Mahasi Sayadaw]({{< ref "bio.md" >}}).
 
-This meditation technique is widely known as **"Mahasi noting"**.
+**Mahasi Vipassana** meditation technique is widely known as **"Mahasi noting"**.
 
-Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) included in MVMR are **offered in e-book formats** for easier offline reading.
 
 <br>
 ## How to use this website
 
 It is highly suggested to **read all included Mahasi material**, as this will help you understand in depth the fundamentals of his famous Vipassana meditation **noting technique**.
 
-However, if you want to learn the basics in order to start meditating immediately, you can:
+However, if you only want to learn the basics in order to immediately start with your meditation practice, you can:
 
 - Read [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}})
 
@@ -27,6 +26,9 @@ However, if you want to learn the basics in order to start meditating immediatel
 
 
 - Watch the material suggested in the [Videos section]({{< ref "videos.md" >}}).
+
+<br>
+**Note:** Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) included in MVMR are **offered in e-book formats** for easier offline reading.
 
 
 <br>
