@@ -28,7 +28,7 @@ However, if you only want to learn the basics in order to immediately start with
 - Watch the material suggested in the [Videos section]({{< ref "videos.md" >}}).
 
 <br>
-**Note:** Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) included in MVMR are **offered in e-book formats** for easier offline reading.
+**Note:** Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) included in MVMR are **offered in downloadable e-book formats** for easier offline reading.
 
 
 <br>
