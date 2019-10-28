@@ -10,7 +10,7 @@ bookToc: false
 
 On this website you will find all the information needed in order to learn the basics of **Vipassana (Insight) meditation** as taught by Venerable [Mahasi Sayadaw]({{< ref "bio.md" >}}).
 
-This technique is nowadays widely known as **"Mahasi noting"**.
+This meditation technique is widely known as **"Mahasi noting"**.
 
 Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) included in MVMR are **offered in e-book formats** for easier offline reading.
 
