@@ -10,11 +10,11 @@ bookToc: true
 
 ## About the book
 
-[The Manual of Insight](http://mahasimanualofinsight.org/) is the most comprehensive manual for the practice of Mahasi Vipassana (Insight) meditation.
+[The Manual of Insight](http://mahasimanualofinsight.org/) is the most comprehensive guide for the practice of Mahasi Vipassana (Insight) meditation.
 
 It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}}) and it is a must read - *or even better a must study* - for practicioners interested in Mahasi Vipassana.
 
-**Chapter 5** of this book is the most easily understandable and practical guide for Mahasi Sayadaw's famous **noting technique**. The exact same text but with an older English translation, can also be found on this website by pressing this links:
+**Chapter 5** of this book is the most easily understandable and practical how-to for Mahasi Sayadaw's famous **noting technique**. The exact same text but with an older English translation, can also be found on this website by pressing these links:
 
 - [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}})
 - [Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
