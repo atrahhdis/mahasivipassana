@@ -127,5 +127,4 @@ You should be aware of all activities without exception. If there is a sound on 
 Continuity, restraint, and slowness will support your meditation.
 
 ---
-**Source:** [https://www.lionsroar.com/inner-victory](https://www.lionsroar.com/inner-victory) 
-Q
+**Source:** [https://www.lionsroar.com/inner-victory](https://www.lionsroar.com/inner-victory)
