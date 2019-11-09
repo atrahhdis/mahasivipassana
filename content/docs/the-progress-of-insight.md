@@ -25,7 +25,7 @@ bookToc: true
   * [IV. Purification by Overcoming Doubt](#iv-purification-by-overcoming-doubt)
     + [2. Knowledge by Discerning Conditionality](#2-knowledge-by-discerning-conditionality)
     + [3. Knowledge of Comprehension](#3-knowledge-of-comprehension)
-    + [4. Knowledge of Arising and Passing Away: The Ten Corruptions of Insight <sup><a href="#fn27" id="r27">[27]</a></sup>](#4-knowledge-of-arising-and-passing-away--the-ten-corruptions-of-insight--sup--a-href---fn27--id--r27---27---a---sup-)
+    + [4. Knowledge of Arising and Passing Away: The Ten Corruptions of Insight <sup><a href="#fn27" id="r27">[27]</a></sup>](#4-knowledge-of-arising-and-passing-away-the-ten-corruptions-of-insight-sup-a-href-fn27-id-r27-27-a-sup)
   * [V. Purification by Knowledge and Vision of What is Path and Not-path](#v-purification-by-knowledge-and-vision-of-what-is-path-and-not-path)
   * [VI. Purification by Knowledge and Vision of the Course of Practice](#vi-purification-by-knowledge-and-vision-of-the-course-of-practice)
     + [5. Knowledge of Dissolution](#5-knowledge-of-dissolution)
