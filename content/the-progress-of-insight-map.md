@@ -6,7 +6,7 @@ keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,Manual of
 bookToc: true
 ---
 
-# Progress of Insight Map
+# The Progress of Insight Map
 
 For an extended analysis of the map (stages) of the progress of insight, please read **Chapter 6** from the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
