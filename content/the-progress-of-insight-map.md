@@ -55,7 +55,7 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 
 ### Videos by Daniel Ingram
 
-Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user13532867) regarding PoI stages:
+Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user13532867) regarding the PoI stages:
 
 - [Ñana Graph Video](https://vimeo.com/69793499)
 - [Ñana and Jhana Mind Map Explained](https://vimeo.com/69475208)
