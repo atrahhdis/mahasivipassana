@@ -52,7 +52,7 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 
 - [The Path](https://alohadharma.com/the-map/), [The Physio-COgnitive Stage](https://alohadharma.com/the-map/the-physio-cognitive-stage/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://github.com/atrahhdis/alohadharma/) by [Ron Crouch](https://alohadharma.com/about/)
 
-
+<br>
 ### Videos by Daniel Ingram
 
 Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user13532867) regarding the PoI stages:
@@ -61,6 +61,7 @@ Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user1353
 - [Ñana and Jhana Mind Map Explained](https://vimeo.com/69475208)
 - [The Arising and Passing Away, A Short Rant](https://vimeo.com/317384445)
 
+<br>
 ### Note
 
 Although the Pragmatic Dharma movement is influenced by Mahasi Sayadaw's work, Daniel Ingram, Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
