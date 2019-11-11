@@ -19,7 +19,7 @@ Alternatively you can read a shorter text by Mahasi Sayadaw, available on our we
 
 This map is just a simplified version (created by MVMR) of Steve Armstrong's work included in the "Abhidhamma Reference Tables" found on the appendix of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
-[Progress of Insight Stages Map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
+[Progress of Insight Stages map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
 
 
 <br>
