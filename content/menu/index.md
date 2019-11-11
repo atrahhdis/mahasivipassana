@@ -14,6 +14,7 @@ headless: true
  - [Satipatthana Vipassana]({{< ref "/docs/satipatthana-vipassana.md" >}})
  - [The Progress of Insight]({{< ref "/docs/the-progress-of-insight.md" >}})
 - [**The Manual of Insight**]({{< ref "/the-manual-of-insight.md" >}})
+- [**The Progress of Insight Map**]({{< ref "/the-progress-of-insight-map.md" >}})
 - **Various Texts**
   - [Vipassana Meditation Guidelines]({{< ref "/docs/vipassana-meditation-guidelines.md" >}})
  - [How To Meditate]({{< ref "/docs/how-to-meditate-a-beginners-guide-to-peace.md" >}})

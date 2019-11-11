@@ -19,6 +19,11 @@ It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}})
 - [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}})
 - [Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
 
+
+In **Chapter 6** Mahasi Sayadaw provides an extended analysis on **map** of the progress of insight.
+
+For further information about this map, please read the relevant section of MVMR.
+
 <br>
 ## Alternative translation
 
@@ -68,42 +73,6 @@ The purpose of this book is not to be read instead of or before the **"The Manua
 
 [This is the link](https://www.reddit.com/r/streamentry/comments/ax7ayw/a_rstreamentry_summary_of_mahasi_sayadaws_book/) of the discussion about this e-book on [r/streamentry](https://www.reddit.com/r/streamentry/).
 
-
-<br>
-### Progress of Insight Map
-
-[Download The Map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
-
-This map is just a simplified version (created by MVMR) of Steve Armstrong's map included in the "Abhidhamma Reference Tables".
-
-
-<br>
-### Abhidhamma Reference Tables by Steve Armstrong
-
-The following tables were originally designed by [Steve Armstrong](http://vipassanametta.org/wp/teachers/) in 1987-88. They are currently a part of the Appendix of "The Manual of Insight" by Wisdom Publications. 
-
-Appendix 1 is the **"Progress of Insight" map**, as covered in book's chapter 6. 
-
-- [Abhidhamma Reference Tables](https://mahasivipassana.com/downloads/pdf/Manual of Insight Charts_0.pdf) *(the original source is not available anymore)*
-
-<br>
-### Steve Armstrong's series of talks regarding "The progress of insight"
-
-In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a [series of talks](https://www.dharmaseed.org/retreats/2959/) in West Coast Dharma Society, regarding the progress of insight as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find the direct download links from [Dharma Seed](https://www.dharmaseed.org):
-
-- [ Map of the Journey: The Progress of Insight#1: Overview of the Progress of Insight](https://www.dharmaseed.org/teacher/170/talk/35190/20160715-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_1_overview_of_the_progress_of_insight-35190.mp3)
-- [ Map of the Journey: The Progress of Insight #2: Introduction to Mahasi Sayadaw's Manual of Insight](https://www.dharmaseed.org/teacher/170/talk/35191/20160715-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_2_introduction_to_mahasi_sayadaws_manual-35191.mp3)
-- [ Map of the Journey: The Progress of Insight #3: Purification of Conduct, Mind, View, Doubt](https://www.dharmaseed.org/teacher/170/talk/35192/20160716-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_3_purification_of_conduct_mind_view_doubt-35192.mp3)
-- [ Map of the Journey: The Progress of Insight #4: Spiritual Goodies: Ecstasy, Bliss and Beyond](https://www.dharmaseed.org/teacher/170/talk/35194/20160716-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_4_spiritual_goodies_ecstasy_bliss_and-35194.mp3)
-- [ Map of the Journey: The Progress of Insight #5: Refining the Knowledge of Dukkha](https://www.dharmaseed.org/teacher/170/talk/35195/20160717-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_5_refining_the_knowledge_of_dukkha-35195.mp3)
-- [ Map of the Journey: The Progress of Insight #6: Enlightenment, Completing the Journey](https://www.dharmaseed.org/teacher/170/talk/35196/20160717-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_6_enlightenment_completing_the_journey-35196.mp3)
-
-<br>
-### Steve Armstrong's "The Map of the Journey" lecture
-
-In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a lecture in Seattle Insight Meditation Center, regarding the progress of insight as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find a link to the video:
-
-[The Map of the Journey video](https://vimeo.com/178965086)
 
 <br>
 ### George Haas Podcast
