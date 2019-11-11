@@ -21,7 +21,7 @@ This map is just a simplified version (created by MVMR) of Steve Armstrong's wor
 
 - [Progress of Insight Stages map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
 
-
+<br>
 ## Visuddhimagga - The Path of Purification
 
 Mahasi Sayadaw based his analysis of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
