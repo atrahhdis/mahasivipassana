@@ -50,7 +50,7 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 
 - [The progress of insight map](https://eudoxos.github.io/cfitness/html/cfitness.html#the-progress-of-insight-map) from [Contemplative Fitness](https://eudoxos.github.io/cfitness/html/index.html) by [Kenneth Folk](https://kennethfolkdharma.com/)
 
-- [The Path](https://alohadharma.com/the-map/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://github.com/atrahhdis/alohadharma/) by [Ron Crouch](https://alohadharma.com/about/)
+- [The Path](https://alohadharma.com/the-map/), [The Physio-COgnitive Stage](https://alohadharma.com/the-map/the-physio-cognitive-stage/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://github.com/atrahhdis/alohadharma/) by [Ron Crouch](https://alohadharma.com/about/)
 
 **Note:** Although the Pragmatic Dharma movement is influenced by Mahasi Sayadaw's work, Daniel Ingram, Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
 
