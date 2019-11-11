@@ -44,7 +44,7 @@ In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) 
 <br>
 ## Modern interpretations of the map
 
-The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of progress of Insight. Below you will find some alternative interpretations of PoI map by three famous pragmatic dharma teachers:
+The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of progress of Insight. Below you will find some alternative interpretations of PoI (**P**rogress **o**f **I**nsight) map by three famous pragmatic dharma teachers:
 
 - [Part IV: Insight](http://mctb.org/mctb2/table-of-contents/part-iv-insight/30-the-progress-of-insight/) from [Mastering the core teachings of the Buddha](http://mctb.org) by [Daniel Ingram](http://integrateddaniel.info/)
 
@@ -52,7 +52,22 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 
 - [The Path](https://alohadharma.com/the-map/), [The Physio-COgnitive Stage](https://alohadharma.com/the-map/the-physio-cognitive-stage/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://github.com/atrahhdis/alohadharma/) by [Ron Crouch](https://alohadharma.com/about/)
 
-**Note:** Although the Pragmatic Dharma movement is influenced by Mahasi Sayadaw's work, Daniel Ingram, Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
+
+### Videos by Daniel Ingram
+
+Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user13532867) regarding PoI stages:
+
+- [Ñana Graph Video](https://vimeo.com/69793499)
+- [Ñana and Jhana Mind Map Explained](https://vimeo.com/69475208)
+- [The Arising and Passing Away, A Short Rant](https://vimeo.com/317384445)
+
+### Notes
+
+Although the Pragmatic Dharma movement is influenced by Mahasi Sayadaw's work, Daniel Ingram, Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
+
+It is true that the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) suggests a new and for some controversial approach on the Buddha's teachings. People interested in the Mahasi Vipassana and the stages of the PoI are encouraged to study this material and come to their own conclusions.
+
+
 
 
 
