@@ -20,7 +20,7 @@ It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}})
 - [Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
 
 
-In **Chapter 6** Mahasi Sayadaw provides an extended analysis on **map** of the progress of insight.
+In **Chapter 6** Mahasi Sayadaw provides an extended analysis on the stages (map) of the progress of insight.
 
 For further information about this map, please read the relevant section of MVMR.
 
