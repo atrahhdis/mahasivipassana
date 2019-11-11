@@ -8,16 +8,16 @@ bookToc: true
 
 # Progress of Insight Map
 
-For an extended analysis of the map of the progress of insight, please read **Chapter 6** from the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
+For an extended analysis of the map (stages) of the progress of insight, please read **Chapter 6** from the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
-Alternatively you can read an shorter text by Mahasi Sayadaw, found on our website:
+Alternatively you can read a shorter text by Mahasi Sayadaw, available on our website:
 
 - [The Progress of Insight]({{< ref "the-progress-of-insight.md" >}})
 
 
 ## Download The map
 
-This map is just a simplified version (created by MVMR) of Steve Armstrong's map included in the "Abhidhamma Reference Tables" found on the appendix of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
+This map is just a simplified version (created by MVMR) of Steve Armstrong's work included in the "Abhidhamma Reference Tables" found on the appendix of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
 [Progress of Insight Stages Map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
 
@@ -41,10 +41,10 @@ In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) 
 
 [The Map of the Journey video](https://vimeo.com/178965086)
 
-
+<br>
 ## Modern interpretations of the map
 
-The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis of the Progress of Insight map. Below you will find some alternative interpretations of this map by famous pragmatic dharma teachers:
+The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of progress of Insight. Below you will find some alternative interpretations of PoI map by three famous pragmatic dharma teachers:
 
 - [Part IV: Insight](http://mctb.org/mctb2/table-of-contents/part-iv-insight/30-the-progress-of-insight/) from [Mastering the core teachings of the Buddha](http://mctb.org) by [Daniel Ingram](http://integrateddaniel.info/)
 
@@ -52,7 +52,7 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 
 - [The Path](https://alohadharma.com/the-map/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://github.com/atrahhdis/alohadharma/) by [Ron Crouch](https://alohadharma.com/about/)
 
-**Note:** Although the Pragmatic Dharma movement is heavily influenced by Mahasi Sayadaw's work, Daniel Ingram, Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
+**Note:** Although the Pragmatic Dharma movement is influenced by Mahasi Sayadaw's work, Daniel Ingram, Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
 
 
 
