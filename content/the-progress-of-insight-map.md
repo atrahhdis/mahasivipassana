@@ -17,9 +17,18 @@ Alternatively you can read a shorter text by Mahasi Sayadaw, available on our we
 
 ## Download The map
 
-This map is just a simplified version (created by MVMR) of Steve Armstrong's work included in the "Abhidhamma Reference Tables" found on the appendix of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
+This map is just a simplified version (created by MVMR) of Steve Armstrong's work included in the "Abhidhamma Reference Tables" found on the appendix of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}):
 
-[Progress of Insight Stages map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
+- [Progress of Insight Stages map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
+
+
+## Visuddhimagga - The Path of Purification
+
+Mahasi Sayadaw based his analysis on the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
+
+You can download **Visuddhimagga** in various e-book formats, using the following link:
+
+[Visuddhimagga - The Path of Purification](https://github.com/atrahhdis/visuddhimagga)
 
 
 <br>
