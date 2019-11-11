@@ -61,11 +61,11 @@ Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user1353
 - [Ñana and Jhana Mind Map Explained](https://vimeo.com/69475208)
 - [The Arising and Passing Away, A Short Rant](https://vimeo.com/317384445)
 
-### Notes
+### Note
 
 Although the Pragmatic Dharma movement is influenced by Mahasi Sayadaw's work, Daniel Ingram, Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
 
-It is true that the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) suggests a new and for some controversial approach on the Buddha's teachings. People interested in the Mahasi Vipassana and the stages of the PoI are encouraged to study this material and come to their own conclusions.
+It is true that the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) suggests a new and for some a controversial approach on the Buddha's teachings. People interested in the Mahasi Vipassana and the stages of the PoI are encouraged to study this material and come to their own conclusions.
 
 
 
