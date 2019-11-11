@@ -24,7 +24,7 @@ This map is just a simplified version (created by MVMR) of Steve Armstrong's wor
 
 ## Visuddhimagga - The Path of Purification
 
-Mahasi Sayadaw based his analysis on the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
+Mahasi Sayadaw based his analysis of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
 
 You can download **Visuddhimagga** in various e-book formats, using the following link:
 
