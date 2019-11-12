@@ -61,6 +61,11 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 
 - [The Path](https://alohadharma.com/the-map/), [The Physio-COgnitive Stage](https://alohadharma.com/the-map/the-physio-cognitive-stage/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://github.com/atrahhdis/alohadharma/) by [Ron Crouch](https://alohadharma.com/about/)
 
+
+A combination of the texts by Kenneth Folk and Ron Crouch can be downloaded in various e-book formats using the following link:
+
+- [A pragmatic approach on the stages of the Progress of Insight](https://github.com/atrahhdis/pragmapoi)
+
 <br>
 ### Videos by Daniel Ingram
 
