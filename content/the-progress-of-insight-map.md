@@ -6,7 +6,7 @@ keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,Manual of
 bookToc: true
 ---
 
-# The Progress of Insight Map
+# The Progress of Insight (PoI) Map
 
 For an extended analysis of the map (stages) of the progress of insight, please read **Chapter 6** from the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
@@ -24,7 +24,7 @@ This map is just a simplified version (created by MVMR) of Steve Armstrong's wor
 <br>
 ## Visuddhimagga - The Path of Purification
 
-Mahasi Sayadaw based his analysis of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
+Mahasi Sayadaw [based his analysis](https://www.youtube.com/watch?v=f_iFwwFriwU&t=155) of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
 
 You can download **Visuddhimagga** in various e-book formats, using the following link:
 
@@ -53,7 +53,7 @@ In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) 
 <br>
 ## Modern interpretations of the map
 
-The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of progress of Insight. Below you will find some alternative interpretations of PoI (**P**rogress **o**f **I**nsight) map by three famous pragmatic dharma teachers:
+The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of progress of Insight. Below you will find some alternative interpretations of the PoI map by three famous pragmatic dharma teachers:
 
 - [Part IV: Insight](http://mctb.org/mctb2/table-of-contents/part-iv-insight/30-the-progress-of-insight/) from [Mastering the core teachings of the Buddha](http://mctb.org) by [Daniel Ingram](http://integrateddaniel.info/)
 
@@ -78,11 +78,11 @@ Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user1353
 <br>
 ### Note
 
-Although the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) is heavily influenced by Mahasi Sayadaw's work, Daniel Ingram, Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
+Although the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) is heavily influenced by Mahasi Sayadaw's work, Daniel Ingram,<sup><a href="#fn1" id="r1">[1]</a></sup> Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
 
 It is true that the Pragmatic Dharma Teachers suggest a new and for some a controversial approach on the Buddha's teachings. People interested in the Mahasi Vipassana and the stages of the PoI are encouraged to study this material and come to their own conclusions.
 
 
-
-
+<br>
+<p id="fn1"><sup><a href="#r1">1.</a> Daniel Ingram is [supposedly authorized](http://web.archive.org/web/20070917070818/http://www.bswa.org/modules/newbb/viewtopic.php?topic_id=2216&forum=7&viewmode=flat&order=ASC&start=20) to teach the Dhamma by Sayadaw U Pandita, Jr. </sup></p>
 
