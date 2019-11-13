@@ -552,7 +552,7 @@ Visuddhi      :  Purity; holiness.
 
 ## Sources
 
-- [Purpose of Practising Kammaṭṭhāna meditation](https://mahasivipassana.com/downloads/pdf/purpose-of-practicing-kammathana-meditation-mahasi-sayadaw.pdf)
+- [Purpose of Practising Kammaṭṭhāna meditation]((https://mahasivipassana.com/downloads/pdf/purpose-of-practicing-kammathana-meditation-mahasi-sayadaw.pdf))
 - [Sirimangalo](https://static.sirimangalo.org/mahasi/Purpose%20of%20Practicing%20Meditation.htm)
 
 ## About this e-book
