@@ -162,7 +162,7 @@ In the course of contemplation, bearing in mind the following advice of the Budd
 
 ---
 
-<p id="fn6"><a href="#r6">6.</a> The preceding section describes the "analytical knowledge of body and mind" (nama-rupa-pariccheda-nana), belonging to the "Purification of View."<</p>
+<p id="fn6"><a href="#r6">6.</a> The preceding section describes the "analytical knowledge of body and mind" (nama-rupa-pariccheda-nana), belonging to the "Purification of View."</p>
 
 <p id="fn7"><a href="#r7">7.</a> The preceding section refers to "knowledge by discerning conditionality" (paccaya-pariggaha-nana),belonging to the "Purification by Overcoming Doubt."</p>
 
