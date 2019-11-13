@@ -34,7 +34,7 @@ You can download **Visuddhimagga** in various e-book formats, using the followin
 <br>
 ## Steve Armstrong's series of talks regarding "The progress of insight"
 
-In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a [series of talks](https://www.dharmaseed.org/retreats/2959/) in West Coast Dharma Society, regarding the progress of insight as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find the direct download links from [Dharma Seed](https://www.dharmaseed.org):
+In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a [series of talks](https://www.dharmaseed.org/retreats/2959/) in West Coast Dharma Society, regarding the PoI as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find the direct download links from [Dharma Seed](https://www.dharmaseed.org):
 
 - [ Map of the Journey: The Progress of Insight#1: Overview of the Progress of Insight](https://www.dharmaseed.org/teacher/170/talk/35190/20160715-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_1_overview_of_the_progress_of_insight-35190.mp3)
 - [ Map of the Journey: The Progress of Insight #2: Introduction to Mahasi Sayadaw's Manual of Insight](https://www.dharmaseed.org/teacher/170/talk/35191/20160715-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_2_introduction_to_mahasi_sayadaws_manual-35191.mp3)
@@ -46,14 +46,14 @@ In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave 
 <br>
 ## Steve Armstrong's "The Map of the Journey" lecture
 
-In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a lecture in Seattle Insight Meditation Center, regarding the progress of insight as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find a link to the video:
+In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a lecture in Seattle Insight Meditation Center, regarding the PoI as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find a link to the video:
 
 [The Map of the Journey video](https://vimeo.com/178965086)
 
 <br>
 ## Modern interpretations of the map
 
-The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of progress of Insight. Below you will find some alternative interpretations of the PoI map by three famous pragmatic dharma teachers:
+The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of PoI. Below you will find some alternative interpretations of the PoI map by three famous pragmatic dharma teachers:
 
 - [Part IV: Insight](http://mctb.org/mctb2/table-of-contents/part-iv-insight/30-the-progress-of-insight/) from [Mastering the core teachings of the Buddha](http://mctb.org) by [Daniel Ingram](http://integrateddaniel.info/)
 
