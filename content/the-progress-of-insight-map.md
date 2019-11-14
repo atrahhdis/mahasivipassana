@@ -74,6 +74,7 @@ Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user1353
 - [Ñana Graph Video](https://vimeo.com/69793499)
 - [Ñana and Jhana Mind Map Explained](https://vimeo.com/69475208)
 - [The Arising and Passing Away, A Short Rant](https://vimeo.com/317384445)
+- [Diagnosing Stream Entry](https://vimeo.com/372228348)
 
 <br>
 ### Note
