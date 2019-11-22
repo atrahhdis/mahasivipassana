@@ -1665,7 +1665,7 @@ All texts were written by [u/filpt](https://www.reddit.com/user/filpt), [u/Tetri
 
 **License:**
 
-This e-book is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This text is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 You are free to:
