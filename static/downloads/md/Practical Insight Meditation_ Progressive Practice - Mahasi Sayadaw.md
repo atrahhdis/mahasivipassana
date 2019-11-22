@@ -307,6 +307,6 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com)  u
 
 ## Version
 
-V 1.3 - 2019-05-02
+V 1.4 - 2019-11-22
 
 

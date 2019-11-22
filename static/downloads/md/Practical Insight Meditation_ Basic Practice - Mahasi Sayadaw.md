@@ -258,5 +258,5 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com)  u
 
 ## Version
 
-V 2.0 - 2019-08-25
+V 2.1 - 2019-11-22
 
