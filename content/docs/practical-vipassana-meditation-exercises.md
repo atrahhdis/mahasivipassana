@@ -12,8 +12,9 @@ bookToc: true
 <br>
 <sub>***e-book version:*** *1.5 - 2019-03-06*</sub>
 
-<details> 
+ <details> 
 <summary>ToC</summary>
+
   * [Preface](#preface)
   * [Mental Noting](#mental-noting)
   * [Noting Thoughts](#noting-thoughts)
