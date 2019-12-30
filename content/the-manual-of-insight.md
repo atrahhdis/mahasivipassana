@@ -68,7 +68,7 @@ The purpose of this book is not to be read instead of or before the **"The Manua
 
 	[md (source)](https://mahasivipassana.com/downloads/md/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.md)
 
-<sub>***e-book version:*** *2.1 - 2019-05-02*</sub>
+<sub>***e-book version:*** *2.2 - 2019-12-30*</sub>
 
 
 [This is the link](https://www.reddit.com/r/streamentry/comments/ax7ayw/a_rstreamentry_summary_of_mahasi_sayadaws_book/) of the discussion about this e-book on [r/streamentry](https://www.reddit.com/r/streamentry/).
