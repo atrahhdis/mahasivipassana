@@ -10,7 +10,7 @@ bookToc: true
 
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Satipatthana Vipassana - Mahasi Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Satipatthana Vipassana - Mahasi Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Satipatthana Vipassana - Mahasi Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Satipatthana Vipassana - Mahasi Sayadaw.md)*
 <br>
-<sub>***e-book version:*** *1.7 - 2019-03-06*</sub>
+<sub>***e-book version:*** *1.8 - 2019-12-30*</sub>
 <br>
 
 <details> 
