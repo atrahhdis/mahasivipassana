@@ -122,4 +122,4 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com)  u
 
 ## Version
 
-V 1.5 - 2019-03-06
+V 1.6 - 2019-12-30
