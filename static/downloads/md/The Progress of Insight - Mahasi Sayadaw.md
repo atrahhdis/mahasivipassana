@@ -356,7 +356,7 @@ Immediately afterwards, a type of knowledge manifests itself that, as it were, f
 
 <p id="fn38"><sub><a href="#r38">38.</a> This refers to the knowledges described in the following (Nos. 7-11).</sub></p>
 
-<p id="fn9"><sub><a href="#r39">39.</a> ‘Niroja.’ Lit. “without nutritive essence.”</sub></p>
+<p id="fn39"><sub><a href="#r39">39.</a> ‘Niroja.’ Lit. “without nutritive essence.”</sub></p>
 
 <p id="fn40"><sub><a href="#r40">40.</a> According to the Visuddhimagga, the “insight leading to emergence” is the culmination of insight, and is identical with the following three knowledges: equanimity about formations, desire for deliverance, and knowledge of re-observation. It is called “leading to emergence” because it emerges from the contemplation of formations (conditioned phenomena) to the supramundane path that has Nibbāna as its object.</sub></p>
 
@@ -454,5 +454,5 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com)  u
 
 ## Version
 
-V 1.7 - 2019-05-02
+V 1.8 - 2019-12-30
 

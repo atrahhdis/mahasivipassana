@@ -10,7 +10,7 @@ bookToc: true
 
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/The Progress of Insight - Mahasi Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/The Progress of Insight - Mahasi Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/The Progress of Insight - Mahasi Sayadaw.mobi) |[md (source)](https://mahasivipassana.com/downloads/md/The Progress of Insight - Mahasi Sayadaw.md)*
 <br>
-<sub>***e-book version:*** *1.7 - 2019-05-02*</sub>
+<sub>***e-book version:*** *1.8 - 2019-12-30*</sub>
 
  <details> 
 <summary>ToC</summary>
@@ -25,7 +25,7 @@ bookToc: true
   * [IV. Purification by Overcoming Doubt](#iv-purification-by-overcoming-doubt)
     + [2. Knowledge by Discerning Conditionality](#2-knowledge-by-discerning-conditionality)
     + [3. Knowledge of Comprehension](#3-knowledge-of-comprehension)
-    + [4. Knowledge of Arising and Passing Away: The Ten Corruptions of Insight <sup><a href="#fn27" id="r27">[27]</a></sup>](#4-knowledge-of-arising-and-passing-away-the-ten-corruptions-of-insight-sup-a-href-fn27-id-r27-27-a-sup)
+    + [4. Knowledge of Arising and Passing Away: The Ten Corruptions of Insight](#4-knowledge-of-arising-and-passing-away-the-ten-corruptions-of-insight-sup-a-href-fn27-id-r27-27-a-sup)
   * [V. Purification by Knowledge and Vision of What is Path and Not-path](#v-purification-by-knowledge-and-vision-of-what-is-path-and-not-path)
   * [VI. Purification by Knowledge and Vision of the Course of Practice](#vi-purification-by-knowledge-and-vision-of-the-course-of-practice)
     + [5. Knowledge of Dissolution](#5-knowledge-of-dissolution)
@@ -448,7 +448,7 @@ III. The Ten Precepts: (1)- (6) = II, 1-6; (7) = II, 7 (a); (8) = II, 7 (b); (9)
 
 <p id="fn38"><a href="#r38">38.</a> This refers to the knowledges described in the following (Nos. 7-11).</p>
 
-<p id="fn9"><a href="#r39">39.</a> ‘Niroja.’ Lit. “without nutritive essence.”</p>
+<p id="fn39"><a href="#r39">39.</a> ‘Niroja.’ Lit. “without nutritive essence.”</p>
 
 <p id="fn40"><a href="#r40">40.</a> According to the Visuddhimagga, the “insight leading to emergence” is the culmination of insight, and is identical with the following three knowledges: equanimity about formations, desire for deliverance, and knowledge of re-observation. It is called “leading to emergence” because it emerges from the contemplation of formations (conditioned phenomena) to the supramundane path that has Nibbāna as its object.</p>
 
