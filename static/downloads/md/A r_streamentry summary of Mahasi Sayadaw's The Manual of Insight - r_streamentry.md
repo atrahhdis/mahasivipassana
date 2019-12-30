@@ -1014,7 +1014,7 @@ Knowing this, the meditator reviews what has been attained, and may further revi
 - **Visuddhi:** sila visuddhi<br>
 **Stages of Purification:** 1. Purification of Conduct<br>
 **Stages of Insight:** <br>
-**Explanation:** *fivefold restraint*<sup><a href="#fn16" id="r16">[17]</a></sup> etc.<br>
+**Explanation:** *fivefold restraint*<sup><a href="#fn17" id="r17">[17]</a></sup> etc.<br>
 **Practical observation:**<br>
 
 - **Visuddhi:** citta visuddhi<br>
@@ -1581,6 +1581,6 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com) us
 
 ## Version
 
-V 2.1 - 2019-05-02
+V 2.2 - 2019-12-30
 
 
