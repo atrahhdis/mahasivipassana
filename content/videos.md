@@ -17,7 +17,7 @@ bookToc: false
 
 - [Vipassana Meditation Instruction](https://www.youtube.com/watch?v=Vt44hvedW7Y) by Sayadaw U Zatila
 
-
+&nbsp;
 ## Generic (posture, flexibility, pain etc.)
 
 - [How To Sit For Meditation with Perfect Posture](https://www.youtube.com/watch?v=fZrJPUU9fTE) by got ROM

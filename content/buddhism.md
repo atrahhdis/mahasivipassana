@@ -28,7 +28,7 @@ Please note that the person behind this website does not follow any specific Bud
 
 **Note:** It is highly suggested to visit and read the [reddit Buddhism book list](https://www.reddit.com/r/Buddhism/wiki/booklist).
 
-
+&nbsp;
 ## Videos
 
 - [A short introduction to Buddhism](https://www.youtube.com/playlist?list=PLgu0hJSLkqCWfPCyIAeJWMxZmNwbHNE43) by [Bhikkhu Bodhi](https://bodhimonastery.org/ven-bhikkhu-bodhi.html)

@@ -38,7 +38,6 @@ Below you may find an older (1984) and freely distributed translation of the sam
 *Sources for the alternative translation:  [Dharma Overground](https://www.dharmaoverground.org/discussion/-/message_boards/message/443445), [Saraniya Dhamma](http://www.saraniya.com)*
 
 
-
 &nbsp;
 ## Additional material
 
@@ -73,7 +72,7 @@ The purpose of this book is not to be read instead of or before the **"The Manua
 [This is the link](https://www.reddit.com/r/streamentry/comments/ax7ayw/a_rstreamentry_summary_of_mahasi_sayadaws_book/) of the discussion about this e-book on [r/streamentry](https://www.reddit.com/r/streamentry/).
 
 
-<br>
+&nbsp;
 ### George Haas Podcast
 
 [George Haas](https://www.mettagroup.org/about/) has created a 47 episode (in fact 45, as 2 of them deal with a different subject) podcast about (a part of ) the "Manual of Insight" named [Deepening Your Practice (DYP)](https://www.mettagroup.org/podcast/2016/6/15/episode-1-manual-of-insight-introduction). 
