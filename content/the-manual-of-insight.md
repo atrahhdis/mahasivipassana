@@ -24,7 +24,7 @@ In **Chapter 6** Mahasi Sayadaw provides an extended analysis on the stages (map
 
 For further information about this map, please read [The Progress of Insight Map]({{< ref "the-progress-of-insight-map.md" >}}).
 
-<br>
+&nbsp;
 ## Alternative translation
 
 Below you may find an older (1984) and freely distributed translation of the same book by **U MIN SWE** (Min Kyaw Thu), under the name of **"The Treatise on Vipassana Insight Meditation"**:
@@ -39,7 +39,7 @@ Below you may find an older (1984) and freely distributed translation of the sam
 
 
 
-<br>
+&nbsp;
 ## Additional material
 
 ### Book summary/analysis on Reddit (r/streamentry)
@@ -48,8 +48,7 @@ Below you may find an older (1984) and freely distributed translation of the sam
 
 Chapters [1](https://www.reddit.com/r/streamentry/comments/6z1k1w/theory_the_manual_of_insight_study_group_chapter_1/?sort=old), [2](https://www.reddit.com/r/streamentry/comments/71x62h/theory_the_manual_of_insight_study_group_chapter/?sort=old), [3](https://www.reddit.com/r/streamentry/comments/74v0ln/theory_the_manual_of_insight_study_group_chapter/?sort=old), [4](https://www.reddit.com/r/streamentry/comments/7aqso3/theory_the_manual_of_insight_study_group_chapter/?sort=old), [5](https://www.reddit.com/r/streamentry/comments/7fgoer/theory_the_manual_of_insight_study_group_chapter/?sort=old), [6](https://www.reddit.com/r/streamentry/comments/7v0fy6/theory_the_manual_of_insight_study_group_chapter/?sort=old), [7](https://www.reddit.com/r/streamentry/comments/83h2am/theory_the_manual_of_insight_study_group_chapter/?sort=old).
 
-
-<br>
+&nbsp;
 ### E-book: A r/streamentry summary of Mahasi Sayadaw's book “The Manual of Insight”
 
 This e-book created by [MVMR]({{< ref "_index.md" >}}), is a collection of texts from the above [r/streamentry](https://www.reddit.com/r/streamentry/) online [study group](https://www.reddit.com/r/streamentry/comments/6vejaf/theory_the_manual_of_insight_study_group/). It contains the summaries of 3 [r/streamentry](https://www.reddit.com/r/streamentry/) members: [u/filpt](https://www.reddit.com/user/filpt), [u/TetrisMcKenna](https://www.reddit.com/user/TetrisMcKenna) and [u/xugan97](https://www.reddit.com/user/xugan97).
@@ -60,13 +59,13 @@ The purpose of this book is not to be read instead of or before the **"The Manua
 
 - **Downloads:**
 
-	[epub](https://mahasivipassana.com/downloads/epub/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.epub)
+	[epub](https://mahasivipassana.com/downloads/epub/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.epub)
 
-	[azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.azw3)
+	[azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.azw3)
 
-	[mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.mobi)
+	[mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.mobi)
 
-	[md (source)](https://mahasivipassana.com/downloads/md/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.md)
+	[md (source)](https://mahasivipassana.com/downloads/md/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.md)
 
 <sub>***e-book version:*** *2.2 - 2019-12-30*</sub>
 

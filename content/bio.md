@@ -57,7 +57,7 @@ Some of the Sayadaw’s works have been published abroad, such as ‘The Satipat
 
 The Venerable Mahasi Sayadaw is profoundly revered by countless grateful disciples in Burma and abroad. Although it was the earnest wish of his devoted disciples that the Venerable Mahasi Sayadaw might live for several more years and continue showering the blessings of the Buddhadhamma on all those in search freedom and deliverance, the inexorable law of impermanence terminated, with tragic suddenness, his selfless and dedicated life on the 14th of August 1982. Like a true son of the Buddha, he lived valiantly, spreading the word of the Master throughout the world and helped many thousands and tens of thousands onto the Path of Enlightenment and Deliverance.
 
-<br>
+
 **U Nyi Nyi (Mahasi Disciple and Meditator)**
 
 Member of the Executive Committee Yangon, Myanmar<nr>

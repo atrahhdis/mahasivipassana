@@ -13,7 +13,6 @@ On this website you will find all the needed information in order to learn the p
 **Mahasi Vipassana** meditation technique is widely known as **"Mahasi noting"**.
 
 
-<br>
 ## How to use this website
 
 It is highly suggested to **read all included Mahasi material**, as this will help you understand in depth the fundamentals of his famous Vipassana meditation **noting technique**.
@@ -27,17 +26,15 @@ However, if you want to learn the basics in order to start immediately with your
 
 - Watch the suggested material in the [Videos section]({{< ref "videos.md" >}}).
 
-<br>
+
 **Note:** Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) included in MVMR are **offered in downloadable e-book formats** for easier offline reading.
 
 
-<br>
 ## What to read next
 
 Although the material provided by MVMR is more than enough to get you started, if you want to have a deeper knowledge of Mahasi Vipassana, you should definitely read his book [The Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
 
-<br>
 ## Note
 
 The person behind [MVMR]({{< ref "_index.md" >}}) is far from being considered an expert in Mahasi Vipassana or Buddhism in general and thus is unable to provide any guidance or advice.

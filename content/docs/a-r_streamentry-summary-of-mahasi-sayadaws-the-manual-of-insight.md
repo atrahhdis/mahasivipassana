@@ -8,8 +8,7 @@ bookToc: true
 
 # A r/streamentry summary of Mahasi Sayadaw's book "The Manual of Insight" 
 
-*Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/A r_streamentry summary of Mahasi Sayadaw's The Manual of Insight - r_streamentry.md)*
-<br>
+*Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/QA%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.md)*\
 <sub>***e-book version:*** *2.2 - 2019-12-30*</sub>
 
 <details> 

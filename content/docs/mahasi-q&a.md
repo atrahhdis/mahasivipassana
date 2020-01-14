@@ -8,10 +8,10 @@ bookToc: true
 
 # Questions and Answers with Mahasi Sayadaw
 
-*Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Questions and Answers with Mahasi Sayadaw - Mahasi Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Questions and Answers with Mahasi Sayadaw - Mahasi Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Questions and Answers with Mahasi Sayadaw - Mahasi Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Questions and Answers with Mahasi Sayadaw - Mahasi Sayadaw.md)*
-<br>
+*Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Questions%20and%20Answers%20with%20Mahasi%20Sayadaw%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Questions%20and%20Answers%20with%20Mahasi%20Sayadaw%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Questions%20and%20Answers%20with%20Mahasi%20Sayadaw%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Questions%20and%20Answers%20with%20Mahasi%20Sayadaw%20-%20Mahasi%20Sayadaw.md)*\
 <sub>***e-book version:*** *2.0 - 2019-12-30*</sub>
-<br>
+
+&nbsp;
 
 The following questions and answers are from the booklet “An Interview with Mahasi Sayadaw,” prepared (in Burmese) by Thamanaykyaw and translated by U Hla Myint.
 

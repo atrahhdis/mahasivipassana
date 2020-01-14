@@ -8,8 +8,7 @@ bookToc: true
 
 # Practical Vipassanā meditation exercises
 
-*Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Practical Vipassana Meditation Exercises - Mahasi Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Practical Vipassana Meditation Exercises - Mahasi Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Practical Vipassana Meditation Exercises - Mahasi Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Practical Vipassana Meditation Exercises - Mahasi Sayadaw.md)*
-<br>
+*Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Practical%20Vipassana%20Meditation%20Exercises%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Practical%20Vipassana%20Meditation%20Exercises%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Practical%20Vipassana%20Meditation%20Exercises%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Practical%20Vipassana%20Meditation%20Exercises%20-%20Mahasi%20Sayadaw.md)*\
 <sub>***e-book version:*** *1.6 - 2019-12-30*</sub>
 
  <details> 

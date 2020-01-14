@@ -9,16 +9,17 @@ bookToc: false
 # About
 
 ## Website software
-[MVMR]({{< ref "_index.md" >}}) was created using [hugo](https://gohugo.io/) and [hugo book  theme](https://github.com/alex-shpak/hugo-book). 
 
-<br>
+[MVMR]({{< ref "index.md" >}}) was created using [hugo](https://gohugo.io/) and [hugo book theme](https://github.com/alex-shpak/hugo-book). 
+
+
 ## Sources
 
-You can browse MVMR sources [on Github] (https://github.com/atrahhdis/mahasivipassana).
+You can browse MVMR sources [on Github](https://github.com/atrahhdis/mahasivipassana).
 
 [All texts](https://github.com/atrahhdis/mahasivipassana/tree/master/content/docs) were written using [markdown](https://en.wikipedia.org/wiki/Markdown). 
 
-<br>
+
 ## E-books
 
 All e-books offered on MVMR are based on freely distributed Dharma books.
@@ -31,7 +32,7 @@ Metadata handling and **EPUB** to **AZW3**/**MOBI** (both of them for kindle dev
 
 **AZW3** (kindle) files were further processed using [Hyphenate This!](https://www.mobileread.com/forums/showthread.php?t=208534)
 
-<br>
+
 ## Contact
 
 **email:** ns [at] mahasivipassana [dot] com

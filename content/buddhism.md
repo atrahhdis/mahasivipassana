@@ -15,7 +15,7 @@ If you don't know about Buddhism and you desire to get started, below you will f
 
 Please note that the person behind this website does not follow any specific Buddhist tradition, thus all the suggestions below cover a wide range of Buddhism variations.
 
-<br>
+
 ## Books
 
 - [What the Buddha Taught](https://en.wikipedia.org/wiki/What_the_Buddha_Taught) by [Wapola Rahula](https://en.wikipedia.org/wiki/Walpola_Rahula_Thero) (you can read it online by using [this link](https://sites.google.com/site/rahulawhatthebuddha/))
@@ -28,7 +28,7 @@ Please note that the person behind this website does not follow any specific Bud
 
 **Note:** It is highly suggested to visit and read the [reddit Buddhism book list](https://www.reddit.com/r/Buddhism/wiki/booklist).
 
-<br>
+
 ## Videos
 
 - [A short introduction to Buddhism](https://www.youtube.com/playlist?list=PLgu0hJSLkqCWfPCyIAeJWMxZmNwbHNE43) by [Bhikkhu Bodhi](https://bodhimonastery.org/ven-bhikkhu-bodhi.html)
