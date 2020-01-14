@@ -29,12 +29,12 @@ However, if you want to learn the basics in order to start immediately with your
 
 **Note:** Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) included in MVMR are **offered in downloadable e-book formats** for easier offline reading.
 
-
+&nbsp;
 ## What to read next
 
 Although the material provided by MVMR is more than enough to get you started, if you want to have a deeper knowledge of Mahasi Vipassana, you should definitely read his book [The Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
-
+&nbsp;
 ## Note
 
 The person behind [MVMR]({{< ref "_index.md" >}}) is far from being considered an expert in Mahasi Vipassana or Buddhism in general and thus is unable to provide any guidance or advice.

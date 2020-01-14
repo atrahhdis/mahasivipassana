@@ -12,7 +12,6 @@ bookToc: false
 
 [MVMR]({{< ref "index.md" >}}) was created using [hugo](https://gohugo.io/) and [hugo book theme](https://github.com/alex-shpak/hugo-book). 
 
-
 ## Sources
 
 You can browse MVMR sources [on Github](https://github.com/atrahhdis/mahasivipassana).
