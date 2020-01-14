@@ -22,7 +22,7 @@ It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}})
 
 In **Chapter 6** Mahasi Sayadaw provides an extended analysis on the stages (map) of the progress of insight.
 
-For further information about this map, please read [The Progress of Insight Map]({{< ref "the-progress-of-insight-map.md" >}}).
+For further information about this map, please read ["The Progress of Insight Map"]({{< ref "the-progress-of-insight-map.md" >}}).
 
 &nbsp;
 ## Alternative translation
