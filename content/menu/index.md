@@ -12,6 +12,7 @@ headless: true
  - [Practical Vipassana Meditation Exercises]({{< ref "/docs/practical-vipassana-meditation-exercises.md" >}})
  - [Fundamentals of Vipassana Meditation]({{< ref "/docs/fundamentals-of-vipassana-meditation.md" >}}) 
  - [Satipatthana Vipassana]({{< ref "/docs/satipatthana-vipassana.md" >}})
+ - [A Discourse on Vipassana]({{< ref "/a-discourse-on-vipassana.md" >}})
  - [The Progress of Insight]({{< ref "/docs/the-progress-of-insight.md" >}})
 - [**The Manual of Insight**]({{< ref "/the-manual-of-insight.md" >}})
 - [**The Progress of Insight Map**]({{< ref "/the-progress-of-insight-map.md" >}})
