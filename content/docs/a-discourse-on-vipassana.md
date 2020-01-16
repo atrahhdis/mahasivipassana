@@ -8,6 +8,50 @@ bookToc: true
 
 # A Discourse on Vipassanā
 
+<details> 
+<summary>ToC</summary>
+
+  * [Preface](#preface)
+  * [Subject of the discourse](#subject-of-the-discourse)
+  * [Non-acceptance of a statement of truth is the manifestation of low intelligence](#non-acceptance-of-a-statement-of-truth-is-the-manifestation-of-low-intelligence)
+  * [Pronouncements of the Dhamma deserve the same credence invariably given to scientists' findings](#pronouncements-of-the-dhamma-deserve-the-same-credence-invariably-given-to-scientists--findings)
+  * [Error of judging others by one's standards where difference in status precludes comparison](#error-of-judging-others-by-one-s-standards-where-difference-in-status-precludes-comparison)
+  * [The Brahmā's view](#the-brahm--s-view)
+  * [Buddha's view](#buddha-s-view)
+- [The importance of divesting oneself of Sakkāyadiṭṭhi](#the-importance-of-divesting-oneself-of-sakk-yadi--hi)
+  * [What is Sakkāyadiṭṭhi](#what-is-sakk-yadi--hi)
+  * [Sakkāyadiṭṭhi associated with the faculty of vision](#sakk-yadi--hi-associated-with-the-faculty-of-vision)
+  * [The four types of attachment to Atta ATTA](#the-four-types-of-attachment-to-atta-atta)
+- [Arising of Sakkāyadiṭṭhi through sense perception of sound](#arising-of-sakk-yadi--hi-through-sense-perception-of-sound)
+- [The importance of eliminating Sakkāyadiṭṭhi](#the-importance-of-eliminating-sakk-yadi--hi)
+  * [Begin these efforts today](#begin-these-efforts-today)
+  * [The four Sammappadhāna (Supreme Efforts)](#the-four-sammappadh-na--supreme-efforts-)
+  * [Expositions of the Mahāsatipaṭṭhāna Sutta](#expositions-of-the-mah-satipa--h-na-sutta)
+  * [Importance of the cleansing of moral defilements](#importance-of-the-cleansing-of-moral-defilements)
+  * [The six Sammādiṭṭhi(Right Views)](#the-six-samm-di--hi-right-views-)
+  * [Buddha's Credibility](#buddha-s-credibility)
+  * [How to follow instructions and put them into practice](#how-to-follow-instructions-and-put-them-into-practice)
+  * [The truth of the Dhamma is verifiable by personal experience](#the-truth-of-the-dhamma-is-verifiable-by-personal-experience)
+  * [The importance of Kammāssakāthā Sammādiṭṭhi](#the-importance-of-kamm-ssak-th--samm-di--hi)
+  * [The development of Sīla Maggaṅga](#the-development-of-s-la-magga-ga)
+  * [Attainment of Jhāna Samādhi](#attainment-of-jh-na-sam-dhi)
+  * [Vipassanā bhāvanā founded on Jhāna samādhi](#vipassan--bh-van--founded-on-jh-na-sam-dhi)
+  * [Attainment of Vipassanā samādhi](#attainment-of-vipassan--sam-dhi)
+  * [The Development of paññā maggaṅga](#the-development-of-pa----magga-ga)
+  * [Development of the eight Vipassanā maggaṅga](#development-of-the-eight-vipassan--magga-ga)
+  * [No Vipassanā paññā nor magga paññā](#no-vipassan--pa----nor-magga-pa---)
+  * [Importance of disburdening the mind of its defilements](#importance-of-disburdening-the-mind-of-its-defilements)
+  * [Freedom from Soka](#freedom-from-soka)
+  * [Overcoming Pariveda](#overcoming-pariveda)
+  * [Overcoming Dukkha and Domanassa](#overcoming-dukkha-and-domanassa)
+  * [Practice according to the discipline of Satipaṭṭhāna](#practice-according-to-the-discipline-of-satipa--h-na)
+  * [Vipassanā bhāvanā for those who have not achieved Jhāna](#vipassan--bh-van--for-those-who-have-not-achieved-jh-na)
+  * [Preparation for Vipassanā bhāvanā](#preparation-for-vipassan--bh-van-)
+
+</details> 
+
+
+
 
 ## Preface
 
