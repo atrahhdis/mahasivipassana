@@ -54,7 +54,7 @@ In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) 
 
 The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of PoI. Below you will find some alternative interpretations of the PoI map by three famous pragmatic dharma teachers:
 
-- [Part IV: Insight](http://mctb.org/mctb2/table-of-contents/part-iv-insight/30-the-progress-of-insight/) from [Mastering the core teachings of the Buddha](http://mctb.org) by [Daniel Ingram](http://integrateddaniel.info/)
+- [Part IV: Insight](https://mctb.org/mctb2/table-of-contents/part-iv-insight/30-the-progress-of-insight/) from [Mastering the core teachings of the Buddha](https://mctb.org) by [Daniel Ingram](https://integrateddaniel.info/)
 
 - [The progress of insight map](https://eudoxos.github.io/cfitness/html/cfitness.html#the-progress-of-insight-map) from [Contemplative Fitness](https://eudoxos.github.io/cfitness/html/index.html) by [Kenneth Folk](https://kennethfolkdharma.com/)
 
