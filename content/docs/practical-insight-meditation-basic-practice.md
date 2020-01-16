@@ -7,7 +7,7 @@ bookToc: true
 ---
 # Practical Insight Meditation: Basic Practice
 
-*Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayada.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.md)*\
+*Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.md)*\
 <sub>***e-book version:*** *2.4 - 2019-12-29*</sub>
  
 <details> 
