@@ -50,7 +50,7 @@ bookToc: true
 
 </details> 
 
-
+***Note:*** *This is the initial upload. This text and ToC need further corrections.*
 
 
 ## Preface
@@ -132,7 +132,7 @@ On the other hand rejection of Kāmarāga through Samatha-jhāna, does not achie
 "With the same urgency and despatch as someone whose breast has been impaled with a spear or whose head is on fire would seek immediate relief from the affliction thereof, the Bhikkhu who is mindful of the perils of Samsārā (round of births) should make haste to free himself from Sakkāyadiṭṭhi (the heresy of individuality)."
 
 
-# The importance of divesting oneself of Sakkāyadiṭṭhi
+## The importance of divesting oneself of Sakkāyadiṭṭhi
 
 Just as it is of extreme importance to remove the spear impaling one's breast and treat the injury, or to put out the fire that burns one's head, it is imperative that one should divest oneself of Sakkāyadiṭṭhi. For anyone who has not rid himself of Sakkāyadiṭṭhi, even the attainment of existence in the Brahmās' realm is no surety against rebirth in the human or Deva worlds and the misery of frequent death; nor can relegation to the four Apāyas (states of suffering or punishment) be ruled out.
 
