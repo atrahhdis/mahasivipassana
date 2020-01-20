@@ -10,6 +10,9 @@ bookToc: false
 
 - [Mahasi Sasana Yeik Tha](http://www.mahasi.org.mm)
 
+- [Vipassana in Europe](http://mahasi.eu)
+
 - [Assosiation for Insight Meditation](http://aimwell.org)
 
 - [Sirimangalo.Org](https://www.sirimangalo.org/)
+
