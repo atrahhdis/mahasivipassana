@@ -79,6 +79,6 @@ Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user1353
 
 ### Note
 
-Although the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) is heavily influenced by Mahasi Sayadaw's work, Daniel Ingram ( D. Ingram is [supposedly authorized](http://web.archive.org/web/20070917070818/http://www.bswa.org/modules/newbb/viewtopic.php?topic_id=2216&forum=7&viewmode=flat&order=ASC&start=20) to teach the Dhamma by Sayadaw U Pandita, Jr.), Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in Mahasi Sayadaw's lineage.
+Although the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) is heavily influenced by Mahasi Sayadaw's work, Daniel Ingram ( D. Ingram is [supposedly authorized](http://web.archive.org/web/20070917070818/http://www.bswa.org/modules/newbb/viewtopic.php?topic_id=2216&forum=7&viewmode=flat&order=ASC&start=20) to teach the Dhamma by Sayadaw U Pandita, Jr.), Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in the Mahasi Sayadaw's lineage.
 
 It is true that the Pragmatic Dharma teachers suggest a new and for some a controversial approach on the teachings of the Buddha. Practitioners interested in the Mahasi Vipassana and the stages of the PoI are encouraged to study this material and come to their own conclusions.
