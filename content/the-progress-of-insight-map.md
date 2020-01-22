@@ -58,12 +58,17 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 
 - [The progress of insight map](https://eudoxos.github.io/cfitness/html/cfitness.html#the-progress-of-insight-map) from [Contemplative Fitness](https://eudoxos.github.io/cfitness/html/index.html) by [Kenneth Folk](https://kennethfolkdharma.com/)
 
-- [The Path](https://alohadharma.com/the-map/), [The Physio-Cognitive Stage](https://alohadharma.com/the-map/the-physio-cognitive-stage/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://github.com/atrahhdis/alohadharma/) by [Ron Crouch](https://alohadharma.com/about/)
+- [The Path](https://alohadharma.com/the-map/), [The Physio-Cognitive Stage](https://alohadharma.com/the-map/the-physio-cognitive-stage/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://alohadharma.com) by [Ron Crouch](https://alohadharma.com/about/)
 
+### E-books
 
-A combination of the texts by Kenneth Folk and Ron Crouch can be downloaded in various e-book formats using the following link:
+A combination of the texts by **Kenneth Folk** and **Ron Crouch** can be downloaded in various e-book formats using the following link:
 
 - [A pragmatic approach on the stages of the Progress of Insight](https://github.com/atrahhdis/pragmapoi)
+
+A compilation of texts (including the ones referring to the maps) by **Ron Crouch**, can be downloaded in various e-book formats using the following link:
+
+- [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/atrahhdis/alohadharma)
 
 
 ### Videos by Daniel Ingram
@@ -81,4 +86,4 @@ Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user1353
 
 Although the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) is heavily influenced by Mahasi Sayadaw's work, Daniel Ingram ( D. Ingram is [supposedly authorized](http://web.archive.org/web/20070917070818/http://www.bswa.org/modules/newbb/viewtopic.php?topic_id=2216&forum=7&viewmode=flat&order=ASC&start=20) to teach the Dhamma by Sayadaw U Pandita, Jr.), Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in the Mahasi Sayadaw's lineage.
 
-It is true that the Pragmatic Dharma teachers suggest a new and for some a controversial approach on the teachings of the Buddha. Practitioners interested in the Mahasi Vipassana and the stages of the PoI are encouraged to study this material and come to their own conclusions.
+It is true that the **Pragmatic Dharma** teachers suggest a new and for some a controversial approach on the teachings of the Buddha. Practitioners interested in the Mahasi Vipassana and the stages of the PoI are encouraged to study this material and come to their own conclusions.
