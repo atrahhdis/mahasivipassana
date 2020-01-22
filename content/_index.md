@@ -21,7 +21,7 @@ However, if you want to learn the basics in order to get going with your meditat
 
 1. Read: 
 	- [Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}), which is the shortest introduction to noting **or**
-	- [Practical Insight Meditation: Basic Practice]({{< ref "ractical-insight-meditation-basic-practice.md" >}}), which is the most popular text by Mahasi Sayadaw
+	- [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}}), which is the most popular text by Mahasi Sayadaw
 
 2. Read the [Q&A with Mahasi Sayadaw]({{< ref "mahasi-q&a.md" >}})
 
