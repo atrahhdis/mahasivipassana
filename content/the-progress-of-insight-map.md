@@ -70,6 +70,12 @@ A compilation of texts (including the ones referring to the maps) by **Ron Crouc
 
 - [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/atrahhdis/alohadharma)
 
+### Audio by Ron Crouch
+
+In this talk, Ron Crouch describes in a clear and down to earth way the 16 stages of insight:
+
+- [What is "The Path"?: The progress of Insight Explained](http://ia600709.us.archive.org/4/items/WhatIsThePath/WhatIsThePath_.mp3)
+
 
 ### Videos by Daniel Ingram
 
