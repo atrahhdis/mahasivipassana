@@ -68,7 +68,7 @@ A combination of the texts by **Kenneth Folk** and **Ron Crouch** can be downloa
 
 A compilation of texts (including the ones referring to the maps) by **Ron Crouch**, can be downloaded in various e-book formats using the following link:
 
-- [Aloha Dharma: a compilation of texts from https://alohadharma.com](https://github.com/atrahhdis/alohadharma)
+- [Aloha Dharma: a compilation of texts from alohadharma.com](https://github.com/atrahhdis/alohadharma)
 
 ### Audio by Ron Crouch
 
