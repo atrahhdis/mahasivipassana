@@ -22,6 +22,7 @@ bookToc: true
     + [Summary by u/filpt](#summary-by-u-filpt-1)
     + [Summary by u/TetrisMcKenna](#summary-by-u-tetrismckenna)
     + [Summary by u/xugan97](#summary-by-u-xugan97)
+    + [The two levels of samadhi](#the-two-levels-of-samadhi)
       - [Citta Visuddhi](#citta-visuddhi)
       - [How insight arises in the two vehicles](#how-insight-arises-in-the-two-vehicles)
       - [Establishment of samadhi in the vipassana-yana](#establishment-of-samadhi-in-the-vipassana-yana)
@@ -307,7 +308,7 @@ Establishment of samadhi is citta visuddhi. There are two vehicles to enlightenm
 **Type of jhana:** vipassana-jhana<br>
 **Object of vipassana** concrete phenomena
 
-### The two levels of samadhi
+#### The two levels of samadhi
 
 Samatha-jhana is developed based on any stable conceptual form (nimitta) as far as appanā-samādhi (access or full concentration). The nimitta itself develops in the sequence: parikamma-nimitta --> uggaha-nimitta --> patibhāga-nimitta, but this is not discussed in detail here.
 
