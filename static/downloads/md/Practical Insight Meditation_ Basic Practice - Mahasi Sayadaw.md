@@ -58,7 +58,7 @@ To begin training, take the sitting posture with the legs crossed. You might fee
 
 **Footnotes** 
 
-<sub><p id="fn1"><sub><a href="#r1">1.</a> The eight Uposatha precepts are: abstention from 1) killing, 2) stealing, 3) all sexual intercourse, 4) lying, 5) intoxicants, 6) taking food after noon, 7) dance, song, music, shows (attendance and performance), the use of perfumes, ornaments, etc., and 8) using luxurious beds.</sub></p>
+<p id="fn1"><sub><a href="#r1">1.</a> The eight Uposatha precepts are: abstention from 1) killing, 2) stealing, 3) all sexual intercourse, 4) lying, 5) intoxicants, 6) taking food after noon, 7) dance, song, music, shows (attendance and performance), the use of perfumes, ornaments, etc., and 8) using luxurious beds.</sub></p>r
 
 <p id="fn2"><sub><a href="#r2">2.</a> There are four noble individuals (ariya-puggala). They are those who have obtained a state of sanctity: a. The stream-winner (sotāpanna) is one who has become free from the first three of the ten fetters which bind him to the sensuous sphere, namely, personality belief, sceptical doubt, and attachment to mere rules and rituals. b. The once-returner (sakadāgāmi) has weakened the fourth and fifth of the ten fetters, sensuous craving and ill-will. c. The non-returner (anāgāmi) becomes fully free from the above-mentioned five lower fetters and is no longer reborn in the sensuous sphere before reaching nibbāna. d. Through the path of holiness one further becomes free of the last five fetters: craving for fine material existence (in celestial worlds), craving for immaterial (purely mental) existence, conceit, restlessness, and ignorance.</sub></p>
 
