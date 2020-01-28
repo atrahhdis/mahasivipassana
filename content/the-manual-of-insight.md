@@ -54,17 +54,14 @@ This e-book created by [MVMR]({{< ref "_index.md" >}}), is a collection of texts
 
 The purpose of this book is not to be read instead of or before the **"The Manual of Insight"**, but as an additional resource that will assist the reader to better understand Mahasi Sayadaw's book.
 
-- [**Read It Online**]({{< ref "a-r_streamentry-summary-of-mahasi-sayadaws-the-manual-of-insight.md" >}})
+[**Read It Online**]({{< ref "a-r_streamentry-summary-of-mahasi-sayadaws-the-manual-of-insight.md" >}})
 
-- **Downloads:**
+**Downloads:**
 
-	[epub](https://mahasivipassana.com/downloads/epub/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.epub)
-
-	[azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.azw3)
-
-	[mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.mobi)
-
-	[md (source)](https://mahasivipassana.com/downloads/md/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.md)
+- [epub](https://mahasivipassana.com/downloads/epub/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.epub)
+- [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.azw3)
+- [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.mobi)
+- [md (source)](https://mahasivipassana.com/downloads/md/A%20r_streamentry%20summary%20of%20Mahasi%20Sayadaw's%20The%20Manual%20of%20Insight%20-%20r_streamentry.md)
 
 <sub>***e-book version:*** *2.2 - 2019-12-30*</sub>
 
