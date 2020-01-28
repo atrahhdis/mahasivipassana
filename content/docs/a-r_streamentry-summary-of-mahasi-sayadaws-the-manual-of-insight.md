@@ -23,7 +23,6 @@ bookToc: true
     + [Summary by u/TetrisMcKenna](#summary-by-u-tetrismckenna)
     + [Summary by u/xugan97](#summary-by-u-xugan97)
       - [Citta Visuddhi](#citta-visuddhi)
-    + [The two levels of samadhi](#the-two-levels-of-samadhi)
       - [How insight arises in the two vehicles](#how-insight-arises-in-the-two-vehicles)
       - [Establishment of samadhi in the vipassana-yana](#establishment-of-samadhi-in-the-vipassana-yana)
   * [Chapter 3](#chapter-3)
