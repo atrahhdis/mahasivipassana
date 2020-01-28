@@ -1528,7 +1528,7 @@ Thanks to everyone who have been reading and interacting on what is one of the m
 
 **Footnotes**
 
-<p id="fn29"><a href="#r29"><sup>29.</sup></a> <sup>https://archive.org/stream/Visuddhimagga_201602/Visuddhimagga#page/n781/mode/2up</sup></sub></p>
+<p id="fn29"><sub><a href="#r29"><sup>29.</sup></a> <sup>https://archive.org/stream/Visuddhimagga_201602/Visuddhimagga#page/n781/mode/2up</sup></sub></p>
 
 <p id="fn30"><sub><a href="#r30"><sup>30.</a> <sup>http://www.palikanon.com/english/wtb/s_t/ti_lakkhana.htm</sup></sub></p>
 
