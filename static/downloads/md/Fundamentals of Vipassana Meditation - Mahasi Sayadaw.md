@@ -367,11 +367,11 @@ The meditator understands for himself  what  the commentaries  say,  “They  ar
    
 *“ ... the impermanent should be understood. “*
 
-**“ ... impermanence should be understood. “*
+*“ ... impermanence should be understood. “*
 
-**“ .. . the discernment of the impermanence should be understood.”*
+*“ .. . the discernment of the impermanence should be understood.”*
 
-**(Visuddhimagga,i,281.)*
+*(Visuddhimagga,i,281.)*
 
 This brief statement is followed by the explanation: “Here, ‘the impermanent’ are  the  five aggregates.” You must know that the five aggregates are impermanent. Although you may not understand it by your own knowledge, you should know this much. Not only that. You should know that they are all suffering, all without a self. If you know this much, you can take up insight meditation. This understanding made by learning is given in Culatanhasankhaya Sutta:
 
@@ -1147,5 +1147,5 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com)  u
 
 ## Version
 
-V 1.8 - 2019-12-30
+V 1.9 - 2020-02-05
 

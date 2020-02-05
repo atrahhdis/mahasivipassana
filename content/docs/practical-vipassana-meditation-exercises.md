@@ -27,7 +27,7 @@ bookToc: true
 </details> 
 
 ## Preface
-The following is a talk by the Ven Mahāsī Sayādaw Agga Mahā Paṇḍita U Sobhana given to his disciples on their induction into Vipassanā Meditation at Sāsana Yeikthā Meditation Centre, Yangon, Myanmar. It was translated from the Burmese by U Nyi Nyi.*
+The following is a talk by the Ven Mahāsī Sayādaw Agga Mahā Paṇḍita U Sobhana given to his disciples on their induction into Vipassanā Meditation at Sāsana Yeikthā Meditation Centre, Yangon, Myanmar. It was translated from the Burmese by U Nyi Nyi.
 
 ## Mental Noting
  The practice of Vipassanā or Insight Meditation is the effort made by the meditator to understand correctly the nature of the psychophysical phenomena-taking place in his own body. Physical phenomena are the things or objects which one clearly perceives around one. The whole of one's body that one clearly perceives constitutes a group of material qualities (rūpa). Psychical or mental phenomena are acts of consciousness or awareness (nāma). These (nāma-rūpas) are clearly perceived to be happening whenever they are seen, heard, smelt, tasted, touched, or thought of. We must make ourselves aware of them by observing them and noting thus: 'seeing, seeing', 'hearing, hearing', 'smelling smelling', 'tasting, tasting', 'touching, touching', or 'thinking, thinking'.

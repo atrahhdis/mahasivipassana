@@ -101,7 +101,7 @@ For greater clarity, we will explain further the manner of holding the wrong vie
 
 As long as one is not free from the wrong view of self, one cannot expect to escape from the risk of falling into the miserable realms of the hells, the animals or the petas. Though one may be leading a happy life in the human or deva world by virtue of one's merits, yet one is liable to fall back into the miserable states of existence at any time, when one's demerits operate. For this reason, the Buddha pointed out that it is essential to work for the total removal of the wrong view of self:
 
-*"Let a monk go forth mindfully to abandon view of self"*<br>
+*"Let a monk go forth mindfully to abandon view of self"* <br>
 *(sakkaya-ditthippahañaya sato bhikkhu paribbaje).*
 
 To explain: though it is the wish of everyone to avoid old age, disease and death, no one can prevent their inevitable arrival. After death, rebirth follows. Rebirth in any state of existence does not depend on one's own wish. It is not possible to avoid rebirth in the hell realm, the animal realm or the realm of the petas by merely wishing for an escape. Rebirth takes place in any state of existence as the consequence of one's own deeds: there is no choice at all. For these reasons, the round of birth and death, samsara, is very dreadful. Every effort should therefore be made to acquaint oneself with the miserable conditions of samsara, and then to work for an escape from samsara, for the attainment of Nibbana.
@@ -190,14 +190,14 @@ Because people have no practical knowledge in vipassana meditation, they are gen
 
 As regards the mind and the manner of its arising, the Buddha stated in the Dhammapada (v.37):
 
-*Durangamam ekacaram*<br>
-*asariram guhasayam*<br>
+*Durangamam ekacaram* <br>
+*asariram guhasayam* <br>
 *ye cittam saññamessanti*<br>
 *mokkhanti marabandhana.*
 
-*Faring far, wandering alone,*<br>
-*Formless and lying in a cave.*<br>
-*Those who do restrain the mind*<br>
+*Faring far, wandering alone,* <br>
+*Formless and lying in a cave.* <br>
+*Those who do restrain the mind* <br>
 *Are sure released from Mara's bonds.*
 
 Faring far. Mind usually wanders far and wide. While the yogi is trying to carry on with the practice of contemplation in his meditation room, he often finds that his mind has wandered to many far-off places, towns, etc. He also finds that his mind can wander to any of the far-off places which he has previously known at the very moment of thinking or imagining. This fact is discovered with the help of contemplation.

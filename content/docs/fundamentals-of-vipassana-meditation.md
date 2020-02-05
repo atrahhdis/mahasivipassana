@@ -9,7 +9,7 @@ bookToc: true
 # Fundamentals of Vipassana Meditation
 
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Fundamentals%20of%20Vipassana%20Meditation%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Fundamentals%20of%20Vipassana%20Meditation%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Fundamentals%20of%20Vipassana%20Meditation%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Fundamentals%20of%20Vipassana%20Meditation%20-%20Mahasi%20Sayadaw.md)*\
-<sub>***e-book version:*** *1.8 - 2019-12-30*</sub>
+<sub>***e-book version:*** *1.9 - 2029-02-05*</sub>
 
 <details> 
 <summary>ToC</summary>
@@ -408,13 +408,13 @@ The meditator understands for himself  what  the commentaries  say,  “They  ar
 
    Regarding contemplation on impermanence the Commentary says:
    
-*“ ... the impermanent should be understood. “*
+*“ ... the impermanent should be understood.“*
 
-**“ ... impermanence should be understood. “*
+*“ ... impermanence should be understood. “*
 
-**“ .. . the discernment of the impermanence should be understood.”*
+*“ .. . the discernment of the impermanence should be understood.”*
 
-**(Visuddhimagga,i,281.)*
+*(Visuddhimagga,i,281.)*
 
 This brief statement is followed by the explanation: “Here, ‘the impermanent’ are  the  five aggregates.” You must know that the five aggregates are impermanent. Although you may not understand it by your own knowledge, you should know this much. Not only that. You should know that they are all suffering, all without a self. If you know this much, you can take up insight meditation. This understanding made by learning is given in Culatanhasankhaya Sutta:
 
