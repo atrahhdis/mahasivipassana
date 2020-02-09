@@ -38,6 +38,23 @@ However, if you want to learn the basics in order to get going with your meditat
 
 Although the material provided on this website is more than enough to get you started, if you want to have a deeper knowledge of Mahasi Vipassana, you should definitely read his book [The Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
+
+&nbsp;
+## Caution
+
+There is a popular notion that meditation practice comes with exclusively beneficial/positive experiences and outcomes.
+
+This is not true.
+
+People interested in insight meditation, are highly suggested to become aware of the [possible adverse effects](https://vimeo.com/378177771) of such practices.
+
+Mahasi Vipassana practitioners, are highly encouraged to be informed about [the stages of the progress of insight]({{< ref "the-progress-of-insight-map.md" >}}) and especially about the **Dukkha Nanas** (widely known in contemporary meditation communities as "the **Dark Night**").
+
+ 
+
+
+
+
 &nbsp;
 ## Note
 
