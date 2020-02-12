@@ -10,7 +10,7 @@ bookToc: false
 
 In this section you will find additional texts by various meditation masters, related to Mahasi Vipassana.
 
-- [Vipassana Meditation Guidelines]({{< ref "/docs/vipassana-meditation-guidelines.md" >}})
-- [How To Meditate]({{< ref "/docs/how-to-meditate-a-beginners-guide-to-peace.md" >}})
-- [What Is Vipassana Meditation and How Do You Practice It?]({{< ref "/docs/what-is-vipassana-by-sayadaw-u-pandita.md" >}})
-- [How to Do Insight (Sitting and Walking) Meditation]({{< ref "/docs/how-to-do-insight-sitting-and-walking-meditation.md" >}})
+- [What Is Vipassana Meditation and How Do You Practice It?]({{< ref "/docs/what-is-vipassana-by-sayadaw-u-pandita.md" >}}) by [Sayadaw U Pandita](https://en.wikipedia.org/wiki/U_Pandita)
+- [How to Do Insight (Sitting and Walking) Meditation]({{< ref "/docs/how-to-do-insight-sitting-and-walking-meditation.md" >}}) by [Sayadaw U Pandita](https://en.wikipedia.org/wiki/U_Pandita)
+- [Vipassana Meditation Guidelines]({{< ref "/docs/vipassana-meditation-guidelines.md" >}}) by [Chanmyay Sayadaw](https://en.wikipedia.org/wiki/Chanmyay_Sayadaw) 
+- [How To Meditate]({{< ref "/docs/how-to-meditate-a-beginners-guide-to-peace.md" >}}) by [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org/p/about.html)

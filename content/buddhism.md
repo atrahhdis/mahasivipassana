@@ -26,7 +26,7 @@ Please note that the person (who is heavily influenced by the [Pragmatic Dharma 
 
 - [Buddhism Without Beliefs: A Contemporary Guide to Awakening](https://www.amazon.com/Buddhism-Without-Beliefs-Contemporary-Awakening/dp/1573226564) by [Stephen Batchelor](https://www.stephenbatchelor.org/index.php/en/) 
 
-**Note:** It is highly suggested to visit and read the [reddit Buddhism book list](https://www.reddit.com/r/Buddhism/wiki/booklist).
+**Note:** It is strongly suggested to visit and read the [reddit Buddhism book list](https://www.reddit.com/r/Buddhism/wiki/booklist).
 
 &nbsp;
 ## Videos

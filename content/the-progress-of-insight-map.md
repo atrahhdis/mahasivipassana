@@ -35,7 +35,7 @@ You can download **Visuddhimagga** in various e-book formats, using the followin
 
 ### Anagarika Munindra's talk on the progress of insight
 
-In December of 1983, Anagarika Munindra, gave a talk at IMS regardring the progress of insight:
+In December of 1983, Anagarika Munindra, gave a talk at IMS regardring the PoI:
 
 - [Student Group #5 Progress of Insight](https://dharmaseed.org/teacher/129/talk/35774/19831205-Anagarika_Munindra-IMSRC-student_group_5_progress_of_insight-35774.mp3)
 

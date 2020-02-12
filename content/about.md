@@ -28,7 +28,7 @@ You can browse MVMR sources [on Github](https://github.com/atrahhdis/mahasivipas
 
 ## E-books
 
-All e-books offered on MVMR are based on freely distributed Dharma books.
+All e-books offered on MVMR are based on freely distributed Dharma material.
 
 ### Software
 

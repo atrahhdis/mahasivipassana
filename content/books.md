@@ -9,7 +9,7 @@ bookToc: false
 
 # Useful Books
 
-Most of the Mahasi Sayadaw's texts included in MVMR are offered in both **EPUB** and **AZW3**/**MOBI** (kindle) formats. You can access and read each text from the menu on the left and download them using the links on top of each page.
+Most of the texts by Mahasi Sayadaw found on MVMR are offered in both **EPUB** and **AZW3**/**MOBI** (kindle) formats. You can access and read each text from the menu on the left and download them using the links on top of each page.
 
 In this section you will find additional **downloadable** material:
 
@@ -23,7 +23,7 @@ In this section you will find additional **downloadable** material:
 
 - [Essentials of Insight Meditation Practice](https://mahasivipassana.com/downloads/pdf/essentials.pdf) by [Venerable Sujiva](https://en.wikipedia.org/wiki/Sujiva) *(original [source](http://www.buddhanet.net/))*
 
-**Note:** You can also have a look at MVMR [Supplementary Texts]({{< ref "supplementary-texts.md" >}}) subsection. However these documents are only available for online reading.
+**Note:** You may also want to have a look at MVMR [Supplementary Texts]({{< ref "supplementary-texts.md" >}}) subsection. However these documents are only available for online reading.
 
 &nbsp;
 ### Mahasi book collections

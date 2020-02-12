@@ -8,36 +8,36 @@ bookToc: false
 
 # Welcome to Mahasi Vipassana Meditation Resources (MVMR)
 
-On this website you will find all the needed information in order to learn the practice of **Vipassana (Insight) meditation**, as taught by Venerable [Mahasi Sayadaw]({{< ref "bio.md" >}}).
+On this website you will find all the required information in order to learn the practice of **Vipassana (Insight) meditation**, as taught by Venerable [Mahasi Sayadaw]({{< ref "bio.md" >}}).
 
 **Mahasi Vipassana** meditation technique is widely known as **"Mahasi noting"**.
 
 
 ## How to use this website
 
-It is highly suggested to **read all the included Mahasi material**, as this will help you understand in depth the fundamentals of his famous Vipassana meditation **noting technique**.
+It is highly suggested to read all the Mahasi material offered on MVMR, as this will help you understand the technique in depth. 
 
-However, if you want to learn the basics in order to get going with your meditation practice, you can:
+However, if you want to learn the basics in order to get going with your practice, you can:
 
-1. Read: 
-	- [Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}), which is the shortest introduction to noting **or**
-	- [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}}), which is the most popular text by Mahasi Sayadaw
+-  Read: 
 
-2. Read the [Q&A with Mahasi Sayadaw]({{< ref "mahasi-q&a.md" >}})
+[Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}) (the shortest available introduction to noting)
 
-3. Watch the suggested material in the [Videos section]({{< ref "videos.md" >}}).
+**or**
+	
+[Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}}) (the most popular text by Mahasi Sayadaw)
+
+- Read the [Q&A with Mahasi Sayadaw]({{< ref "mahasi-q&a.md" >}})
+
+- Watch the suggested material in the [Videos section]({{< ref "videos.md" >}}).
 
 
-**Note:** Most of the [Mahasi Sayadaw]({{< ref "bio.md" >}}) texts found on MVMR, are **offered in downloadable e-book (epub/mobi/azw3) formats** for easier offline reading.
+**Note:** Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) found on MVMR, are **offered in downloadable e-book (epub/mobi/azw3) formats** for easier offline reading.
 
 &nbsp;
 ## What to read next
 
-
-
-
-Although the material provided on this website is more than enough to get you started, if you want to have a deeper knowledge of Mahasi Vipassana, you should definitely read his book [The Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
-
+Although the material provided on this website is more than enough to get you started, if you want to get a deeper knowledge on Mahasi Vipassana, you should definitely read his book [The Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
 &nbsp;
 ## Caution
@@ -48,17 +48,12 @@ This is not true.
 
 People interested in insight meditation, are highly suggested to become aware of the [possible adverse effects](https://vimeo.com/378177771) of such practices.
 
-Mahasi Vipassana practitioners, are highly encouraged to be informed about [the stages of the progress of insight]({{< ref "the-progress-of-insight-map.md" >}}) and especially about the **Dukkha Nanas** (widely known in contemporary meditation communities as "the **Dark Night**").
-
- 
-
-
-
+Mahasi Vipassana practitioners, are encouraged to be informed about [the stages of the progress of insight]({{< ref "the-progress-of-insight-map.md" >}}) and especially about the **Dukkha Nanas** (widely known in contemporary meditation communities as the "**Dark Night**").
 
 &nbsp;
 ## Note
 
-The person behind [MVMR]({{< ref "_index.md" >}}) is far from being considered an expert in Mahasi Vipassana or Buddhism in general and thus is unable to provide any guidance or advice.
+The person behind [MVMR]({{< ref "_index.md" >}}) is far from being considered an expert in Mahasi Vipassana or meditation practice in general and thus is unable to provide any guidance or advice.
 
 This website was created **by a beginner** and is nothing more than a "personal notebook" published online, aiming to be a helpful resource for other people around the world with the same interest in insight meditation.
 

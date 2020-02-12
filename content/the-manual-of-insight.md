@@ -12,7 +12,7 @@ bookToc: true
 
 [The Manual of Insight](http://mahasimanualofinsight.org/) is the most comprehensive guide for the practice of Mahasi Vipassana (Insight) meditation.
 
-It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}}) and it is a must read - *or even better a must study* - for practicioners interested in Mahasi Vipassana.
+It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}}) and it is a must read - *or even better a must study* - for practicioners that want to go deeper in Mahasi Vipassana.
 
 **Chapter 5** of this book is the most easily understandable and practical how-to for Mahasi Sayadaw's famous **noting technique**. The exact same text but with an older English translation, can also be found on this website by pressing these links:
 
@@ -20,7 +20,7 @@ It is considered to be the magnus opus of [Mahasi Sayadaw]({{< ref "bio.md" >}})
 - [Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
 
 
-In **Chapter 6** Mahasi Sayadaw provides an extended analysis on the stages (map) of the progress of insight.
+In **Chapter 6**, Mahasi Sayadaw provides an extended analysis on the stages (map) of the progress of insight.
 
 For further information about this map, please read ["The Progress of Insight Map"]({{< ref "the-progress-of-insight-map.md" >}}).
 
@@ -52,7 +52,7 @@ Chapters [1](https://www.reddit.com/r/streamentry/comments/6z1k1w/theory_the_man
 
 This e-book created by [MVMR]({{< ref "_index.md" >}}), is a collection of texts from the above [r/streamentry](https://www.reddit.com/r/streamentry/) online [study group](https://www.reddit.com/r/streamentry/comments/6vejaf/theory_the_manual_of_insight_study_group/). It contains the summaries of 3 [r/streamentry](https://www.reddit.com/r/streamentry/) members: [u/filpt](https://www.reddit.com/user/filpt), [u/TetrisMcKenna](https://www.reddit.com/user/TetrisMcKenna) and [u/xugan97](https://www.reddit.com/user/xugan97).
 
-The purpose of this book is not to be read instead of or before the **"The Manual of Insight"**, but as an additional resource that will assist the reader to better understand Mahasi Sayadaw's book.
+The purpose of this text collection is not to be read instead of or before the **"The Manual of Insight"**, but to be used as an additional resource that will assist the reader to better understand Mahasi Sayadaw's book.
 
 [**Read It Online**]({{< ref "a-r_streamentry-summary-of-mahasi-sayadaws-the-manual-of-insight.md" >}})
 
@@ -74,7 +74,7 @@ The purpose of this book is not to be read instead of or before the **"The Manua
 
 [George Haas](https://www.mettagroup.org/about/) has created a 47 episode (in fact 45, as 2 of them deal with a different subject) podcast about (a part of ) the "Manual of Insight" named [Deepening Your Practice (DYP)](https://www.mettagroup.org/podcast/2016/6/15/episode-1-manual-of-insight-introduction). 
 
-**Note:** George Haas (a student of Shinzen Young) does not teach Mahasi Vipassana, instead his approach is based on a  mixture of Metta/Vipassana techniques. His podcast deals with both the "Manual of Insight" book analysis and his own meditation method. 
+**Note:** George Haas (a student of Shinzen Young) does not teach Mahasi Vipassana. His approach is based on a mixture of Metta/Vipassana techniques. His podcast deals with both the "Manual of Insight" book analysis and his own meditation method. 
 
 At the end of each lecture you may find meditation instructions that are not related with Mahasi Sayadaw's famous noting technique.
 
