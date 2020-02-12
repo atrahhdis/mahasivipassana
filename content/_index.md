@@ -21,10 +21,10 @@ However, if you want to learn the basics in order to get going with your practic
 
 - Read: 
 
-  - [Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}) (the shortest available introduction to noting)
+  - [Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}) *(the shortest available introduction to noting)*
 
-  - [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}}) (the most popular text by Mahasi Sayadaw)
-
+  - [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}}) *(the most popular text by Mahasi Sayadaw)
+*
   - [Q&A with Mahasi Sayadaw]({{< ref "mahasi-q&a.md" >}})
 
 
