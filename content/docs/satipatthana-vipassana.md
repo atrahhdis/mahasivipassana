@@ -12,29 +12,6 @@ bookToc: true
 <sub>***e-book version:*** *1.8 - 2019-12-30*</sub>
 <br>
 
-<details> 
-<summary>ToC</summary>
-
-  * [Introduction](#introduction)
-  * [Satipatthana Vipassana](#satipatthana-vipassana)
-  * [The Development of Wisdom](#the-development-of-wisdom)
-    + [Seeing](#seeing)
-    + [Hearing, Etc.](#hearing-etc)
-    + [Mind](#mind)
-  * [The Beginner's Exercise](#the-beginner-s-exercise)
-    + [Sitting](#sitting)
-    + [Rising-Falling](#rising-falling)
-    + [Outline of Basic Exercises](#outline-of-basic-exercises)
-  * [Other Exercises](#other-exercises)
-    + [Walking](#walking)
-    + [Sitting](#sitting-1)
-    + [Lying Down](#lying-down)
-    + [Sleep](#sleep)
-    + [Waking](#waking)
-    + [Washing and Eating](#washing-and-eating)
-  * [Summary of Essential Points](#summary-of-essential-points)
-</details> 
-
 ## Introduction
 
 On the personal request of the Honorable U Nu, Prime Minister, and Thado Thiri Thudhamma Sir U Thwin, President of the Buddha Sasananuggaha Association, the Venerable Mahasi Sayadaw, Bhadanta Sobhana Mahathera, came down from Shwebo to Rangoon on 10th November 1949. The Meditation Centre at the Thathana Yeiktha, Hermitage Road, Rangoon, was formally opened on 4th December 1949, when the Mahasi Sayadaw began to give to fifteen devotees a methodical training in the right system of Satipatthana Vipassana.

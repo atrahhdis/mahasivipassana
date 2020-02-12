@@ -10,22 +10,6 @@ bookToc: true
 
 **Author: [Chanmyay Sayadaw](https://en.wikipedia.org/wiki/Chanmyay_Sayadaw)**
 
-<details> 
-<summary>ToC</summary>
-
-- [Preface](#preface)
-- [The Practice](#the-practice)
-  * [Mental Noting](#mental-noting)
-  * [Sitting Meditation](#sitting-meditation)
-  * [Walking Meditation](#walking-meditation)
-  * [Mindfulness Of Daily Activities](#mindfulness-of-daily-activities)
-  * [Pain and Patience](#pain-and-patience)
-  * [Noting Mental States](#noting-mental-states)
-- [Appendix](#appendix)
-  * [The Eight Precepts](#the-eight-precepts)
-
-</details> 
-
 ## Preface
 
 This collection of 'sayings' by Chanmyay Sayadaw is from his teachings given during the 1983 retreat he led at the Malaysian Buddhist Meditation Centre in Penang.

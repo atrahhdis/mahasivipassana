@@ -11,21 +11,6 @@ bookToc: true
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Practical%20Vipassana%20Meditation%20Exercises%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Practical%20Vipassana%20Meditation%20Exercises%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Practical%20Vipassana%20Meditation%20Exercises%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Practical%20Vipassana%20Meditation%20Exercises%20-%20Mahasi%20Sayadaw.md)*\
 <sub>***e-book version:*** *1.6 - 2019-12-30*</sub>
 
- <details> 
-<summary>ToC</summary>
-
-  * [Preface](#preface)
-  * [Mental Noting](#mental-noting)
-  * [Noting Thoughts](#noting-thoughts)
-  * [Pain and Discomfort](#pain-and-discomfort)
-  * [Changing Your Posture](#changing-your-posture)
-  * [Walking Meditation](#walking-meditation)
-  * [Continuity of Practice](#continuity-of-practice)
-  * [Mindfulness of Daily Activities](#mindfulness-of-daily-activities)
-  * [Summary](#summary)
-  * [The arising of Insight](#the-arising-of-insight)
-</details> 
-
 ## Preface
 The following is a talk by the Ven Mahāsī Sayādaw Agga Mahā Paṇḍita U Sobhana given to his disciples on their induction into Vipassanā Meditation at Sāsana Yeikthā Meditation Centre, Yangon, Myanmar. It was translated from the Burmese by U Nyi Nyi.
 

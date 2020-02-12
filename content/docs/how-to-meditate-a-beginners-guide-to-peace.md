@@ -9,20 +9,6 @@ bookToc: true
 
 **Author: [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org/p/about.html)**
 
-<details> 
-<summary>ToC</summary>
-
-  * [What is Meditation](#what-is-meditation)
-  * [Sitting Meditation](#sitting-meditation)
-  * [Walking Meditation](#walking-meditation)
-  * [Fundamentals](#fundamentals)
-  * [Mindful Prostration](#mindful-prostration)
-  * [Daily Life](#daily-life)
-  * [Appendix](#appendix)
-  	+ [Footnotes](#footnotes)
-  	+ [Illustrations](#illustrations)
-</details> 
-
 ## What is Meditation
 
 This book is meant to serve as an introductory discourse on how to meditate for those with little or no experience in the practice of meditation, as well as those who are experienced in other types of meditation but interested in learning a new meditation technique. In this first chapter, I will explain what meditation is, and how one should go about practicing it.

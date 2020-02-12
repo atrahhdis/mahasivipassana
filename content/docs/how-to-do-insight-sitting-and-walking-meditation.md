@@ -10,21 +10,6 @@ bookToc: true
 
 **Author: [Sayadaw U Pandita](https://en.wikipedia.org/wiki/U_Pandita)**
 
-<details> 
-<summary>ToC</summary>
-
-  * [Introduction](#introduction)
-  * [Qualities Needed During Meditation Practice](#qualities-needed-during-meditation-practice)
-  * [The Practice of Insight Meditation](#the-practice-of-insight-meditation)
-  * [Basic Instructions for Insight Meditation](#basic-instructions-for-insight-meditation)
-    + [Posture](#posture)
-    + [Primary Object](#primary-object)
-  * [How to Deal with Other Objects](#how-to-deal-with-other-objects)
-  * [Mental Factors for Success](#mental-factors-for-success)
-  * [Schedule on Retreat](#schedule-on-retreat)
-  * [Walking Meditation Instructions](#walking-meditation-instructions)
-</details> 
-
 ## Introduction
 
 With every moment of noting an object, a meditator who practices insight meditation enters the noble eightfold path, the way of release from suffering. In our tradition, the primary object of attention is the rising and falling of the abdomen due to the breathing process. Each time a meditator notes the rising and falling of the abdomen, he or she has to make an effort to reach the object. In the language of the noble eightfold path, this is known as right effort. The effort expended allows the meditator to observe and remember the object. Distraction is reduced; one begins to be able to sustain attentive mindfulness on the object. Eventually mindfulness arises continuously. This, in the language of the noble eightfold path, is right mindfulness. When mindfulness is continuous and sustained, then gradually the mind will begin to stay on the object in a fixed manner. This, again in the language of the noble eightfold path, is right concentration.

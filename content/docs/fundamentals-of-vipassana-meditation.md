@@ -11,36 +11,6 @@ bookToc: true
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Fundamentals%20of%20Vipassana%20Meditation%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Fundamentals%20of%20Vipassana%20Meditation%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Fundamentals%20of%20Vipassana%20Meditation%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Fundamentals%20of%20Vipassana%20Meditation%20-%20Mahasi%20Sayadaw.md)*\
 <sub>***e-book version:*** *1.9 - 2029-02-05*</sub>
 
-<details> 
-<summary>ToC</summary>
-
-  * [A Word from the Translator](#a-word-from-the-translator)
-  * [Introductory](#introductory)
-  * [Calm and Insight](#calm-and-insight)
-  * [Aggregates](#aggregates)
-  * [Knowledge and Freedom](#knowledge-and-freedom)
-  * [The Right Method](#the-right-method)
-  * [What For and What Time?](#what-for-and-what-time-)
-  * [Origination](#origination)
-  * [How Grasping Arises](#how-grasping-arises)
-  * [Meditate Right Now](#meditate-right-now)
-  * [Incessant Work](#incessant-work)
-  * [Things Fall Apart](#things-fall-apart)
-  * [Impermanence](#impermanence)
-  * [Rediscovery](#rediscovery)
-  * [Peace at Last](#peace-at-last)
-  * [Progress](#progress)
-  * [Noble Path](#noble-path)
-  * [Words of Encouragement](#words-of-encouragement)
-    + [The Young Weaver](#the-young-weaver)
-    + [The Dull Young Monk](#the-dull-young-monk)
-    + [A Disciple of Sāriputta Thera](#a-disciple-of-sāriputta-thera)
-    + [Uposathā the Goddess](#uposath--the-goddess)
-    + [Truths](#truths)
-  * [Appendix](#appendix)
-    + [Glossary](#glossary)
-</details> 
-
 ## A Word from the Translator
 
 “The Fundamentals of Vipassana Meditation” is a series of lectures delivered by the Venerable Mahasi Sayadaw during the  New Year  Holidays of the Burmese Era 1320 (1959). The lectures first appeared in book form in 1961, and have ever since enjoyed such popularity with the readers that they have run into several editions. This is their first English translation.

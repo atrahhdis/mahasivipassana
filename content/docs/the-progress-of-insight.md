@@ -11,42 +11,6 @@ bookToc: true
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/The%20Progress%20of%20Insight%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/The%20Progress%20of%20Insight%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/The%20Progress%20of%20Insight%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/The%20Progress%20of%20Insight%20-%20Mahasi%20Sayadaw.md)*\
 <sub>***e-book version:*** *1.8 - 2019-12-30*</sub>
 
- <details> 
-<summary>ToC</summary>
-
-  * [Translator's Foreword](#translator-s-foreword)
-  * [Introduction](#introduction)
-  * [I. Purification of Conduct](#i-purification-of-conduct)
-    + [The Method of Insight in Brief](#the-method-of-insight-in-brief)
-  * [II. The Purification of Mind](#ii-the-purification-of-mind)
-  * [III. Purification of View](#iii-purification-of-view)
-    + [1. Analytical Knowledge of Body and Mind](#1-analytical-knowledge-of-body-and-mind)
-  * [IV. Purification by Overcoming Doubt](#iv-purification-by-overcoming-doubt)
-    + [2. Knowledge by Discerning Conditionality](#2-knowledge-by-discerning-conditionality)
-    + [3. Knowledge of Comprehension](#3-knowledge-of-comprehension)
-    + [4. Knowledge of Arising and Passing Away: The Ten Corruptions of Insight](#4-knowledge-of-arising-and-passing-away-the-ten-corruptions-of-insight-sup-a-href-fn27-id-r27-27-a-sup)
-  * [V. Purification by Knowledge and Vision of What is Path and Not-path](#v-purification-by-knowledge-and-vision-of-what-is-path-and-not-path)
-  * [VI. Purification by Knowledge and Vision of the Course of Practice](#vi-purification-by-knowledge-and-vision-of-the-course-of-practice)
-    + [5. Knowledge of Dissolution](#5-knowledge-of-dissolution)
-    + [6. Awareness of Fearfulness](#6-awareness-of-fearfulness)
-    + [7. Knowledge of Misery](#7-knowledge-of-misery)
-    + [8. Knowledge of Disgust](#8-knowledge-of-disgust)
-    + [9. Knowledge of Desire for Deliverance](#9-knowledge-of-desire-for-deliverance)
-    + [10. Knowledge of Re-observation](#10-knowledge-of-re-observation)
-    + [11. Knowledge of Equanimity about Formations](#11-knowledge-of-equanimity-about-formations)
-    + [12. Insight Leading to Emergence](#12-insight-leading-to-emergence)
-    + [13. Knowledge of Adaptation](#13-knowledge-of-adaptation)
-    + [14. Maturity Knowledge](#14-maturity-knowledge)
-  * [VII. Purification by Knowledge and Vision](#vii-purification-by-knowledge-and-vision)
-    + [15. Path Knowledge](#15-path-knowledge)
-    + [16. Fruition Knowledge](#16-fruition-knowledge)
-    + [17. Knowledge of Reviewing](#17-knowledge-of-reviewing)
-    + [18. Attainment of Fruition](#18-attainment-of-fruition)
-    + [19. The Higher Paths and Fruitions](#19-the-higher-paths-and-fruitions)
-  * [Conclusion](#conclusion)
-  * [Footnotes](#footnotes)
-</details> 
- 
 ## Translator's Foreword
 To present to the reading public a treatise on Buddhist meditation needs no word of apology today. In wide circles of the West, Buddhist meditation is no longer regarded as a matter of purely academic or exotic interest. Under the stress and complexity of modern life the need for mental and spiritual regeneration is now widely felt, and in the field of the mind’s methodical development the value of Buddhist meditation has been recognized and tested by many.
 

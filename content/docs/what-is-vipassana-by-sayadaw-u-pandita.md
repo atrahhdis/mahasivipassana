@@ -10,19 +10,6 @@ bookToc: true
 
 **Author: [Sayadaw U Pandita](https://en.wikipedia.org/wiki/U_Pandita)**
 
-<details> 
-<summary>ToC</summary>
-
-  * [Where & How to Sit](#where-how-to-sit)
-  * [The Breath During Meditation](#the-breath-during-meditation)
-  * [Developing Attention](#developing-attention)
-  * [During Practice](#during-practice)
-  * [Ending Your Meditation](#ending-your-meditation)
-  * [Retreat & Walking Meditation](#retreat-walking-meditation)
-  * [Developing Insight & Concentration](#developing-insight-concentration)
-  * [The Progress of Insight](#the-progress-of-insight)
-</details> 
-
 ## Where & How to Sit
 
 **1. Which place is best for meditation?**

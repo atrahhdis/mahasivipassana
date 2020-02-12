@@ -11,27 +11,6 @@ bookToc: true
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Practical%20Insight%20Meditation_%20Progressive%20Practice%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Practical%20Insight%20Meditation_%20Progressive%20Practice%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Practical%20Insight%20Meditation_%20Progressive%20Practice%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Practical%20Insight%20Meditation_%20Progressive%20Practice%20-%20Mahasi%20Sayadaw.md)*\
 <sub>***e-book version:*** *1.7 - 2019-12-29*</sub>
 
-
- <details> 
-<summary>ToC</summary>
-
-  * [Progressive Practice](#progressive-practice)
-  * [How Nirvana is Realized](#how-nirvana-is-realized)
-    + [Fruition Knowledge *(phala-ñana)*](#fruition-knowledge---phala--ana--)
-    + [Reviewing](#reviewing)
-    + [How to Attain to the Higher Paths (Maggas)](#how-to-attain-to-the-higher-paths--maggas-)
-    + [Advice](#advice)
-    + [A Special Note](#a-special-note)
-  * [APPENDIX](#appendix)
-    + [Techniques of Meditation](#techniques-of-meditation)
-    + [Rising and Falling Movement of the Abdomen](#rising-and-falling-movement-of-the-abdomen)
-    + [Starting with Materiality](#starting-with-materiality)
-    + [Contemplation on the Arising at the Six Sense Doors](#contemplation-on-the-arising-at-the-six-sense-doors)
-    + [Insight Meditations Without Prior Jhana Development](#insight-meditations-without-prior-jhana-development)
-    + [Attainment of Purity of Mind by Access Concentration](#attainment-of-purity-of-mind-by-access-concentration)
-</details> 
-
-
 ## Progressive Practice
 
 When as mentioned above, by dint of diligent practice, mindfulness and concentration have improved, the meditator will notice the pairwise occurrence of an object and the knowing of it, such as the rising and awareness of it, the falling and awareness of it, sitting and awareness of it, bending and awareness of it, stretching and awareness of it, lifting and awareness of it, putting down and awareness of it. Through concentrated attention (mindfulness) he knows how to distinguish each bodily and mental process: "The rising movement is one process; the knowing of it is another." He realizes that each act of knowing has the nature of "going towards an object." Such a realization refers to the characteristic function of the mind as inclining towards an object, or cognizing an object. One should know that the more clearly a material object is noticed, the clearer becomes the mental process of knowing it. This fact is stated thus in the Visuddhi Magga:

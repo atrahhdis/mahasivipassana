@@ -10,20 +10,6 @@ bookToc: true
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Practical%20Insight%20Meditation_%20Basic%20Practice%20-%20Mahasi%20Sayadaw.md)*\
 <sub>***e-book version:*** *2.4 - 2019-12-29*</sub>
  
-<details> 
-<summary>ToC</summary>
- 
-  * [Preface](#preface)
-  * [Prepatory Stage](#prepatory-stage)
-  * [Basic Exercise I](#basic-exercise-i)
-  * [Basic Exercise II](#basic-exercise-ii)
-  * [Basic Exercise III](#basic-exercise-iii)
-  * [Advancement in Contemplation](#advancement-in-contemplation)
-  * [Basic Exercise IV](#basic-exercise-iv)
-  * [Summary](#summary)
-  * [Footnotes](#footnotes)
-</details> 
-
 ## Preface 
 
 It is a truism to say that nobody likes suffering and everybody seeks happiness. In this world of ours, human beings are making all possible efforts for prevention and alleviation of suffering, and enjoyment of happiness. Nevertheless, their efforts are mainly directed towards physical well-being by material means. Happiness is, after all, conditioned by attitudes of mind, and yet only a few persons give real thought to mental development, fewer still practice mind training in earnest.
