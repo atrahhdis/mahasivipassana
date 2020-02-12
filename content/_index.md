@@ -19,13 +19,14 @@ It is highly suggested to read all the Mahasi material offered on MVMR, as this 
 
 However, if you want to learn the basics in order to get going with your practice, you can:
 
--  Read: 
+- Read: 
 
- - [Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}) (the shortest available introduction to noting)
+  - [Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}) (the shortest available introduction to noting)
 
   - [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}}) (the most popular text by Mahasi Sayadaw)
 
   - [Q&A with Mahasi Sayadaw]({{< ref "mahasi-q&a.md" >}})
+
 
 - Watch the suggested material in the [Videos section]({{< ref "videos.md" >}}).
 
