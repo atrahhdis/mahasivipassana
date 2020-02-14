@@ -40,9 +40,7 @@ Although the material provided on this website is more than enough to get you st
 &nbsp;
 ## Caution
 
-There is a popular notion that meditation practice comes with exclusively beneficial/positive experiences and outcomes.
-
-This is not true.
+There is a popular notion that meditation practice comes with exclusively beneficial/positive experiences and outcomes. [This is not true](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0176239&type=printable).
 
 People interested in insight meditation, are highly suggested to become aware of the [possible adverse effects](https://vimeo.com/378177771) of such practices.
 
