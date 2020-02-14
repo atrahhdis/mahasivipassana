@@ -23,8 +23,7 @@ In this section you will find additional **downloadable** material:
 
 - [Essentials of Insight Meditation Practice](https://mahasivipassana.com/downloads/pdf/essentials.pdf) by [Venerable Sujiva](https://en.wikipedia.org/wiki/Sujiva) *(original [source](http://www.buddhanet.net/))*
 
-- [The Meaning of Satipaṭṭhāna](https://mahasivipassana.com/downloads/pdf/the-meaning-of-satipatthana.pdf) 
-) by [Sayadaw U Pandita](https://en.wikipedia.org/wiki/U_Pandita)
+- [The Meaning of Satipaṭṭhāna](https://mahasivipassana.com/downloads/pdf/the-meaning-of-satipatthana.pdf) by [Sayadaw U Pandita](https://en.wikipedia.org/wiki/U_Pandita)
 
 **Note:** You may also want to have a look at the MVMR [Supplementary Texts]({{< ref "supplementary-texts.md" >}}) subsection. However these documents are only available for online reading.
 
