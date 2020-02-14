@@ -9,9 +9,9 @@ bookToc: false
 # Buddhism Resources
 
 
-Although practicing **Mahasi (noting) Vipassana (Insight) Meditation** does not require a Buddhist background, it's true that it's tightly connected with (Theravada) Buddhist tradition and philosophy.
+Although practicing **Mahasi** (noting) **Vipassana** (Insight) Meditation does not require a Buddhist background, it's true that it's tightly connected with (Theravada) Buddhist tradition and philosophy.
 
-If you are not familiar with Buddhism and you want to get started, below you will find some useful resources for beginners.
+If you are not familiar with Buddhism, below you will find some useful resources for beginners.
 
 Please note that the person (*who is heavily influenced by the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/))* behind this website does not follow any specific Buddhist tradition, thus all the suggestions below cover a wide range of Buddhism variations and teachings.
 
@@ -26,7 +26,7 @@ Please note that the person (*who is heavily influenced by the [Pragmatic Dharma
 
 - [Buddhism Without Beliefs: A Contemporary Guide to Awakening](https://www.amazon.com/Buddhism-Without-Beliefs-Contemporary-Awakening/dp/1573226564) by [Stephen Batchelor](https://www.stephenbatchelor.org/index.php/en/) 
 
-**Note:** It is strongly suggested to visit and read the [reddit Buddhism book list](https://www.reddit.com/r/Buddhism/wiki/booklist).
+**Note:** For more reading suggestions, you may visit and read the [reddit Buddhism book list](https://www.reddit.com/r/Buddhism/wiki/booklist).
 
 &nbsp;
 ## Videos
