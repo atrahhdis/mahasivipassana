@@ -21,16 +21,16 @@ However, if you want to learn the basics in order to get going with your practic
 
 - Read: 
 
-  - [Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}) *(the shortest available introduction to noting)*
+  - [Practical Vipassana meditation exercises]({{< ref "practical-vipassana-meditation-exercises.md" >}}) (the shortest available introduction to noting)
 
-  - [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}}) *(the most popular text by Mahasi Sayadaw)*
+  - [Practical Insight Meditation: Basic Practice]({{< ref "practical-insight-meditation-basic-practice.md" >}}) (the most popular text by Mahasi Sayadaw)
   - [Q&A with Mahasi Sayadaw]({{< ref "mahasi-q&a.md" >}})
 
 
 - Watch the suggested material in the [Videos section]({{< ref "videos.md" >}}).
 
 
-***Note:*** *Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) found on MVMR, are offered in downloadable e-book (epub/mobi/azw3) formats for easier offline reading.*
+**Note:** Most of the texts by [Mahasi Sayadaw]({{< ref "bio.md" >}}) found on MVMR, are offered in downloadable e-book (epub/mobi/azw3) formats for easier offline reading.
 
 &nbsp;
 ## What to read next
