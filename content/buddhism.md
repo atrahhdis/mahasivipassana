@@ -13,7 +13,7 @@ Although practicing **Mahasi** (noting) **Vipassana** (Insight) Meditation does 
 
 If you are not familiar with Buddhism, below you will find some useful resources for beginners.
 
-Please note that the person (*who is heavily influenced by the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/))* behind this website does not follow any specific Buddhist tradition, thus all the suggestions below cover a wide range of Buddhism variations and teachings.
+Please note that the person (who is heavily influenced by the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/)) behind this website does not follow any specific Buddhist tradition, thus all the suggestions below cover a wide range of Buddhism variations and teachings.
 
 
 ## Books
