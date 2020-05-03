@@ -397,6 +397,7 @@ Should you find anything lacking or unclear in these pages, or if you would like
 <p id="fn13"><a href="#r13">13.</a> The following is in accordance with the eight meditator precepts normally taken by Buddhist meditators on holidays or during intensive meditation courses, adding the three precepts below to the five above and undertaking total celibacy.</p>
 <br>
 <br>
+
 ### Illustrations
 
 
