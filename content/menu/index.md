@@ -16,7 +16,8 @@ headless: true
  	- [The Progress of Insight]({{< ref "/docs/the-progress-of-insight.md" >}})
 - [**The Manual of Insight**]({{< ref "/the-manual-of-insight.md" >}})
 - [**The Progress of Insight Map**]({{< ref "/the-progress-of-insight-map.md" >}})
-- [**Supplementary Texts**]({{< ref "/supplementary-texts.md" >}}) 
+- [**Supplementary Texts**]({{< ref "/supplementary-texts.md" >}})
+- [**Contemporary Noting Techniques**]({{< ref "/contemporary-noting.md" >}}) 
 - **Additional Resources**
 	- [Books]({{< ref "/books.md" >}}) 
 	- [Audio]({{< ref "/audio.md" >}}) 
