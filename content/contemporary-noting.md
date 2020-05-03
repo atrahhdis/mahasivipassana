@@ -24,7 +24,7 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 - [Noting Thoughts](https://www.youtube.com/watch?v=0B_Jdu8k-OE)
 - [Noting Pleasant & Unpleasant](https://www.youtube.com/watch?v=Jib-fuJOvYo)
 - [Noting Mind States](https://www.youtube.com/watch?v=TvXij9B5xoQ)
-- [Freestyle Noting Meditation](https://www.youtube.com/watch?v=0-58IoZMNss)
+- [Freestyle Noting Meditation](https://www.youtube.com/watch?v=0-58IoZMNss) (a combination of all four categories)
 
 ### Instructional Audio
 
