@@ -18,7 +18,7 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 > 
 > Detailed noting, however, is better than skeletal noting. That’s because detailed noting “uses up” the available processing power of your mind, and that is exactly what you want to do. If you are noting in a way that requires all of your attention, your mind will not wander and you will not suffer. It’s that simple. If, on the other hand, you use a noting technique that only requires 30% of the processing power of your mind, what are you going to do with the other 70%? You’re going to suffer! Try it and see!
 
-## Instructional Videos
+### Instructional Videos
 
 - [Noting Body Sensations](https://www.youtube.com/watch?v=BgBAIHoc69s)
 - [Noting Thoughts](https://www.youtube.com/watch?v=0B_Jdu8k-OE)
@@ -26,6 +26,6 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 - [Noting Mind States](https://www.youtube.com/watch?v=TvXij9B5xoQ)
 - [Freestyle Noting Meditation](https://www.youtube.com/watch?v=0-58IoZMNss)
 
-# Instructional Audio
+### Instructional Audio
 
 - [Introduction to Noting by Kenneth Folk](https://mahasivipassana.com/downloads/audio/kenneth-folk-noting.mp3) *(original file [source](https://ericgatleymeditation.blogspot.com/2016/01/vipassana-or-insight-meditation-mahasi.html))*
