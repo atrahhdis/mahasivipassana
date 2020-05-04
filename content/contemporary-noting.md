@@ -1,5 +1,5 @@
 ---
-title: Contemporary Noting Techniques
+title: Contemporary Noting
 type: docs
 description : Contemporary Techniques, based on Mahasi Noting
 keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,freestyle noting, Kenneth Folk] 
