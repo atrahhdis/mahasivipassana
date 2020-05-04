@@ -30,6 +30,8 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 
 - [Introduction to Noting by Kenneth Folk](https://mahasivipassana.com/downloads/audio/kenneth-folk-noting.mp3) *(original file [source](https://ericgatleymeditation.blogspot.com/2016/01/vipassana-or-insight-meditation-mahasi.html))*
 
+
+&nbsp;
 ## Daniel Ingram's Fast Noting
 
 Excerpts from Nicolai Halay's [article on thehamiltonproject.blogspot.com](https://thehamiltonproject.blogspot.com/p/contact-details.html):
