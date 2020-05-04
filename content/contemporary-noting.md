@@ -32,7 +32,7 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 
 ## Daniel Ingram's Fast Noting
 
-Excerpts from Nicolay Halay's [article on thehamiltonproject.blogspot.com](https://thehamiltonproject.blogspot.com/p/contact-details.html):
+Excerpts from Nicolai Halay's [article on thehamiltonproject.blogspot.com](https://thehamiltonproject.blogspot.com/p/contact-details.html):
 
 In his book, [Mastering the Core Teachings of Buddha](https://www.mctb.org/mctb2/table-of-contents), Daniel Ingram gave an analogy for his style of noting called “shooting aliens”. Essentially it is a very fast style of noting that could entail noting as fast as once or twice per second or even more. I would note up to 3 times per second. When passing through specific stages of insight, I began to note with what Daniel Ingram called “mental taps” like “dat, dat”. I would often mentally tap a phenomenon that had been noticed with the mental note “hm, hm”. This way, I could notice and note a lot distinct phenomena of mind or body per second. This would be very stage specific when the mind felt like it had sped up and was able to register more phenomena than usual. In my experience, the 4th, 5th and 11th stage of insight would usually entail noting very fast like this.
 
