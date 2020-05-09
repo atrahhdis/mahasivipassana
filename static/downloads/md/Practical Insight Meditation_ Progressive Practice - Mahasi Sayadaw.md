@@ -196,7 +196,7 @@ While the abdomen is rising and falling the pressure and movement experienced th
 
 • "Brethren, when a brother sees the body which is impermanent, as impermanent, this view of his is the right view."
 
-• "Herein, 0 bhikkhus, a brother reflects: 'Such is material form, such is its genesis, such its passing away.'"
+• "Herein, O bhikkhus, a brother reflects: 'Such is material form, such is its genesis, such its passing away.'"
 
 • "Do ye apply your minds thoroughly, brethren, to the tactile objects and regard their true nature as impermanent."
 
@@ -206,7 +206,7 @@ While the abdomen is rising and falling the pressure and movement experienced th
 
 • "In him that knows and sees tactile objects as impermanent, ignorance vanishes and knowledge arises."
 
-• "Herein, 0 bhikkhus, a brother is aware of the organs of touch and tangibles."
+• "Herein, O bhikkhus, a brother is aware of the organs of touch and tangibles."
 
 • Whatever is an internal element of motion, and whatever is an external element of motion, just these are the element of motion. By means of perfect intuitive wisdom it should be seen of this as it really is, thus: This is not mine, this I am not, this is not my self."
 
