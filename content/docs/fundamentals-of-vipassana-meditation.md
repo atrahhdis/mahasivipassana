@@ -225,7 +225,7 @@ The	manifestation of	unpleasant feeling is physical oppression. It manifests its
    
 If you meditate on the unpleasant feeling in your body as it rises, you know the undergoing of undesirable tangible object -- its characteristic, the withering of associated states -- its function, and the physical affliction -- its manifestation. This is the way the meditators gain knowledge.
 
-##The Mind
+## The Mind
 
 You can meditate on mind, too. Mind cognizes and thinks. So what thinks and imagines is mind. Meditate on this mind as “thinking, imagining, pondering,” whenever it arises. You will find that it has the intrinsic nature of going to the object, cognizing the object. This is the characteristic of mind, as it is said, “Mind has the characteristic     of cognizing.” Every kind of mind cognizes. The consciousness of seeing cognizes the object, as do the consciousness of hearing, smelling, tasting, touching, and thinking. When you work in collective, you have a leader.
 
