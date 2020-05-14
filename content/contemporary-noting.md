@@ -46,6 +46,6 @@ Daniel Ingram explains that “when our mindfulness and investigation are on hai
 
 ### Criticism of Fast Noting
 
-[Bikkhu Anālayo](https://en.wikipedia.org/wiki/Bhikkhu_Analayo) on [Meditation Maps, Attainment Claims, and the Adversities of Mindfulness by Anālayo](https://link.springer.com/article/10.1007/s12671-020-01389-4) stated:
+[Bikkhu Anālayo](https://en.wikipedia.org/wiki/Bhikkhu_Analayo) on [Meditation Maps, Attainment Claims, and the Adversities of Mindfulness](https://link.springer.com/article/10.1007/s12671-020-01389-4) stated:
 
 > ....Fast noting can easily proceed from noting what has just appeared, to what is just appearing, to what is just about to appear, to what one expects to be just about to appear. From this point onward, the act of noting can actually serve to create experience, even without the practitioner consciously noting that (pun intended). Combined with an aggressive type of mindfulness that is comparable with shooting aliens, such practice can turn into a construction of meditative experiences rather than being an insightful observation of what happens naturally. Due to the mind being so busy noting in quick succession, the construction of meditative experience to conform to sup-posed insight knowledges and even levels of awakening will not be noticed. Having trained oneself to create these experiences during formal meditation, the same easily continues during daily life. This explains the idea that the insight knowledges can be experienced in any situation, even when watching tv....
