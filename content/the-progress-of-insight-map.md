@@ -109,7 +109,7 @@ It is true that the Pragmatic Dharma teachers suggest a new, practice oriented a
 &nbsp;
 ## The Maps in Science
 
-Reference on the PoI Map can be found on the following scientific documents:
+References on the PoI Map can be found on the following scientific documents:
 
 - [The Stages of Mindfulness Meditation: A Validation Study](https://mahasivipassana/downloads/pdf/scientific/the_stages_of_mindfulness_meditation_a_validation_study.pdf) by Daniel P Brown and Jack Engler *([original source](https://pdfs.semanticscholar.org/9093/c762d4420cfd2bca76454a9784f3224a108f.pdf))*
 
