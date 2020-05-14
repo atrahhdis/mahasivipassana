@@ -20,7 +20,7 @@ Alternatively you can read a shorter text by Mahasi Sayadaw, available on our we
 
 - [Progress of Insight Stages map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
 
-
+&nbsp;
 ### Visuddhimagga - The Path of Purification
 
 Mahasi Sayadaw [based his analysis](https://www.youtube.com/watch?v=f_iFwwFriwU&t=155) of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
@@ -31,16 +31,16 @@ You can download **Visuddhimagga** in various e-book formats, using the followin
 
 
 &nbsp;
-## Audio
+### Audio
 
-### Anagarika Munindra's talk on the progress of insight
+#### Anagarika Munindra's talk on the progress of insight
 
 In December of 1983, Anagarika Munindra, gave a talk at IMS regardring the PoI:
 
 - [Student Group #5 Progress of Insight](https://dharmaseed.org/teacher/129/talk/35774/19831205-Anagarika_Munindra-IMSRC-student_group_5_progress_of_insight-35774.mp3)
 
 
-### Steve Armstrong's series of talks regarding the progress of insight
+#### Steve Armstrong's series of talks regarding the progress of insight
 
 In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a [series of talks](https://www.dharmaseed.org/retreats/2959/) in West Coast Dharma Society, regarding the PoI as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find the direct download links from [Dharma Seed](https://www.dharmaseed.org):
 
@@ -52,9 +52,9 @@ In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave 
 - [Map of the Journey: The Progress of Insight #6: Enlightenment, Completing the Journey](https://www.dharmaseed.org/teacher/170/talk/35196/20160717-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_6_enlightenment_completing_the_journey-35196.mp3)
 
 &nbsp;
-## Video
+### Video
 
-### Steve Armstrong's "The Map of the Journey" lecture
+#### Steve Armstrong's "The Map of the Journey" lecture
 
 In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a lecture in Seattle Insight Meditation Center, regarding the PoI as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find a link to the video:
 
@@ -104,3 +104,13 @@ Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user1353
 Although the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) is heavily influenced by Mahasi Sayadaw's work, Daniel Ingram ( D. Ingram is [supposedly authorized](http://web.archive.org/web/20070917070818/http://www.bswa.org/modules/newbb/viewtopic.php?topic_id=2216&forum=7&viewmode=flat&order=ASC&start=20) to teach the Dhamma by Sayadaw U Pandita, Jr.), Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in the Mahasi Sayadaw's lineage.
 
 It is true that the Pragmatic Dharma teachers suggest a new, practice oriented and for some a controversial approach on the teachings of the Buddha. Practitioners interested in Mahasi Vipassana and the stages of the PoI are encouraged to study this material and come to their own conclusions.
+
+
+&nbsp;
+## The Maps in Science
+
+Reference on the PoI Map can be found on the following scientific documents:
+
+- [The Stages of Mindfulness Meditation: A Validation Study](https://mahasivipassana/downloads/pdf/scientific/the_stages_of_mindfulness_meditation_a_validation_study.pdf) by Daniel P Brown and Jack Engler *([original source](https://pdfs.semanticscholar.org/9093/c762d4420cfd2bca76454a9784f3224a108f.pdf))*
+
+- [Psychiatric Complications of Meditation Practice](https://mahasivipassana/downloads/pdf/scientific/psychiatric_complications_of_meditation_practice) by Mark D. Epstein and Jonathan D. Lieff *([original source](https://www.atpweb.org/jtparchive/trps-13-81-02-137.pdf))*
