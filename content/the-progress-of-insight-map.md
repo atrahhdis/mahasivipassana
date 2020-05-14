@@ -111,6 +111,6 @@ It is true that the Pragmatic Dharma teachers suggest a new, practice oriented a
 
 References on the PoI Map can be found on the following scientific documents:
 
-- [The Stages of Mindfulness Meditation: A Validation Study](https://mahasivipassana/downloads/pdf/scientific/the_stages_of_mindfulness_meditation_a_validation_study.pdf) by Daniel P Brown and Jack Engler *([original source](https://pdfs.semanticscholar.org/9093/c762d4420cfd2bca76454a9784f3224a108f.pdf))*
+- [The Stages of Mindfulness Meditation: A Validation Study](https://mahasivipassana.com/downloads/pdf/scientific/the_stages_of_mindfulness_meditation_a_validation_study.pdf) by Daniel P Brown and Jack Engler *([original source](https://pdfs.semanticscholar.org/9093/c762d4420cfd2bca76454a9784f3224a108f.pdf))*
 
-- [Psychiatric Complications of Meditation Practice](https://mahasivipassana/downloads/pdf/scientific/psychiatric_complications_of_meditation_practice) by Mark D. Epstein and Jonathan D. Lieff *([original source](https://www.atpweb.org/jtparchive/trps-13-81-02-137.pdf))*
+- [Psychiatric Complications of Meditation Practice](https://mahasivipassana.com/downloads/pdf/scientific/psychiatric_complications_of_meditation_practice) by Mark D. Epstein and Jonathan D. Lieff *([original source](https://www.atpweb.org/jtparchive/trps-13-81-02-137.pdf))*
