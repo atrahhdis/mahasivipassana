@@ -61,7 +61,7 @@ In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) 
 - [The Map of the Journey video](https://vimeo.com/178965086)
 
 &nbsp;
-## Modern interpretations of the map
+## Modern Interpretations of the Map
 
 The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's noting technique and his analysis on the stages of PoI. Below you will find some alternative interpretations of the PoI map by three famous pragmatic dharma teachers:
 
@@ -109,7 +109,7 @@ It is true that the Pragmatic Dharma teachers suggest a new, practice oriented a
 
 
 &nbsp;
-## The Maps in Science
+## Science and the Map
 
 References on the PoI Map can be found on the following scientific documents:
 
