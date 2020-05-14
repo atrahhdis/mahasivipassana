@@ -71,6 +71,7 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 
 - [The Path](https://alohadharma.com/the-map/), [The Physio-Cognitive Stage](https://alohadharma.com/the-map/the-physio-cognitive-stage/), [The A&P](https://alohadharma.com/2011/06/04/the-ap/), [The Dark Night](https://alohadharma.com/2011/06/12/the-dark-night/), [Equanimity](https://alohadharma.com/2011/06/21/equanimity/), [Cessation](https://alohadharma.com/2011/06/29/cessation/) from [Aloha Dharma](https://alohadharma.com) by [Ron Crouch](https://alohadharma.com/about/)
 
+&nbsp;
 ### E-books
 
 A combination of the texts by **Kenneth Folk** and **Ron Crouch** can be downloaded in various e-book formats using the following link:
@@ -81,13 +82,14 @@ A compilation of texts (including the ones referring to the maps) by **Ron Crouc
 
 - [Aloha Dharma: a compilation of texts from alohadharma.com](https://github.com/atrahhdis/alohadharma)
 
+&nbsp;
 ### Audio by Ron Crouch
 
 In this talk, Ron Crouch describes in a clear and down to earth way the 16 stages of insight:
 
 - [What is "The Path"?: The progress of Insight Explained](http://ia600709.us.archive.org/4/items/WhatIsThePath/WhatIsThePath_.mp3)
 
-
+&nbsp;
 ### Videos by Daniel Ingram
 
 Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user13532867) regarding the PoI stages:
@@ -98,7 +100,7 @@ Daniel Ingram has published various videos on [Vimeo](https://vimeo.com/user1353
 - [Diagnosing Stream Entry](https://vimeo.com/372228348)
 - [Cessation Diagnosis with snow](https://vimeo.com/378891278)
 
-
+&nbsp;
 ### Note
 
 Although the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) is heavily influenced by Mahasi Sayadaw's work, Daniel Ingram ( D. Ingram is [supposedly authorized](http://web.archive.org/web/20070917070818/http://www.bswa.org/modules/newbb/viewtopic.php?topic_id=2216&forum=7&viewmode=flat&order=ASC&start=20) to teach the Dhamma by Sayadaw U Pandita, Jr.), Kenneth Folk and Ron Crouch are not (at least publicly) authorized teachers in the Mahasi Sayadaw's lineage.
