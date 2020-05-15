@@ -59,14 +59,14 @@ The stages of PoI are discussed in the section **"Dissolving the Self"** of the 
 &nbsp;
 ## Audio
 
-#### Anagarika Munindra's talk on the progress of insight
+### Anagarika Munindra's talk on the progress of insight
 
 In December of 1983, Anagarika Munindra, gave a talk at IMS regardring the PoI:
 
 - [Student Group #5 Progress of Insight](https://dharmaseed.org/teacher/129/talk/35774/19831205-Anagarika_Munindra-IMSRC-student_group_5_progress_of_insight-35774.mp3)
 
 
-#### Steve Armstrong's series of talks regarding the progress of insight
+### Steve Armstrong's series of talks regarding the progress of insight
 
 In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a [series of talks](https://www.dharmaseed.org/retreats/2959/) in West Coast Dharma Society, regarding the PoI as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find the direct download links from [Dharma Seed](https://www.dharmaseed.org):
 
@@ -80,7 +80,7 @@ In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave 
 &nbsp;
 ## Video
 
-#### Steve Armstrong's "The Map of the Journey" lecture
+### Steve Armstrong's "The Map of the Journey" lecture
 
 In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a lecture in Seattle Insight Meditation Center, regarding the PoI as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find a link to the video:
 
