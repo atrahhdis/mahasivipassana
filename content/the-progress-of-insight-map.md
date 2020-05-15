@@ -12,9 +12,15 @@ bookToc: true
 
 For an extended analysis of the map (stages) of the progress of insight, please read **Chapter 6** from the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
+
 Alternatively you can read a shorter text by Mahasi Sayadaw, available on our website:
 
 - [The Progress of Insight]({{< ref "the-progress-of-insight.md" >}})
+
+A reference on the stages of PoI can also be found in **Chapter 5** of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}). This chapter is also widely known as a separate book (with a different, older translation) named **Practical Insight Meditation**. The second part of this book, that includes the reference on PoI map, can be found below:
+
+- [Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
+
 
 **Download an overview of the map**: this document is just a simplified version (created by MVMR) of Steve Armstrong's work included in the "Abhidhamma Reference Tables" found on the appendix of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}):
 
@@ -68,6 +74,9 @@ In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave 
 In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a lecture in Seattle Insight Meditation Center, regarding the PoI as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find a link to the video:
 
 - [The Map of the Journey video](https://vimeo.com/178965086)
+
+
+
 
 &nbsp;
 ## Modern Interpretations of the Map
