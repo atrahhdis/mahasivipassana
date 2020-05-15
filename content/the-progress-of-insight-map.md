@@ -29,6 +29,15 @@ You can download **Visuddhimagga** in various e-book formats, using the followin
 
 - [Visuddhimagga - The Path of Purification](https://github.com/atrahhdis/visuddhimagga)
 
+&nbsp;
+### The Seven Stages of Purification and The Insight Knowledges book by Venerable Matara Sri Nanarama Mahathera
+
+This book is based on a series of discourses on meditation which Venerable Matara Sri Nanarama Mahathera gave to his pupils in 1977.
+
+You can download this book, using the following link:
+
+- [The Seven Stages of Purification and The Insight Knowledges](https://mahasivipassana.com/downloads/pdf/the_seven_stages_of_purification_and_the_insight_knowledges.pdf) *([original source](http://www.buddhanet.net/pdf_file/bm7insight.pdf))*
+
 
 &nbsp;
 ### Audio
@@ -109,10 +118,15 @@ It is true that the Pragmatic Dharma teachers suggest a new, practice oriented a
 
 
 &nbsp;
-## Science and the Map
+## References in scientific publications
 
 References on the PoI Map can be found on the following scientific documents:
+
+- [The Dynamics of Theravāda Insight Meditation](https://mahasivipassana.com/downloads/pdf/scientific/analayo/the_dynamics_of_theravada_insight_meditation.pdf) by Bikkhu Anālayo *([original source](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/dynamics-of-insight.pdf))*
+
+- [The Seven Stages of Purification in Comparative Perspective](https://mahasivipassana.com/downloads/pdf/scientific/analayo/the_seven_stages_of_purification_in_comparative_perspective.pdf) by Bikkhu Anālayo *([original source](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/seven-stages-purif.pdf))*
 
 - [The Stages of Mindfulness Meditation: A Validation Study](https://mahasivipassana.com/downloads/pdf/scientific/the_stages_of_mindfulness_meditation_a_validation_study.pdf) by Daniel P Brown and Jack Engler *([original source](https://pdfs.semanticscholar.org/9093/c762d4420cfd2bca76454a9784f3224a108f.pdf))*
 
 - [Psychiatric Complications of Meditation Practice](https://mahasivipassana.com/downloads/pdf/scientific/psychiatric_complications_of_meditation_practice.pdf) by Mark D. Epstein and Jonathan D. Lieff *([original source](https://www.atpweb.org/jtparchive/trps-13-81-02-137.pdf))*
+
