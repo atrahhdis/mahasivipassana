@@ -30,7 +30,7 @@ A reference on the stages of PoI can also be found in **Chapter 5** of the [Manu
 
 ### Visuddhimagga - The Path of Purification
 
-Mahasi Sayadaw [based his analysis](https://www.youtube.com/watch?v=f_iFwwFriwU&t=155) of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
+Mahasi Sayadaw [based his analysis](https://www.youtube.com/watch?v=f_iFwwFriwU&t=155) of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by **Buddhagosha** approximately in the 5th Century.
 
 You can download **Visuddhimagga** in various e-book formats, using the following link:
 
@@ -39,7 +39,7 @@ You can download **Visuddhimagga** in various e-book formats, using the followin
 &nbsp;
 ### In This Very Life by U Pandita
 
-A brief reference on the Poi map can be found in the appendix of U Pandita's book [In This Very Life](http://vipassanasangha.free.fr/=PDF/inthisverylife.pdf).
+A brief reference on the PoI map can be found in the appendix of [U Pandita's](https://en.wikipedia.org/wiki/U_Pandita) book [In This Very Life](http://vipassanasangha.free.fr/=PDF/inthisverylife.pdf).
 
 &nbsp;
 ### The Seven Stages of Purification and The Insight Knowledges book by Venerable Matara Sri Nanarama Mahathera
@@ -49,6 +49,11 @@ This book is based on a series of discourses on meditation which Venerable Matar
 You can download it, using the following link:
 
 - [The Seven Stages of Purification and The Insight Knowledges](https://mahasivipassana.com/downloads/pdf/the_seven_stages_of_purification_and_the_insight_knowledges.pdf) *([original source](http://www.buddhanet.net/pdf_file/bm7insight.pdf))*
+
+&nbsp;
+### A Path With Heart by Jack Kornfield
+
+The stages of PoI are discussed in the section **"Dissolving the Self"** of the book [A Path With Heart](https://jackkornfield.com/a-path-with-heart/) by [Jack Kornfield](https://jackkornfield.com). 
 
 
 &nbsp;
