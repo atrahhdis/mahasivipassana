@@ -8,25 +8,26 @@ bookToc: true
 
 # The Progress of Insight (PoI) Map
 
-## General Information
+## Texts by Mahasi Sayadaw
 
-For an extended analysis of the map (stages) of the progress of insight, please read **Chapter 6** from the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
+For an extended analysis of [the map (stages) of the progress of insight](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf), please read **Chapter 6** from the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
 
 Alternatively you can read a shorter text by Mahasi Sayadaw, available on our website:
 
 - [The Progress of Insight]({{< ref "the-progress-of-insight.md" >}})
 
+&nbsp;
+
 A reference on the stages of PoI can also be found in **Chapter 5** of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}). This chapter is also widely known as a separate book (with a different, older translation) named **Practical Insight Meditation**. The second part of this book, that includes the reference on PoI map, can be found below:
 
 - [Practical Insight Meditation: Progressive Practice]({{< ref "practical-insight-meditation-progressive-practice.md" >}})
 
-
-**Download an overview of the map**: this document is just a simplified version (created by MVMR) of Steve Armstrong's work included in the "Abhidhamma Reference Tables" found on the appendix of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}):
-
-- [Progress of Insight Stages map](https://mahasivipassana.com/downloads/pdf/progress_of_insight_map.pdf)
+**Note:** A modified version of **Practical Insight Meditation** can also be found on [Jack Kornfield's](https://jackkornfield.com/) book  [Living Dharma](https://jackkornfield.com/living-dharma/).
 
 &nbsp;
+## Texts by others
+
 ### Visuddhimagga - The Path of Purification
 
 Mahasi Sayadaw [based his analysis](https://www.youtube.com/watch?v=f_iFwwFriwU&t=155) of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by Buddhagosha approximately in the 5th Century.
@@ -36,17 +37,22 @@ You can download **Visuddhimagga** in various e-book formats, using the followin
 - [Visuddhimagga - The Path of Purification](https://github.com/atrahhdis/visuddhimagga)
 
 &nbsp;
+### In This Very Life by U Pandita
+
+A brief reference on the Poi map can be found in the appendix of U Pandita's book [In This Very Life](http://vipassanasangha.free.fr/=PDF/inthisverylife.pdf).
+
+&nbsp;
 ### The Seven Stages of Purification and The Insight Knowledges book by Venerable Matara Sri Nanarama Mahathera
 
 This book is based on a series of discourses on meditation which Venerable Matara Sri Nanarama Mahathera gave to his pupils in 1977.
 
-You can download this book, using the following link:
+You can download it, using the following link:
 
 - [The Seven Stages of Purification and The Insight Knowledges](https://mahasivipassana.com/downloads/pdf/the_seven_stages_of_purification_and_the_insight_knowledges.pdf) *([original source](http://www.buddhanet.net/pdf_file/bm7insight.pdf))*
 
 
 &nbsp;
-### Audio
+## Audio
 
 #### Anagarika Munindra's talk on the progress of insight
 
@@ -67,16 +73,13 @@ In July of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave 
 - [Map of the Journey: The Progress of Insight #6: Enlightenment, Completing the Journey](https://www.dharmaseed.org/teacher/170/talk/35196/20160717-Steve_Armstrong-WCD-map_of_the_journey_the_progress_of_insight_6_enlightenment_completing_the_journey-35196.mp3)
 
 &nbsp;
-### Video
+## Video
 
 #### Steve Armstrong's "The Map of the Journey" lecture
 
 In July 21th of 2016, [Steve Armstrong](http://vipassanametta.org/wp/teachers/) gave a lecture in Seattle Insight Meditation Center, regarding the PoI as presented in Mahasi Sayadaw's "Manual of Insight". Below you will find a link to the video:
 
 - [The Map of the Journey video](https://vimeo.com/178965086)
-
-
-
 
 &nbsp;
 ## Modern Interpretations of the Map
