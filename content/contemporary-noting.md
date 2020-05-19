@@ -2,13 +2,13 @@
 title: Contemporary Noting
 type: docs
 description : Contemporary Techniques, based on Mahasi Noting
-keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,freestyle noting, Kenneth Folk] 
+keywords: [Buddhism,Mahasi Sayadaw,Vipassana,insight meditation,noting,freestyle noting, Kenneth Folk, Daniel Ingram, fast noting] 
 bookToc: true
 ---
 
 # Contemporary Noting Techniques
 
-Mahasi noting technique has inspired various contemporary meditation teachers, who have created their own alterations. Below you may the most popular ones.
+Mahasi noting technique has inspired various contemporary meditation teachers, who have created their own alterations. Below you may find the most popular ones.
 
 ## Kenneth Folk's Detailed (freestyle) Noting
 
