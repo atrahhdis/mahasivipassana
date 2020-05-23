@@ -33,7 +33,7 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 &nbsp;
 ## Vincent Horn's take on Freestyle Noting
 
-In the following series of videos, [Vincent Horn](http://www.vincehorn.space/), a pragmatic dharma teacher and student of Kenneth Folk (among others), gives his own explanation and instructions on Kenneth Folk's famous noting technique:
+In the following series of videos, [Vincent Horn](http://www.vincehorn.space/), a Pragmatic Dharma teacher and student of Kenneth Folk (among others), gives his own explanation and instructions on Kenneth Folk's famous noting technique:
 
 - [The Four Categories of Experience](https://www.youtube.com/watch?v=hgTzOAl94IM)
 - [The 1st Category: Body Sensations](https://www.youtube.com/watch?v=qrUtjwU-A6E)
