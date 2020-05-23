@@ -13,7 +13,7 @@ Although practicing **Mahasi** (noting) **Vipassana** (Insight) Meditation does 
 
 If you are not familiar with Buddhism, below you will find some useful resources for beginners.
 
-Please note that the person (who is heavily influenced by the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/)) behind this website does not follow any specific Buddhist tradition, thus all the suggestions below cover a wide range of Buddhism variations and teachings.
+Please note that the person (who is heavily influenced by the [Pragmatic Dharma Movement](https://alohadharma.com/2015/11/03/what-is-pragmatic-dharma/) and Soto Zen) behind this website does not follow any specific Buddhist tradition, thus all the suggestions below cover a wide range of Buddhism variations and teachings.
 
 
 ## Books
@@ -25,6 +25,8 @@ Please note that the person (who is heavily influenced by the [Pragmatic Dharma 
 - [The heart of the Buddha's teaching](https://plumvillage.org/books/the-heart-of-the-buddhas-teaching/) by [Thich Nhat Hanh](https://plumvillage.org/about/thich-nhat-hanh/) 
 
 - [Buddhism Without Beliefs: A Contemporary Guide to Awakening](https://www.amazon.com/Buddhism-Without-Beliefs-Contemporary-Awakening/dp/1573226564) by [Stephen Batchelor](https://www.stephenbatchelor.org/index.php/en/) 
+
+- [Opening the Hand of Thought](https://wisdomexperience.org/product/opening-hand-thought/) by [Kosho Uchiyama](https://en.wikipedia.org/wiki/K%C5%8Dsh%C5%8D_Uchiyama)
 
 **Note:** For more reading suggestions, you may visit and read the [reddit Buddhism book list](https://www.reddit.com/r/Buddhism/wiki/booklist).
 
