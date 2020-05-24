@@ -30,7 +30,6 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 
 - [Introduction to Noting by Kenneth Folk](https://mahasivipassana.com/downloads/audio/kenneth-folk-noting.mp3) *(original file [source](https://ericgatleymeditation.blogspot.com/2016/01/vipassana-or-insight-meditation-mahasi.html))*
 
-&nbsp;
 
 ### Vincent Horn's Videos on the 4 Categories
 
