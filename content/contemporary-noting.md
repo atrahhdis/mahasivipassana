@@ -31,15 +31,17 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 - [Introduction to Noting by Kenneth Folk](https://mahasivipassana.com/downloads/audio/kenneth-folk-noting.mp3) *(original file [source](https://ericgatleymeditation.blogspot.com/2016/01/vipassana-or-insight-meditation-mahasi.html))*
 
 &nbsp;
-## Vincent Horn's take on Freestyle Noting
 
-In the following series of videos, [Vincent Horn](http://www.vincehorn.space/), a Pragmatic Dharma teacher and student of Kenneth Folk (among others), gives his own explanation and instructions on Kenneth Folk's famous noting technique:
+### Vincent Horn's Videos on the 4 Categories
+
+In the following series of videos, [Vincent Horn](http://www.vincehorn.space/), a Pragmatic Dharma teacher and student of Kenneth Folk (among others), gives his own explanation and instructions on each one of the 4 categories (Foundations of Mindfulness)
 
 - [The Four Categories of Experience](https://www.youtube.com/watch?v=hgTzOAl94IM)
 - [The 1st Category: Body Sensations](https://www.youtube.com/watch?v=qrUtjwU-A6E)
 - [The 2nd Category: Charge](https://www.youtube.com/watch?v=5xrkxSMxiUE)
 - [The 3rd Category: Mind States](https://www.youtube.com/watch?v=Ieh0QXYMvwI)
 - [The 4th Category: Thoughts](https://www.youtube.com/watch?v=qe_j_2HA61E)
+- [Sliding Between Mind States & Thoughts](https://www.youtube.com/watch?v=KnCNxKJKvQY)
 
 
 &nbsp;
