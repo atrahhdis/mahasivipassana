@@ -34,7 +34,7 @@ Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com
 
 ### Vincent Horn's Videos on the 4 Categories
 
-In the following series of videos, [Vincent Horn](http://www.vincehorn.space/), a Pragmatic Dharma teacher and student of Kenneth Folk (among others), gives his own explanation and instructions on each one of the 4 categories (Foundations of Mindfulness)
+In the following series of videos, [Vincent Horn](http://www.vincehorn.space/), a Pragmatic Dharma teacher and student of Kenneth Folk (among others), gives his own explanation and instructions on each one of the 4 categories (foundations of mindfulness):
 
 - [The Four Categories of Experience](https://www.youtube.com/watch?v=hgTzOAl94IM)
 - [The 1st Category: Body Sensations](https://www.youtube.com/watch?v=qrUtjwU-A6E)
