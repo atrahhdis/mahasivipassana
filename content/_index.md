@@ -42,7 +42,7 @@ Although the material provided on this website is more than enough to get you st
 
 There is a popular notion that meditation practice comes with exclusively beneficial/positive experiences and outcomes. [This is not true](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0176239).
 
-People interested in insight meditation, are highly suggested to become aware of the [possible adverse effects](https://vimeo.com/378177771) of such practices.
+People interested in insight meditation, are highly suggested to [become aware](https://www.youtube.com/watch?v=jv-DjlScpV8) of the [possible adverse effects](https://vimeo.com/378177771) of such practices.
 
 Mahasi Vipassana practitioners, are encouraged to be informed about [the stages of the progress of insight]({{< ref "the-progress-of-insight-map.md" >}}) and especially about the **Dukkha Nanas** (widely known in contemporary meditation communities as the "**Dark Night**").
 
