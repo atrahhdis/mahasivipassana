@@ -36,3 +36,8 @@ Please note that the [the person](https://github.com/atrahhdis) (who is heavily 
 ## Videos
 
 - [A short introduction to Buddhism](https://www.youtube.com/playlist?list=PLgu0hJSLkqCWfPCyIAeJWMxZmNwbHNE43) by [Bhikkhu Bodhi](https://bodhimonastery.org/ven-bhikkhu-bodhi.html)
+
+&nbsp;
+## Youtube Channels
+
+- [Doug's Dharma](ww.youtube.com/channel/UCPIyEJzvW7SsbiIrooixjNA/about) by Doug Smith
