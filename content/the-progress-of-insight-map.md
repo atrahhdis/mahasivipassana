@@ -108,9 +108,9 @@ An unofficial compilation of texts by **Ron Crouch**, can be downloaded in vario
 
 - [Aloha Dharma: a compilation of texts from alohadharma.com](https://github.com/atrahhdis/alohadharma)
 
-An unofficial collection of old texts by **Kenneth Folk** can be downloaded in various e-book formats using the following link:
+An unofficial compilation of old texts by **Kenneth Folk**, can be downloaded in various e-book formats using the following link:
 
-- [The Three Speed Transmission: an unofficial compilation of texts by Kenneth Folk](https://github.com/atrahhdis/kf3st)
+- [The Three Speed Transmission: an unofficial collection of texts by Kenneth Folk](https://github.com/atrahhdis/kf3st)
 
 
 &nbsp;
