@@ -100,13 +100,18 @@ The Pragmatic Dharma community is heavily influenced by both Mahasi Sayadaw's no
 &nbsp;
 ### E-books
 
-A combination of the texts by **Kenneth Folk** and **Ron Crouch** can be downloaded in various e-book formats using the following link:
+A combination of the texts by **Kenneth Folk** (from his work-in-progress "Contemplative Fitness") and **Ron Crouch** (from his website) can be downloaded in various e-book formats using the following link:
 
 - [A pragmatic approach on the stages of the Progress of Insight](https://github.com/atrahhdis/pragmapoi)
 
-A compilation of texts (including the ones referring to the maps) by **Ron Crouch**, can be downloaded in various e-book formats using the following link:
+An unofficial compilation of texts by **Ron Crouch**, can be downloaded in various e-book formats using the following link:
 
 - [Aloha Dharma: a compilation of texts from alohadharma.com](https://github.com/atrahhdis/alohadharma)
+
+An unofficial compilation of old texts by **Kenneth Folk** can be downloaded in various e-book formats using the following link:
+
+- [The Three Speed Transmission: an unofficial compilation of texts by Kenneth Folk](https://github.com/atrahhdis/kf3st)
+
 
 &nbsp;
 ### Audio by Ron Crouch
