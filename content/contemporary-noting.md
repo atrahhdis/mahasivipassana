@@ -12,11 +12,35 @@ Mahasi noting technique has inspired various contemporary meditation teachers, w
 
 ## Kenneth Folk's Detailed (Freestyle) Noting
 
-Based on Kenneth Folk's [text about this technique](http://kennethfolkdharma.com/2016/08/detailed-noting-is-better/):
+The following text is an excerpt from the [article about Kenneth Folk's technique](http://kennethfolkdharma.com/2016/08/detailed-noting-is-better/):
 
 > When doing noting practice, preferably aloud, you have to decide whether to do a very detailed noting or a more sparse or skeletal noting. A skeletal noting technique, for example, would be to just choose from these six notes: seeing, hearing, tasting, touching, smelling, and thinking.
 > 
 > Detailed noting, however, is better than skeletal noting. That’s because detailed noting “uses up” the available processing power of your mind, and that is exactly what you want to do. If you are noting in a way that requires all of your attention, your mind will not wander and you will not suffer. It’s that simple. If, on the other hand, you use a noting technique that only requires 30% of the processing power of your mind, what are you going to do with the other 70%? You’re going to suffer! Try it and see!
+
+
+## Instructions from Kenneth Folk's "3 Speed Transmission" framework texts
+
+The following text is an excerpt from an older text by Kenneth Folk regarding his [3 Speed Transmission Framework](https://github.com/atrahhdis/kf3st):
+
+
+> What would I say if I had just five minutes to give comprehensive instructions for awakening?
+> 
+> You are unenlightened to the extent that you are embedded in your experience. You think that your experience is you. You must dis-embed. Do that by taking each aspect of experience as object (looking at it and recognizing it) in a systematic way. Then, surrender entirely.
+> 
+> Do these practices, exactly as written:
+> 
+> First Gear:
+> 
+> 1. Objectify body sensations. If you can name them, you aren't embedded there. Notice sensations and note to yourself: "Pressure, tightness, tension, release, coolness, warmth, softness, hardness, tingling, itching, burning, stinging, pulsing, throbbing, seeing, tasting, smelling, hearing." If I am looking at something it is not "I".
+> 
+> 2. Objectify feeling-tone. Are sensations pleasant, unpleasant, or neutral? If you can sit there for five minutes and note pleasant, unpleasant, or neutral every few seconds, you are not embedded at that layer of mind.
+> 
+> 3. Objectify mind states. Investigation, curiosity, happiness, anxiety, amusement, sadness, joy, anger, frustration, annoyance, irritation, aversion, desire, disgust, fear, worry, calm, embarrassment, shame, self-pity, compassion, love, contentment, dullness, sleepiness, bliss, exhilaration, triumph, self-loathing. Name them and be free of them. These mind states are not "you;" we know this because if there is a "you" it is the one who is looking, not what is being looked at. Below, we will challenge the notion that there is any "you" at all.
+> 
+> 4. Objectify thoughts. Categorize them: planning thought, anticipating thought, worrying thought, imaging thought, remembering thought, rehearsing thought, scenario spinning thought, fantasy thought, self-recrimination thought. Come up with your own vocabulary and see your thoughts as though they belong to someone else. The content of your thoughts is not relevant except to the extent that it helps you to label and therefore objectify them.
+> 
+
 
 ### Instructional Videos
 
