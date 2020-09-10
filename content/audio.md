@@ -15,3 +15,7 @@ bookToc: false
 - [45 minute Detailed Guided Meditation](https://www.satipanya.org.uk/audio/guided/01%20Detailed%20Guided%20Meditation.mp3) by [Bhante Bodhidhamma](https://www.satipanya.org.uk/teacher/bhante-bodhidhamma/) *([source](https://www.satipanya.org.uk/audio-video/))*
 
 - [45 minute Assisted Meditation](https://www.satipanya.org.uk/audio/guided/02%20Assisted%20Meditation.mp3) by [Bhante Bodhidhamma](https://www.satipanya.org.uk/teacher/bhante-bodhidhamma/) *([source](https://www.satipanya.org.uk/audio-video/))*
+
+- [Detailed Meditation Instructions](https://dharmaseed.org/teacher/186/talk/41259/) by [Sayadaw Vivekananda](http://www.panditarama-lumbini.info/teaching.html)
+
+- [Taking The First Few Steps](https://dharmaseed.org/teacher/186/talk/41271/) by [Sayadaw Vivekananda](http://www.panditarama-lumbini.info/teaching.html)
