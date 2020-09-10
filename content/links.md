@@ -14,5 +14,3 @@ bookToc: false
 
 - [Assosiation for Insight Meditation](http://aimwell.org)
 
-- [Sirimangalo.Org](https://www.sirimangalo.org/)
-
