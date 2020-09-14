@@ -30,7 +30,7 @@ A reference on the stages of PoI can also be found in **Chapter 5** of the [Manu
 
 ### Visuddhimagga - The Path of Purification
 
-Mahasi Sayadaw [based his analysis](https://www.youtube.com/watch?v=f_iFwwFriwU&t=155) of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by **Buddhagosha** approximately in the 5th Century.
+Mahasi Sayadaw based his analysis of the PoI stages on Visuddhimagga, a Theravada Buddhist doctrine, written by **Buddhagosha** approximately in the 5th Century.
 
 You can download **Visuddhimagga** in various e-book formats, using the following link:
 
