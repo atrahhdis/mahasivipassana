@@ -17,7 +17,6 @@ Alternatively you can read a shorter text by Mahasi Sayadaw, available on our we
 
 - [The Progress of Insight]({{< ref "the-progress-of-insight.md" >}})
 
-&nbsp;
 
 A reference on the stages of PoI can also be found in **Chapter 5** of the [Manual of Insight]({{< ref "the-manual-of-insight.md" >}}). This chapter is also widely known as a separate book (with a different, older translation) named **Practical Insight Meditation**. The second part of this book, that includes the reference on PoI map, can be found below:
 
