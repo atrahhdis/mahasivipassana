@@ -8,14 +8,14 @@ bookToc: false
 
 # Welcome to Mahasi Vipassana Meditation Resources (MVMR)
 
-On this website you will find all the required information in order to learn the practice of **Vipassana (Insight) meditation**, as taught by Venerable [Mahasi Sayadaw]({{< ref "bio.md" >}}).
+Here you will find all the required information in order to learn the practice of **Vipassana (Insight) meditation**, as taught by Venerable [Mahasi Sayadaw]({{< ref "bio.md" >}}).
 
 **Mahasi Vipassana** meditation technique is widely known as **"Mahasi noting"**.
 
 
 ## How to use this website
 
-It is highly suggested to read all the Mahasi material offered on MVMR, as this will help you understand the technique in depth. 
+It is highly suggested to read all related Mahasi Sayadaw's text offered on MVMR, as this will help you understand the technique in depth. 
 
 However, if you want to learn the basics in order to get going with your practice, you can:
 
@@ -35,7 +35,7 @@ However, if you want to learn the basics in order to get going with your practic
 &nbsp;
 ## What to read next
 
-Although the material provided on this website is more than enough to get you started, if you want to get a deeper knowledge on Mahasi Vipassana, you should definitely read his book [The Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
+Although the material provided on this website is more than enough to get you started, if you want to get a deeper knowledge on Mahasi Vipassana, you can read his book [The Manual of Insight]({{< ref "the-manual-of-insight.md" >}}).
 
 &nbsp;
 ## Caution
@@ -44,7 +44,6 @@ There is a popular notion that meditation practice comes with exclusively benefi
 
 People interested in insight meditation, are highly suggested to [become aware](https://www.youtube.com/watch?v=jv-DjlScpV8) of the [possible adverse effects](https://vimeo.com/378177771) of such practices.
 
-Mahasi Vipassana practitioners, are encouraged to be informed about [the stages of the progress of insight]({{< ref "the-progress-of-insight-map.md" >}}) and especially about the **Dukkha Nanas** (widely known in contemporary meditation communities as the "**Dark Night**").
 
 &nbsp;
 ## Note
