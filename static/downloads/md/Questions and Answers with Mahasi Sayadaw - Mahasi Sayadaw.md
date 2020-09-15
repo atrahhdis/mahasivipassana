@@ -89,7 +89,7 @@ At night, one cannot see things clearly. But if one uses a torchlight, things ca
 
 It will take time to develop concentration if you note an object too varied, or too subtle, while it can be aroused faster if you observe an obvious and limited object. That is why we instruct yogis to start their practice with watching the abdomen characterised by stiffness, pressure, vibration which are identical with vayo-dhatu, the air-element.
 
-**Q19. Venerable Sir, are there only two objects to note, ‘rising and falling?**
+**Q19. Venerable Sir, are there only two objects to note, ‘rising and falling'?**
 
 Yes, one is instructed to note initially only two objects, ‘rising and falling’. He is however instructed to note thoughts also if they occur, and then to go back to the main object. Similarly with pain. He should go back to the main object when the pain fades away or after a moderate amount of time even if the pain persists. The same is true with bending and stretching of limbs, or changing postures.
 
@@ -107,11 +107,9 @@ The word ‘noting’ means to pay attention to a meditative object with the pur
 
 It is only when you act slowly that your concentration, mindfulness and insight knowledge can keep up with the objects. That is the reason why you have to start the practice by doing everything slowly and mindfully.  Indeed in the beginning, if you do things fast, your mindfulness or awareness cannot follow.
 
- 
-
 **Q23. Venerable Sir, is there any kind of pain or discomfort which belongs to the practice itself? If so how do we have to deal with it?**
 
-Yes, you may experience several kinds of unpleasant sensations like itchiness, heat, pain, ache, heaviness, stiffness and so on when your concentration becomes strong.  They tend to disappear once you stop practice. But they may reappear if you resume your practice. Then that is surely not a disease or illness, but just unpleasant sensation which belongs to the practice. Don’t worry if you keep on noting, eventually it will fade away.
+Yes, you may experience several kinds of unpleasant sensations like itchiness, heat, pain, ache, heaviness, stiffness and so on when your concentration becomes strong. They tend to disappear once you stop practice. But they may reappear if you resume your practice. Then that is surely not a disease or illness, but just unpleasant sensation which belongs to the practice. Don’t worry if you keep on noting, eventually it will fade away.
 
 **Q24. Venerable Sir, what are we supposed to note when the ‘rising and falling’ fades away?**
 
@@ -120,14 +118,13 @@ When the rising and falling fades away, you are supposed to note ‘sitting, tou
 **Q25. Venerable Sir, which touching point should we note among others?**
 
 Any touching point is possible to note.  If you note a touching on one buttock as ‘touching, touching’ that is correct: note it on one’s knees as ‘touching touching’ that is correct; note it on one’s hand as ‘touching touching’ that is correct; note it on one’s head as ‘touching, touching’, that is correct; note in-and-out breath as ‘touching, touching’ that is correct;
-note it in one’s intestine or liver as ‘touching, touching’ that is correct;
-note it on one’s abdomen as ‘touching, touching’ that is correct.
+note it in one’s intestine or liver as ‘touching, touching’ that is correct; note it on one’s abdomen as ‘touching, touching’ that is correct.
 
 **Q26. Venerable Sir, should we rather observe stiffness, motion or movement when walking if we are supposed to be aware of the characteristics?**
 
 The Buddha said ‘be aware of going when going’.  When we walk, the air-element prevails which is experience as pressure or stiffness in terms of its function. The Buddha, however did not instruct us to note it as ‘pressure’, ‘stiffness’, ‘movement’, ‘motion’ and ‘pushing’.
 
-The Buddha’s actual instruction is ‘Be aware of going, when going’. That’s all.  The reason is he wanted to give the easy and understandable way.  Noting in conventional language is quite familiar to everyone, of course.
+The Buddha’s actual instruction is ‘Be aware of going, when going’. That’s all. The reason is he wanted to give the easy and understandable way.  Noting in conventional language is quite familiar to everyone, of course.
 
 **Q27. Venerable Sir, would it not be harmful to one’s  health if one practised too intensively?**
 
@@ -141,15 +138,13 @@ There  are 3 postures of crossed  legged  sitting: the first is the sitting with
 
 No, I don’t. It is not advisable to do so.  It would be wise however not to speak of anything frivolous or unnecessary. One should speak of things necessary, beneficial or doctrinal and in moderation.  Thus, both worldly and spiritual progress can be made.
 
- 
-
 **Q30. Venerable Sir, is it possible to note an object a moment after it takes place?**
 
 No, of course not. Even though you can buy something on credit and pay for it later, no credit is given in the case of Vipassana. So you must note an object the moment it takes place, lest you become attached to it.
 
-**Q31. Venerable Sir, what is a yogi expected to be aware of when sitting  or lying?**
+**Q31. Venerable Sir, what is a yogi expected to be aware of when sitting or lying?**
 
-When sitting, just note ‘sitting, sitting’ continuously. If it is boring and monotonous, since it is a single object, then a prominent touching point should be added to it, noting ‘sitting, touching, sitting, touching’.  Or you can note ‘rising and falling’ of the abdomen instead focusing on the sensation of the air-element characterized by stiffness, movement.  Similarly with lying down.
+When sitting, just note ‘sitting, sitting’ continuously. If it is boring and monotonous, since it is a single object, then a prominent touching point should be added to it, noting ‘sitting, touching, sitting, touching’.  Or you can note ‘rising and falling’ of the abdomen instead focusing on the sensation of the air-element characterized by stiffness, movement. Similarly with lying down.
 
 **Q32. Venerable Sir, what should a yogi do, if or when he or she finds the observation of rising and falling too easy or a gap noticeable between them?**
 
@@ -170,8 +165,6 @@ When your concentration and awareness are not that strong you will find the pain
 
 I often find that women work harder along with strong faith in their teacher and his guidance.  As a result they develop concentration sooner rather than later. This in turn arouses insight knowledge faster.  Thus, I often find women make faster progress in practice than men do. I also found some women who wasted their time with their wandering thoughts and made no progress. There are several reasons why they make little or no progress, such as laziness, old age, poor health and so on.  Of course there are also men and monks who make fast progress in their practice when following the instruction strictly.
 
- 
-
 **Q36. Venerable Sir, is it true that for learned persons, their knowledge  forms an obstacle to the progress in their practice?**
 
 No it is not suitable to say so. It is impossible that one’s knowledge is an obstacle to the practice. As you may know, a highly learned monk called Potthila became an Arahat sooner rather than later by practising under the guidance of a young novice. In view of this, it is clear that one’s knowledge cannot be an obstruction to the progress in the practice.
@@ -186,7 +179,7 @@ Yes, of course. Non-Meditator can only remember to take precepts, to listen to t
 
 If you do not practise, your spiritual aptitude (parami) can, by no means, be formed. In other words even if your parami is fully accumulated, you cannot be enlightened without practice. On the other hand, if you practise, your parami will be formed, which will help you experience Nibbana sooner. If your parami is fully developed you will be enlightened in this very life. Or it will serve at least, as a seed for enlightenment in the future.
 
-**Q39. Venerable Sir, is it realization of impermanence when we see, for  example, a pot break down or of  suffering when we have a pain caused by a thorn in our  flesh?**
+**Q39. Venerable Sir, is it realization of impermanence when we see, for  example, a pot break down or of suffering when we have a pain caused by a thorn in our flesh?**
 
 Sometimes you discern impermanence when you find a pot break down, or suffering when you have a pain caused by a thorn in your flesh. That is actually conventional knowledge of impermanence, which cannot  help you to realise egolessness in an ultimate sense.
 
@@ -198,13 +191,13 @@ Some believe that realisation of egolessness takes place if or when you lose you
 
 **Q41. Venerable Sir, is it true that by realising impermanence one is  supposed to spontaneously appreciate suffering and egolessness?**
 
-Yes indeed. Whatever is impermanent is regarded as suffering and, at the same time, egolessneess.  Actually, they are in an ultimate sense the 5 aggregates constituted of mental and physical phenomena although they have different names.
+Yes indeed. Whatever is impermanent is regarded as suffering and, at the same time, egolessneess. Actually, they are in an ultimate sense the 5 aggregates constituted of mental and physical phenomena although they have different names.
 
-**Q42. Venerable Sir, is it not too soon for one to describe  his or her progress of vipassana  within a month or so?**
+**Q42. Venerable Sir, is it not too soon for one to describe  his or her progress of Vipassana within a month or so?**
 
-No it is not too soon because the Buddha claimed that his method is excellent enough to help one to become anagami or  arahat even within a week. So if someone  states that it is impossible to bring  about enlightenment within a month, no matter how intensively a  yogi practises, then he is blemishing the Buddha’s teaching and hindering people  from practice.
+No it is not too soon because the Buddha claimed that his method is excellent enough to help one to become anagami or  arahat even within a week. So if someone states that it is impossible to bring  about enlightenment within a month, no matter how intensively a  yogi practises, then he is blemishing the Buddha’s teaching and hindering people from practice.
 
-**Q43. Venerable Sir, what types of difficulties have you encountered in your teaching of  vipassana?**
+**Q43. Venerable Sir, what types of difficulties have you encountered in your teaching of Vipassana?**
 
 In 1939 I  started teaching Satipathana vipassana in my native place, Mahasi monastery, Seikkhun village, Shwebo township. At that time, the abbot from the adjacent monastery was not happy with my  teaching. But he dared not condemn it openly because he knew I was highly learned. So he did it in my absence only. There were some monks and lay people who supported him.  However I never acted in response but kept on teaching as usual, whatever condemnation they made, nothing could shake or waver me because I was teaching through my own experience. Later more and more people began to prove my teaching to be true from their own direct experience.
 
@@ -236,7 +229,7 @@ No, it was not by listening to the dhamma talk that some were enlightened. In or
 
 Because they do not observe mental and physical phenomena which really prevail every moment they go, stand, sit see, hear, and so on, they cannot discover mind and body to be impermanent etc.
 
-**Q49. Venerable Sir, is it  true that Magga phala cannot be realised in this day and age however hard we work?**
+**Q49. Venerable Sir, is it true that Magga Phala cannot be realised in this day and age however hard we work?**
 
 Those who have such opinion will fail to practise for sure, let alone the  attainment of Magga and Phala. That view is simply an obstruction to the holy path.
 
@@ -269,7 +262,7 @@ Yes, I can. Among those who first practised under my guidance, my  cousin called
 So he came and asked me what was wrong with his view. I encouraged him saying that nothing was wrong with his view but it was bhanga-ñāna, which helped him to see things passing away immediately.  After a few days he described his  experience of Nibbana, the cessation of mind and body.
 
 
-**Q56. Venerable Sir, what are the  descriptions of  Nibbāna made by those who, you believe, have attained it?**
+**Q56. Venerable Sir, what are the  descriptions of Nibbāna made by those who, you believe, have attained it?**
 
 Some descriptions of Nibbāna made by those who, I believed realised it, are as follows: 
 
@@ -286,7 +279,7 @@ Some descriptions of Nibbāna made by those who, I believed realised it, are as 
 - I found both objects and noting mind disappeared suddenly.
 
 
-**Q57. Venerable sir, by allowing a yogi to listen to the talk on the progress of insights, are you confirming that he or she is a Sothapana (who has reached the first stage of enlightenment)?**
+**Q57. Venerable sir, by allowing a yogi to listen to the talk on the progress of insights, are you confirming that he or she is a Sotāpanna (who has reached the first stage of enlightenment)?**
 
 No, not at all. We never make judgements of one’s spiritual status. When we are sure, however, that a yogi is good enough at practice, we allow him or her to listen to the talk given by one of the meditation teachers, expounding on how the insight knowledge advances up to the enlightenment of magga and phala.  The purpose is to help a yogi  to be able to decide his or her spiritual level, by checking his or her own experience with the talk given.  Moreover, this will offer him or her a chance to  enjoy his or her achievement and give encouragement to work harder for further development. It is not for us to decide what level of enlightenment he or she has attained. So it is a misunderstanding that we confirm that a yogi is Sotāpanna by allowing him or her to listen to that talk.
 
@@ -298,7 +291,7 @@ Yes, it may seem unreasonable from their point of view, but it is very appropria
 
 I believe there are thousands of people who  have  reached within a week, the insight  knowledge distinguishing between mind and body from one’s own experience by practising strictly as instructed and  arousing strong  concentration. And there are also thousands of those who experienced mind and body interacting and  constantly changing; ie. cause and effect, and impermanence, suffering and egolessness of the phenomena. And also there are thousands of people who  are believed to accomplish magga and phala enlightenment after they have developed mature insight knowledge by observing mind and body moment to moment.
 
-**Q60. Venerable Sir, what is a yogi expected to be aware of, when  he or she is walking, noting ‘right foot, left foot,’ or ‘lifting, pushing, and dropping?’**
+**Q60. Venerable Sir, what is a yogi expected to be aware of, when  he or she is walking, noting ‘right foot, left foot,’ or ‘lifting, pushing, and dropping'?**
 
 The sensation in the foot or body of a yogi is what he or she is to be aware of.
 In technical terms, vayo-dhatu, the air-element characterised by stiffness, pressure, motion or vibration; tejo-dhatu, the fire element characterised by temperature; cold, warm or hot; pathavi-dhatu, the earth element characterised by hardness, softness or smoothness. But, especially vayo-dhatu is prominent to observe most of the time.
@@ -315,4 +308,4 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com)  u
 
 ## Version
 
-V 2.1 - 2020-09-15
+V 2.2 - 2020-09-15
