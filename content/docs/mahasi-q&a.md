@@ -9,7 +9,7 @@ bookToc: true
 # Questions and Answers with Mahasi Sayadaw
 
 *Download this text in e-book format: [epub](https://mahasivipassana.com/downloads/epub/Questions%20and%20Answers%20with%20Mahasi%20Sayadaw%20-%20Mahasi%20Sayadaw.epub) | [azw3 (kindle)](https://mahasivipassana.com/downloads/azw3/Questions%20and%20Answers%20with%20Mahasi%20Sayadaw%20-%20Mahasi%20Sayadaw.azw3) | [mobi (kindle old format)](https://mahasivipassana.com/downloads/mobi/Questions%20and%20Answers%20with%20Mahasi%20Sayadaw%20-%20Mahasi%20Sayadaw.mobi) | [md (source)](https://mahasivipassana.com/downloads/md/Questions%20and%20Answers%20with%20Mahasi%20Sayadaw%20-%20Mahasi%20Sayadaw.md)*\
-<sub>***e-book version:*** *2.0 - 2019-12-30*</sub>
+<sub>***e-book version:*** *2.1 - 2020-09-15*</sub>
 
 &nbsp;
 
@@ -17,7 +17,7 @@ The following questions and answers are from the booklet “An Interview with Ma
 
 **Q1. Venerable Mahasi Sayadaw, did you have full faith in Satipatthana Vipassana practice when you started it?**
 
-No, frankly I didn’t.  I did not initially have full faith in it. So I don’t blame anybody for not having faith in practice before they start it. It is only because they have little or no experience with it. In 1939 when i was only eight Vassa(monastic years in term of seniority), much to my curiosity and confusion, a meditation master called Mingon Zetawin Sayadawji teaching. Note going when going; Note standing when standing; Note sitting when sitting; Note lying when lying; Note bending when bending; Note stretching when stretching; Note eating when eating.  I got confused by the fact that there was no object to observe in ultimate sense, such as mind and body, and their impermanence,  suffering and egolessness. But I gave it some consideration and thought: ‘How strange the Sayadawji teaches. I am sure he is highly learned, and is teaching from his own experience. It maybe it is too early for me to decide whether good or bad before I myself practise it’.  Thus, I started to practise with him.
+No, frankly I didn’t.  I did not initially have full faith in it. So I don’t blame anybody for not having faith in practice before they start it. It is only because they have little or no experience with it. In 1939 when i was only eight Vassa (monastic years in term of seniority), much to my curiosity and confusion, a meditation master called Mingon Zetawin Sayadawji was teaching: Note going when going; Note standing when standing; Note sitting when sitting; Note lying when lying; Note bending when bending; Note stretching when stretching; Note eating when eating.  I got confused by the fact that there was no object to observe in ultimate sense, such as mind and body, and their impermanence,  suffering and egolessness. But I gave it some consideration and thought: ‘How strange the Sayadawji teaches, I am sure "he is highly learned, and is teaching from his own experience. It may be too early for me to decide whether it is good or bad before I myself practise it."  Thus, I started to practise with him.
 
 
 
@@ -27,90 +27,90 @@ Satipatthana means mindfulness or remembering constantly. What one is supposed t
 
 **Q3. Venerable Sir, I believe you made very fast progress in your practice arousing one insight knowledge after another. Didn’t you?**
 
-No, I didn’t. I could not appreciate the practice 3-4 weeks after I had started because I did not yet exercise enough effort. Some of the yogis here, however, even though the practice is new to them, develop enough concentration and mindfulness after a week or so, to see impermanence, suffering and insubstantiality to some extent. For me, I could not make any remarkable progress in the practice even after a month or so, let alone 4 or 5 days.  I was then still at zero progress in my practice. This is because my faith in the practice was not strong enough. I did not make enough effort.  At this point, sceptical doubt or Viccikiccha, usually hinders the insight knowledge and Magga Phala from taking place. So it is very important to do away with such doubt. But I was wasting my time by mistaking the sceptical doubt for productive analysis.
+No, I didn’t. I could not appreciate the practice 3-4 weeks after I had started because I did not yet exercise enough effort. Some of the yogis here, however, even though the practice is new to them, develop enough concentration and mindfulness after a week or so, to see impermanence, suffering and insubstantiality to some extent. For me, I could not make any remarkable progress in the practice even after a month or so, let alone 4 or 5 days.  I was then still at zero progress in my practice. This is because my faith in the practice was not strong enough. I did not make enough effort.  At this point, sceptical doubt called Viccikiccha, usually hinders the insight knowledge and Magga Phala from taking place. So it is very important to do away with such doubt. But I was wasting my time by mistaking the sceptical doubt for productive analysis.
 
-I thought it was only a conventional or conceptual way of practice and not in the ultimate sense that one observes objects such as going, bending, stretching, etc. The Venerable Sayadawji taught me that way as a basic training. Perhaps, later would teach me how to distinguish between mind and body, etc. Later on, while continuing this practice, I spontaneously realised.  ‘Wow!  This is  not just  a basic  training, but noting physical and mental behaviours, like going, bending, stretching, etc. are also intermediate  advanced instructions, too. These are all I need to observe. Nothing else’.
+I thought it was only a conventional or conceptual way of practice and not in the ultimate sense that one observes objects such as going, bending, stretching, etc. The Venerable Sayadawji taught me that way as a basic training. Perhaps, later he he would teach me how to distinguish between mind and body, etc. Later on, while continuing this practice, I spontaneously realised: 'Wow!  This is  not just  a basic  training, but noting physical and mental behaviours, like going, bending, stretching, etc. are also intermediate advanced instructions, too. These are all I need to observe. Nothing else.'
 
 **Q4. Venerable Sir, what do we have to note when we start our practice? When going for example, are we supposed to  note the mind and body involved?**
 
-‘Yatha pakathan....vipassana-bhiniveso’
-‘Vipassana stays with any obvious object’ it is said in the subcommentary on the Visuddhimagga. So, one is instructed to start his or her Vipassana by noting any obvious object, i.e. an object easy to note. You should not start with subtle or difficult objects thinking that you will be accomplishing the practice sooner than later. For  example, when a student begins schooling, he should begin with easy lessons. He could not  be given difficult ones. In the  same way, you  should start  with the  easiest observations.  The Buddha teaches the easy way; ‘ when going’ for example, note ‘going’. That’s it.
+'Yatha­-pakatam Vipassana-bhiniveso'
+‘Vipassana stays with any obvious object’ it is said in the subcommentary on the Visuddhimagga. So, one is instructed to start his or her Vipassana by noting any obvious object, i.e. an object easy to note. You should not start with subtle or difficult objects thinking that you will be accomplishing the practice sooner than later. For example, when a student begins schooling, he should begin with easy lessons. He could not be given difficult ones. In the same way, you should start  with the easiest observations. The Buddha teaches the easy way; ‘ when going’ for example, note ‘going’. That’s it.
 
 **Q5. Venerable Sir, is it possible to experience phenomena in an ultimate sense by merely observing ‘going’ for  example, as going in a conceptual way?**
 
-There are 3 kinds of ‘I’. The first is the ‘I’ mistaken for a person or ego in terms of wrong view (ditthi).  The ‘I’ taken as someone important in a sense of pride (māna), is the second one. And the last one is the ‘I’ used in a conversational sense. When we note going as going, the ‘I’ involved is the third kind, which was used even by the Buddha and Arahats, as it has nothing to do with ditthi and mana. So I instruct yogis to note in everyday language, every step they take as ’going.’
+There are 3 kinds of ‘I’. The first is the ‘I’ mistaken for a person or ego in terms of wrong view (ditthi).  The ‘I’ taken as someone important in a sense of pride (māna), is the second one. And the last one is the ‘I’ used in a conversational sense. When we note 'going' as going, the ‘I’ involved is the third kind, which was used even by the Buddha and Arahats, as it has nothing to do with ditthi and māna. So I instruct yogis to note in everyday language, every step they take as ’going.’
 
-Although conventional language is used a yogi is bound to experience phenomena in an ultimate sense beyond the concepts when his concentration gets strong enough. When going, for example, at some point, he or she is bound to experience the intention to take a step, the stiffness, tension or motion involved, and the constant changes. He or she will not find solid form or shape, but the phenomena arising and passing away on their own accord. In due course of time, he or she will not only see objects to observe, but also the concurrent noting mind arising and passing away immediately. If you don’t believe it, just try it. I ensure you that if you follow my instructions, you will indeed experience it for yourself.
+Although conventional language is used, a yogi is bound to experience phenomena in an ultimate sense beyond the concepts when his concentration gets strong enough. When going, for example, at some point, he or she is bound to experience the intention to take a step, the stiffness, tension or motion involved, and the constant changes. He or she will not find solid form or shape, but the phenomena arising and passing away on their own accord. In due course of time, he or she will not only see objects to observe, but also the concurrent noting mind arising and passing away immediately. If you don’t believe it, just try it. I ensure you that if you follow my instructions, you will indeed experience it for yourself.
 
 **Q6. Venerable Sir, did you initiate the observation of ‘rising-falling’ of the abdomen when breathing?**
 
-No, I am not the one who initiated the observation of rising-falling. Actually it was the Buddha who did it, because he taught to observe vayo-dhatu, the air-element included in the 5 aggregates. The rising and falling is constituted of the air-element. Initially, some people questioned the observation of the rising and falling of the abdomen.  However, encouraged by friends they tried later on, they appreciated so much that they even criticised the former nitpickers. I’m sure everyone who tries it, will appreciate it from his or her own experience,  just like the taste of sugar which one can appreciate directly from one’s own experience.
+No, I am not the one who initiated the observation of 'rising-falling'. Actually it was the Buddha who did it, because he taught to observe Vayo-dhatu, the air-element included in the 5 aggregates. The rising and falling is constituted of the air-element. 
+
+Initially, some people questioned the observation of the rising and falling of the abdomen. However, encouraged by friends they tried later on, they appreciated so much that they even criticised the former nitpickers. I’m sure everyone who tries it, will appreciate it from his or her own experience, just like the taste of sugar which one can appreciate directly from one’s own experience.
 
  
 
 **Q7. Venerable Sir, in Vipassana practice is it necessary to label or name an object such as ‘rising–falling’ etc.?**
 
-Names, whether they are in technical term or in ordinary language, are all conceptual and not that important.  What matters most is to be aware of the phenomena involved in an object like ‘rising-falling of the abdomen when breathing’.  In reality, just being aware of an object without labelling  at all, will serve the purpose.
+Names, whether they are in technical term or in ordinary language, are all conceptual and not that important. What matters most is to be aware of the phenomena involved in an object like ‘rising-falling of the abdomen when breathing’. In reality, just being aware of an object without labeling at all, will serve the purpose.
 
-Without labelling, however, it maybe difficult to be  fully  aware of an object precisely and accurately.  Also it will not be easy for the yogi to report his or her experience to the teacher, or for the teacher to give advice to the yogi.  That is the reason the yogi is instructed to label the object when he notes it.  Even then it would be difficult to use technical terms for all objects a yogi encounters.  That is why I instruct the yogi to use ordinary language like ‘rising, falling’ when he or she practises.
+Without labeling, however, it may be difficult to be fully aware of an object precisely and accurately. Also, it will not be easy for the yogi to report his or her experience to the teacher, or for the teacher to give advice to the yogi. That is the reason the yogi is instructed to label an object when he or she notes it.  Even then it would be difficult to use technical terms for all objects a yogi encounters. That is why I instruct the yogi to use ordinary language like ‘rising, falling’ when he or she practises.
 
 **Q8. Venerable Sir, do you always encourage us to label an object?**
 
-No, not always. There are times when you find objects occurring to you so  fast that you have no time to label them each. Then you will have to keep up with them by being merely aware of them moment to moment, without labelling. It is also possible to be aware of 4 or 5 or ten objects spontaneously, although you are able to label only one.  Don’t worry about that. It also serves your purpose.  If you try to label all the objects occurring, you are likely to get exhausted. The point is to be scrupulously aware of objects, i.e. in terms of their characteristics.  In this case, you can also note objects through  the six senses, moment to moment instead of noting routinely.
+No, not always. There are times when you find objects occurring to you so fast that you have no time to label them each. Then you will have to keep up with them by being merely aware of them moment to moment, without labeling. It is also possible to be aware of 4 or 5 or ten objects spontaneously, although you are able to label only one. Don’t worry about that. It also serves your purpose. If you try to label all the objects occurring, you are likely to get exhausted. The point is to be scrupulously aware of objects, i.e. in terms of their characteristics. In this case, you can also note objects through the six senses, moment to moment instead of noting routinely.
 
-**Q9. Venerable Sir, is there any disadvantage by not labeling a meditation  object, like  rising, falling, sitting, standing, doing, lying and so on?**
+**Q9. Venerable Sir, is there any disadvantage by not labeling a meditation object, like rising, falling, sitting, standing, doing, lying and so on?**
 
-Yes, of course, there is some disadvantage in not  labeling an object: inaccurate concurrence of mind and meditative object, superficial awareness, energy  reduction, and so on.
+Yes, of course, there are some disadvantages in not labeling a meditation object: inaccurate concurrence of mind and meditative object, superficial awareness, energy reduction, and so on.
 
 **Q10. Venerable Sir, if noting ‘sitting, sitting’ when one is sitting, serves one’s purpose, why is one instructed to note ‘rising-falling’ when one is sitting?**
 
-Of course, it serves one’s purpose to note ‘sitting, sitting’ when one is sitting.  But if one observes a single object for long, it would become so easy that he may lose balance from little energy and too much concentration.  This would result in sloth and torpor and shallow and weak awareness. That is why one is instructed to observe ‘rising and falling’ as a main object when one is sitting.
+Of course, it serves one’s purpose to note ‘sitting, sitting’ when one is sitting.  But if one observes a single object for long, it would become so easy that he may lose balance from little energy and too much concentration. This would result in sloth and torpor and shallow or weak awareness. That is why one is instructed to observe ‘rising and falling’ as a main object when one is sitting.
 
 **Q11. Venerable Sir, how does a yogi keep the balance between concentration and energy by noting ‘rising and falling’?**
 
-Noting rising and falling demands neither too much concentration as it is not a monotonous kind of object, nor excessive enthusiasm as it is only two types of object to note. Thus the balance can be kept between concentration and energy.
+Noting 'rising and falling' demands neither too much concentration as it is not a monotonous kind of object, nor excessive enthusiasm as it's only two types of object to note. Thus the balance can be kept between concentration and energy.
 
  
 **Q12. Venerable Sir, what is the purpose of rotation of one hour sitting and one-hour walking in practice?**
 
-Too  much walking tends to arouse more energy but less concentration. So one is scheduled to sit and walk alternately for an hour each. Thus, the balance is kept.
+Too much walking tends to arouse more energy but less concentration. So one is scheduled to sit and walk alternately for an hour each. Thus, the balance is kept.
 
-**Q13. Venerable Sir, if one notes rising and  falling will one be  expected to be solely aware of the abdomen rising and falling?**
+**Q13. Venerable Sir, if one notes 'rising and falling' will one be expected to be solely aware of the abdomen itself rising and falling?**
 
-Yes indeed, at first one is plainly aware of the  rising and falling of abd itself. There is no problem  in that. Enlightenment of ‘magga phala’ is not expected in the beginning. Even Nama-rupa-pariccheda-ñana (the first and foremost insight distinguishing between mind and body) cannot be gained.  In the beginning of practice, one has to work to keep the hindrances (wandering
-thoughts) away by noting them closely. Only when the hindrances are kept away for quite a long time (Vikkhambhana) and the  mind is free of them will a yogi start to feel the true phenomenon in the rising and falling of the abdomen, such as stiffness, vibration and so on, beyond the plain  abdomen.
+Yes indeed, at first one is plainly aware of the rising and falling of the abdomen itself. There is no problem in that. Enlightenment of ‘magga phala’ is not expected in the beginning. Even Nama-rupa-pariccheda-ñana (the first and foremost insight distinguishing between mind and body) cannot be gained. In the beginning of practice, one has to work to keep the hindrances (wandering
+thoughts) away by noting them closely. Only when the hindrances are kept away for quite a long time (Vikkhambhana) and the  mind is free of them will a yogi start to feel the true phenomenon in the rising and falling of the abdomen, such as stiffness, vibration and so on, beyond the plain abdomen.
 
-**Q14. Venerable Sir, what is the  yogi  expected to be  aware of when standing?**
+**Q14. Venerable Sir, what is the  yogi  expected to be aware of when standing?**
 
-When standing just note continuously ‘standing, standing’. If it becomes monotonous just  because it is a  single object, then a prominent  touching  point  should be  added to it.  Note as standing, touching,  standing,  touching, or note rising and falling of the abdomen instead.
+When standing just note continuously ‘standing, standing’. If it becomes monotonous just because it is a single object, then a prominent touching point should be added to it.  Note as 'standing, touching, standing, touching' or note rising and falling of the abdomen instead.
 
-**Q15. Venerable Sir, what  is the temperature element, or unpleasant  sensation (dukkha) when a yogi is  aware of cold or heat?**
+**Q15. Venerable Sir, what is the temperature element, or unpleasant sensation (dukkha) when a yogi is aware of cold or heat?**
 
-When a yogi is  simply aware of the heat, that is the experience of temperature  element. If he or  she  finds the heat uneasy or uncomfortable, that is  experience of Dukkha.  Similarly  with cold wind or  water, it can be temperature, or unpleasant sensation accordingly.
+When a yogi is simply aware of the heat, that is the experience of temperature  element. If he or she finds the heat uneasy or uncomfortable, that is experience of Dukkha. Similarly with cold wind or  water, it can be temperature, or unpleasant sensation accordingly.
  
-**Q16. Venerable sir how  does a yogi experience  apo-dhātu, the  water  element?**
+**Q16. Venerable sir how does a yogi experience apo-dhātu, the  water element?**
 
-Actually, the water element is untouchable, but a yogi  can experience  as  wetness being  connected with other elements.  So when one feels tears, phlegm, saliva, sweat flowing  down, the  apo-dhātu, water element can be  experienced as liquidity or wetness in any part of the body.
+Actually, the water element is untouchable, but a yogi can experience it as wetness being connected with other elements.  So when one feels tears, phlegm, saliva, sweat flowing down, the apo-dhātu, water element can be experienced as liquidity or wetness in any part of the body.
 
 **Q17.  Venerable Sir, what does a yogi need to do to see the phenomena clearly?**
 
-At night, one cannot see things clearly. But if one uses a torchlight, things  can be seen clearly in the  spotlight.  Similarly, concentration can be compared as  the spotlight, through which one can see phenomena clearly: the manner of rising and  falling  tightness, movements, etc.
+At night, one cannot see things clearly. But if one uses a torchlight, things can be seen clearly in the spotlight.  Similarly, concentration can be compared as the spotlight, through which one can see phenomena clearly: the manner of rising and falling, tightness, movements, etc.
 
-**Q18.  Venerable Sir, why do you instruct yogis to  start their practice with noting ‘rising and falling’?**
+**Q18.  Venerable Sir, why do you instruct yogis to start their practice with noting ‘rising and falling’?**
 
 It will take time to develop concentration if you note an object too varied, or too subtle, while it can be aroused faster if you observe an obvious and limited object. That is why we instruct yogis to start their practice with watching the abdomen characterised by stiffness, pressure, vibration which are identical with vayo-dhatu, the air-element.
 
 **Q19. Venerable Sir, are there only two objects to note, ‘rising and falling?**
 
-Yes, one is instructed to note initially only two objects, ‘rising and falling’.  He is however instructed to note thoughts also if they occur, and then to go back to the main object. Similarly with pain.  He should go back to the main object when the pain fades away or after a moderate amount of time even if the pain persists. The same is true with bending and stretching of limbs, or changing postures.
+Yes, one is instructed to note initially only two objects, ‘rising and falling’. He is however instructed to note thoughts also if they occur, and then to go back to the main object. Similarly with pain. He should go back to the main object when the pain fades away or after a moderate amount of time even if the pain persists. The same is true with bending and stretching of limbs, or changing postures.
 
 He should note each and every activity or behaviour involved in it, and then go back to the main object.  If one sees or hears something predominant, one must note it as it is, that is as seeing, as hearing and so on.  After noting them 3 or 4 times, one must go back to the main object with full energy.
 
- 
-
 **Q20. Venerable Sir, is it possible to bring about insight knowledge by observing the objects like going or ‘right step, left step’ which are known in common sense to everybody?**
 
-You know the Ana-panna, the observation of in and out breath. The object inhalation and exhalation seems not to be observed as it’s known by common sense to all.  But no one dares to criticize like that. In the same way, it makes no sense if you  criticize that mindfulness, concentration and insight knowledge cannot be  developed by noting  ‘right, left’ which is compared with military training. Military training is taken for the purpose of sport or health while the noting is used to develop mindfulness, concentration and insight knowledge. If you reject this part of the practice, that will mean you are rejecting the teaching of the Buddha.
+You know the Ana-pana, the observation of in and out breath. The object inhalation and exhalation seems not to be observed as it’s known by common sense to all.  But no one dares to criticize like that. In the same way, it makes no sense if you  criticize that mindfulness, concentration and insight knowledge cannot be  developed by noting ‘right, left’ which is compared with military training. Military training is taken for the purpose of sport or health while the noting is used to develop mindfulness, concentration and insight knowledge. If you reject this part of the practice, that will mean you are rejecting the teaching of the Buddha.
 
 **Q21. Venerable Sir, what does it mean by the word ‘noting’?**
 
