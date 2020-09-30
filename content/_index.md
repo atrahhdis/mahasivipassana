@@ -48,7 +48,7 @@ People interested in insight meditation, are highly suggested to [become aware](
 &nbsp;
 ## Note
 
-[The person](https://atrahhdis.github.io/) behind [MVMR]({{< ref "_index.md" >}}) is far from being considered an expert in Mahasi Vipassana or meditation practice in general and thus is unable to provide any guidance or advice.
+[The person](https://ahtrahddis.github.io/) behind [MVMR]({{< ref "_index.md" >}}) is far from being considered an expert in Mahasi Vipassana or meditation practice in general and thus is unable to provide any guidance or advice.
 
 This website was created **by a beginner** and is nothing more than a "personal notebook" published online, aiming to be a helpful resource for other people around the world with the same interest in insight meditation.
 
