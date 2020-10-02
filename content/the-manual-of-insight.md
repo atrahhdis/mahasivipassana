@@ -72,11 +72,9 @@ The purpose of this text collection is not to be read instead of or before the *
 &nbsp;
 ### George Haas Podcast
 
-[George Haas](https://www.mettagroup.org/about/) has created a 47 episode (in fact 45, as 2 of them deal with a different subject) podcast about (a part of ) the "Manual of Insight" named [Deepening Your Practice (DYP)](https://www.mettagroup.org/podcast/2016/6/15/episode-1-manual-of-insight-introduction). 
+[George Haas](https://www.mettagroup.org/about/) has created a 47 episode (in fact 45, as 2 of them deal with a different subject) podcast about (a part of ) the "Manual of Insight" named [Deepening Your Practice (DYP)](https://anchor.fm/mxa-with-george-haas). 
 
-**Note:** George Haas (a student of Shinzen Young) does not teach Mahasi Vipassana. His approach is based on a mixture of Metta/Vipassana techniques. His podcast deals with both the "Manual of Insight" book analysis and his own meditation method. 
-
-At the end of each lecture you may find meditation instructions that are not related with Mahasi Sayadaw's famous noting technique.
+**Note:** George Haas (a student of Shinzen Young) does not teach Mahasi Vipassana. His approach is based on a mixture of Metta/Vipassana. His podcast deals with both the "Manual of Insight" book analysis and his own meditation technique.
 
 
 
