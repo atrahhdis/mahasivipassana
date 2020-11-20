@@ -15,8 +15,6 @@ bookToc: false
 
 - [Introduction to Meditation: How to Meditate](https://www.youtube.com/playlist?list=PL603BD0B03E12F5A1) by [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org/p/about.html) 
 
-- [Vipassana Meditation Instruction](https://www.youtube.com/watch?v=Vt44hvedW7Y) by Sayadaw U Zatila
-
 &nbsp;
 ## Generic (posture, flexibility, pain etc.)
 
