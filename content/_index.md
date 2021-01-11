@@ -15,7 +15,7 @@ Here you will find all the required information in order to learn the practice o
 
 ## How to use this website
 
-It is highly suggested to read all related Mahasi Sayadaw's text offered on MVMR, as this will help you understand the technique in depth. 
+It is highly suggested to read all related Mahasi Sayadaw's texts offered by MVMR, as this will help you understand the technique in depth. 
 
 However, if you want to learn the basics in order to get going with your practice, you can:
 
