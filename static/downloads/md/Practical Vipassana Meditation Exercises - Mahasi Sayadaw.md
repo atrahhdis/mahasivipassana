@@ -1,4 +1,4 @@
-;q# Preface
+# Preface
 
 The following is a talk by the Ven Mahāsī Sayādaw Agga Mahā Paṇḍita U Sobhana given to his disciples on their induction into Vipassanā Meditation at Sāsana Yeikthā Meditation Centre, Yangon, Myanmar. It was translated from the Burmese by U Nyi Nyi.
 
