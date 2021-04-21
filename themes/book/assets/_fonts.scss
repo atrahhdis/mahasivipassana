@@ -2,18 +2,21 @@
 @font-face {
   font-family: CharisSILW;
   src: url('fonts/CharisSIL-R.woff');
+  font-display: swap;
 }
 /* use Charis SIL - Italic in .woff format */
 @font-face {
   font-family: CharisSILW;
   font-style: italic;
   src: url('fonts/CharisSIL-I.woff');
+  font-display: swap;
 }
 
 @font-face {
 	font-family: CharisSILW;
 	font-weight: bold;
 	src: url('fonts/CharisSIL-B.woff');
+	font-display: swap;
 }
 
 @font-face {
@@ -21,13 +24,7 @@
 	font-weight: bold;
 	font-style: italic;
 	src: url('fonts/CharisSIL-BI.woff');
-}
-
-@font-face {
-	font-family: CharisSILW;
-	font-weight: bold;
-	font-style: italic;
-	src: url('fonts/CharisSIL-BI.woff');
+	font-display: swap;
 }
 
 /* roboto-mono-regular - latin */
@@ -36,6 +33,7 @@
   font-style: normal;
   font-weight: 400;
   src: url('fonts/Roboto-Mono-regular.woff');
+  font-display: swap;
 }
 
 
