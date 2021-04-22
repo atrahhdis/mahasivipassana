@@ -12,7 +12,7 @@ bookToc: false
 
 MVMR was created by a **beginner**. It is the result of an effort to gather together as much information as possible regarding the technique of **Mahasi Vipassana**, aiming to make it a useful resource for other practitioners around the world.
 
-Please note that this is a website [by a secular Buddhist](https://ahtrahddis.github.io/) who, apart from Mahasi Sayadaw's teachings, is heavily influenced by the [Pragmatic Dharma Movement](https://ahtrahddis.github.io/texts/pragmatic-dharma/what-is-pragmatic-dharma/), [Sayadaw U Tejaniya's teachings](https://ashintejaniya.org/), Soto Zen and more..
+Please note that this is a website created [by a secular Buddhist](https://ahtrahddis.github.io/info) who is not affiliated with the Mahasi or any other relevant lineages.
 
 ## Website software
 
