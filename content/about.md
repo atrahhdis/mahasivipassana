@@ -12,7 +12,7 @@ bookToc: false
 
 MVMR was created by a **beginner**. It is the result of an effort to gather together as much information as possible regarding the technique of **Mahasi Vipassana**, aiming to make it a useful resource for other practitioners around the world.
 
-Please note that this is a website created [by a secular Buddhist](https://ahtrahddis.github.io/info) who is not affiliated with the Mahasi or any other relevant lineages.
+Please note that this is a website created [by a secular Buddhist](https://ahtrahddis.eu/info) who is not affiliated with the Mahasi or any other relevant lineages.
 
 ## Website software
 
